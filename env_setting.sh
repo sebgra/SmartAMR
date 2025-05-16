@@ -8,16 +8,16 @@ check_command_exists() {
 # Check for conda
 if check_command_exists "mamba"; then
   echo "Mamba is installed -> Setting up environment"
-  mamba create -n smartamr python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost
-  mamba activate smartamr
+  mamba create -n smartamrX python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost pytorch
+  mamba activate smartamrX
   python ./module_checker.py
 
 else
   echo "Mamba is not installed -> Checking for conda"
   if check_command_exists "conda"; then
     echo "Conda is installed -> Setting up environement"
-    conda create -n smartamr python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost
-    conda activate smartamr
+    conda create -n smartamrX python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost pytorch
+    conda activate smartamrX
     python ./module_checker.py
 
   else
@@ -27,8 +27,12 @@ else
 
     echo "Setting up environment";
     mamba init;
-    mamba create -n smartamr python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost
-    mamba activate smartamr
+    mamba create -n smartamrX python=3.11 numpy scipy keras tensorflow pandas biopython matplotlib seaborn scikit-learn xgboost pytorch
+    mamba activate smartamrX
     python ./module_checker.py
   fi
 fi
+
+
+# If removal nedded : 
+# mamba env remove -n smartamrX -y or  conda env remove -n smartamrX -y
