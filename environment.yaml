@@ -1,0 +1,17 @@
+name: smartamrX
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - ipykernel
+  - seaborn
+  - matplotlib
+  - xgboost
+  - scikit-learn
+  - pytorch
+  - keras
+  - pandas
+  - numpy
+  - biopython
+  - pip:
+    - fair-esm
