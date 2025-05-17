@@ -1,0 +1,4203 @@
+Unspecified	11476
+Escherichia coli	791
+Klebsiella pneumoniae	738
+Peromyscus fraterculus	658
+Pseudomonas aeruginosa	472
+Escherichia coli C	346
+Ralstonia solanacearum	287
+Varecia variegata	286
+Lactococcus lactis	271
+Ciona robusta	257
+Staphylococcus aureus	240
+porcine	198
+Pseudomonas aeruginosa PAO1	173
+Hydrochoerus hydrochaeris	148
+Salmonella sp.	148
+Salmonella enterica	133
+Acinetobacter baumannii	129
+Streptococcus thermophilus	128
+Homo sapiens	124
+Gopherus morafkai	119
+Salmonella enterica subsp. enterica serovar Typhimurium	119
+Rheinheimera sp. BAL341	110
+Austrosimulium ungulatum	108
+Synechococcus	102
+Dipodomys merriami	101
+Enterococcus faecalis	98
+Escherichia coli K-12 MG1655	94
+Propithecus coquereli	84
+Vibrio lentus	83
+Pseudomonas sp.	82
+Escherichia coli K-12	81
+Salmonella enterica subsp. enterica serovar Enteritidis	80
+Erwinia amylovora	76
+Vibrio crassostreae	76
+Petroica australis	73
+Vibrio parahaemolyticus	72
+Escherichia sp.	68
+Lemur catta	68
+Listeria monocytogenes	67
+Pseudomonas putida KT2440 and Paw85	67
+Vibrio cholerae	66
+Marmota flaviventris	65
+Staphylococcus sp.	65
+Eulemur fulvus collaris	64
+Campylobacter jejuni	62
+Flavobacterium sp. BAL314	62
+Flavobacterium columnare	61
+Propionibacterium acnes	59
+Salmonella enterica subsp. enterica serovar Enteritidis PT1	58
+Escherichia coli O157:H7	56
+Vibrio breoganii	53
+Apis mellifera linguistica	52
+Pseudomonas aeruginosa PA14	52
+Eulemur coronatus	51
+Salmonella enterica serovar Typhimurium LT2 - pKJK5	50
+Stenotrophomonas maltophilia	48
+Aeromonas hydrophila	46
+Bacillus cereus	46
+Vibrio cyclitrophicus	43
+Mycobacterium sp.	41
+Salmonella enterica subsp. enterica serovar Typhi	41
+Sulfolobus islandicus	41
+Yersinia enterocolitica	41
+Yersinia pestis	39
+Cutibacterium acnes	37
+Shigella sp.	37
+Vibrio splendidus	36
+Synechococcus sp.	35
+Clostridium perfringens	34
+Helicobacter pylori	34
+Peromyscus boylii; specimen_voucher: UMNH:Mamm:44828; Tissue Sample Catalog Number: ASUVTC000569	34
+Vibrio sp.	34
+Shigella flexneri	33
+Vibrio alginolyticus	33
+Yersinia pestis EV76-CN	33
+Moraxella catarrhalis	32
+Brevibacterium aurantiacum SMQ-1335	31
+Enterobacter cloacae	31
+Escherichia coli str. K-12 substr. MG1655	30
+Pteropus tonganus	29
+Vibrio harveyi BAA-1116	29
+Enterococcus sp.	28
+Dipodomys merriami; specimen_voucher: NEON01IHV; Tissue Sample Catalog Number: D00000165368	27
+Proteus mirabilis	27
+Bacillus subtilis	26
+Klebsiella sp.	26
+Pectobacterium atrosepticum DSM18077	26
+Bacteroides intestinalis DSM 108646	25
+Cronobacter sakazakii	25
+Enterococcus faecium	25
+Candidatus Pelagibacter ubique HTCC1062	24
+Klebsiella sp. M5a1	24
+Caulobacter vibrioides CB15	23
+Gallus gallus	23
+Halorubrum sp.	23
+Aeromonas salmonicida	22
+Escherichia coli B	22
+Staphylococcus carnosus TM300	22
+Staphylococcus pseudintermedius	21
+Varecia rubra	21
+Xanthomonas oryzae pv. oryzae	21
+Bacillus subtilis BEST7003	20
+Flavobacterium sp. LMO9	20
+monkey	20
+Salmonella enterica subsp. enterica	20
+Yersinia pseudotuberculosis	20
+Aeromonas sp.	19
+Mycolicibacterium smegmatis MC2 155	19
+Apis mellifera carnica	18
+Citrobacter freundii	18
+Klebsiella michiganensis	18
+Mycolicibacterium smegmatis	18
+pig	18
+Achromobacter xylosoxidans I2BC	16
+Candidatus Pelagibacter sp. HTCC7211	16
+Lactococcus lactis IL1403	16
+Pseudomonas syringae pv. actinidiae	16
+Salmonella enterica subsp. enterica serovar Infantis	16
+Serratia marcescens	16
+Staphylococcus epidermidis	16
+Bacillus anthracis	15
+Campylobacter jejuni NCTC12662	15
+Flavobacterium sp. LMO6	15
+Klebsiella quasipneumoniae K6 (ATCC 700603)	15
+Achromobacter sp.	14
+Aeromonas hydrophila BIOTECH 10089	14
+Brucella abortus S19	14
+Clostridium difficile	14
+Escherichia coli rfaC	14
+Flavobacterium psychrophilum 950106-1/1	14
+Prevotella sp.	14
+Providencia stuartii	14
+Pseudomonas fluorescens	14
+Ruegeria pomeroyi DSS-3	14
+Salmonella enterica subsp. enterica serovar Gallinarum	14
+Salmonella enterica subsp. enterica serovar Typhi strain BRD948	14
+Brevundimonas pondensis LVF1	13
+Cellulophaga sp. HaHaR_3_176	13
+Escherichia coli MG1655 + F912	13
+Pseudomonas syringae	13
+Ralstonia pseudosolanacearum	13
+Shigella sonnei	13
+Synechococcus sp. WH 7803	13
+Xanthomonas sp.	13
+Acinetobacter baumannii (Acibaumc1)	12
+Dickeya solani	12
+Enterococcus faecalis ATCC 29212	12
+Escherichia coli K514	12
+Kummerowia striata	12
+Lactobacillus plantarum	12
+Lactococcus lactis subsp. lactis bv. diacetylactis	12
+Mycobacterium tuberculosis; Mycobacterium smegmatis	12
+Mycolicibacterium aichiense	12
+Pseudomonas aeruginosa ATCC 27853	12
+Ralstonia solanacearum Race 3, Biovar 1	12
+Stenotrophomonas maltophilia B28B	12
+Synechococcus sp. MW02	12
+Acinetobacter sp.	11
+Burkholderia cenocepacia	11
+Escherichia coli BL21(DE3)	11
+Peromyscus boylii; specimen_voucher: UMNH:Mamm:44823; Tissue Sample Catalog Number: ASUVTC000568	11
+Pseudomonas aeruginosa ST773 (NDM-1-producing)	11
+Salmonella enterica subsp. enterica serovar Typhimurium BAA-2828 (MHM112)	11
+Serratia marcescens LVF3	11
+Streptococcus suis	11
+Vibrio anguillarum A023	11
+Xanthomonas arboricola pv. juglandis IVIA 1317-1a	11
+Eulemur flavifrons	10
+Fusobacterium nucleatum	10
+Klebsiella pneumoniae ATCC 700603	10
+Peromyscus truei; specimen_voucher: UMNH:Mamm:44820; Tissue Sample Catalog Number: ASUVTC000566	10
+Polaribacter sp. HaHaR_3_91	10
+Pseudanabaena sp.	10
+Pseudomonas aeruginosa PAK	10
+Salmonella enterica subsp. enterica serovar Enteritidis ST11	10
+Vibrio anguillarum strain BA35	10
+Bacillus thuringiensis	9
+bird	9
+Bordetella avium	9
+Caulobacter vibrioides	9
+Erwinia pyrifoliae	9
+Escherichia coli IJ1862	9
+Escherichia coli O18ac:K1:H7 ColV+	9
+fox	9
+Haloarcula californiae	9
+Lactococcus lactis SMQ-86	9
+Paenibacillus larvae NRRL 2605	9
+Pseudomonas syringae pv. avii	9
+Salmonella enterica serotype Enteritidis E2331	9
+Salmonella enterica subsp. enterica serovar Typhimurium ATCC 14028	9
+Staphylococcus aureus ATCC 25923	9
+Staphylococcus epidermidis F12	9
+Staphylococcus xylosus M1997-2/10	9
+Streptococcus mitis	9
+Sulfolobales	9
+Achromobacter xylosoxidans	8
+Bacillus subtilis subsp. subtilis str. 168	8
+Bacteroides thetaiotaomicron DA638	8
+Bifidobacterium asteroides	8
+Candidatus Pelagibacter sp H2P3alpha	8
+Candidatus Pelagibacter sp. HTCC1062	8
+Clostridioides difficile	8
+Enterovibrio norvegicus	8
+Erwinia amylovora 1/79Sm	8
+Escherichia coli ATCC 25922	8
+Faecalibacterium prausnitzii	8
+Klebsiella aerogenes	8
+Klebsiella pneumoniae 1101160 (ATCC BAA-2342)	8
+Klebsiella pneumoniae JHCK1 (BEI NR-48976)	8
+Klebsiella pneumoniae KP13	8
+Lactobacillus paracasei	8
+Lactococcus lactis subsp. cremoris	8
+Pantoea agglomerans	8
+Pasteurella multocida	8
+Pectobacterium sp.	8
+Rhodococcus equi	8
+Salmonella enterica subsp. enterica serovar Heidelberg	8
+Salmonella enterica subsp. enterica serovar Kentucky	8
+Salmonella enterica subsp. enterica serovar Pullorum	8
+Streptococcus agalactiae	8
+Streptomyces sp.	8
+Thermus thermophilus HB8	8
+Vibrio harveyi	8
+Acinetobacter pittii	7
+Alces alces	7
+Bacillus megaterium	7
+Bacillus pumilus	7
+Burkholderia pseudomallei	7
+Caulobacter crescentus	7
+Escherichia coli BW25113	7
+Escherichia coli O177	7
+Flavobacterium sp. LMO8	7
+Geobacillus thermodenitrificans	7
+Klebsiella pneumoniae KBN10P05309 (clinical isolate)	7
+Klebsiella pneumoniae MH258 (clinical isolate)	7
+Lactobacillus brevis	7
+Lactobacillus helveticus	7
+Pectobacterium carotovorum	7
+Pseudomonas aeruginosa PACL	7
+raccoon	7
+Salmonella enterica serovar Enteritidis	7
+Salmonella enterica subsp. enterica serovar Paratyphi A	7
+Shewanella	7
+Vibrio campbellii BB120	7
+Vibrio cholerae 2095	7
+Vibrio sp. F12	7
+Vibrio sp. sp. F13	7
+Xanthomonas arboricola	7
+Acinetobacter baumannii (Acibaumc2)	6
+Acinetobacter baumannii 1137	6
+Aeromonas salmonicida subsp. salmonicida	6
+Agrobacterium tumefaciens C58	6
+Bacillus pumilus BL8	6
+bacterium	6
+Bacteroides ovatus DA687	6
+Brucella sp.	6
+Caulobacter crescentus NA1000	6
+Cellulophaga baltica #18	6
+Clostridium_AQ innocuum DA664	6
+Dickeya solani DSM28711	6
+Enterobacter cloacae complex	6
+Enterococcus faecalis 6	6
+Erwinia sp.	6
+Escherichia coli ATCC 35150	6
+Escherichia coli BL21	6
+Flavobacterium psychrophilum 020612-2/1	6
+Flavobacterium psychrophilum FPS-F15	6
+Haloarcula hispanica	6
+Klebsiella pneumoniae 1210	6
+Klebsiella variicola	6
+Kosakonia cowanii	6
+Mammaliicoccus sciuri C6854	6
+Maribacter forsetii DSM18668	6
+Microcystis aeruginosa	6
+Mycolicobacterium smegmatis mc^2 155	6
+Parabacteroides merdae DA116	6
+Paracoccaceae bacterium strain FZCC0023	6
+Parasynechococcus marenigrum WH 8102	6
+Pseduomonas aeruginosa	6
+Pseudomonas syringae pv. actinidiae Psa 889	6
+Pseudomonas syringae pv. porri LMG 28495	6
+Salmonella enterica serotype Enteritidis P132344	6
+Salmonella enterica subsp. enterica serovar Paratyphi C	6
+Salmonella enterica subsp. enterica serovar Typhimurium 4/74	6
+Salmonella enterica subsp. enterica serovar Typhimurium ST19	6
+Serratia sp. ATCC 39006	6
+Sinorhizobium meliloti	6
+Staphylococcus capitis	6
+Streptococcus pyogenes MGAS315	6
+Synechococcus sp. CB0101	6
+Synechococcus sp. PCC 7002	6
+Vibrio anguillarum BA35	6
+Vibrio cholerae O1	6
+Vibrio parahaemolyticus ATCC 17802	6
+Vibrio parahaemolyticus M2413	6
+Xanthomonas albilineans CFBP2523	6
+Xanthomonas arboricola pv. pruni strain Xcp1	6
+Xanthomonas campestris pv. campestris	6
+Xanthomonas citri	6
+Acinetobacter baumannii 703	5
+Acinetobacter baumannii AB5075	5
+Acinetobacter johnsonii	5
+Aeromonas hydrophila ATCC 7966	5
+Bacillus megaterium Km	5
+Bacillus sp.	5
+Bacteroides caccae DA679	5
+Bacteroides fragilis BL19	5
+Bacteroides koreensis HM3	5
+Bifidobacterium pseudocatenulatum DA667	5
+Bordetella bronchiseptica ATCC 10580	5
+Brochothrix thermosphacta	5
+Brucella abortus 141	5
+Burkholderia gladioli	5
+Burkholderia glumae	5
+Butyrivibrio fibrisolvens DSM 3071	5
+Candidatus Pelagibacter sp. FZCC0015	5
+Clostridium perfringens JCM 1290	5
+Dickeya solani MK10	5
+Dinoroseobacter shibae DFL12	5
+Edwardsiella ictaluri	5
+Enterobacter hormaechei	5
+Enterobacter hormaechei subsp. xiangfangensis	5
+Erwinia amylovora TS3128	5
+Escherichia coli C600	5
+Escherichia coli K12	5
+Escherichia coli MG1655 K-12	5
+Escherichia coli MG1655 K12	5
+Escherichia coli O157	5
+Escherichia coli O18:K1:H7	5
+Escherichia fergusonii DO07	5
+Halorubrum coriense	5
+Klebsiella oxytoca; Klebsiella penumoniae	5
+Klebsiella pneumoniae ATCC 13883	5
+Klebsiella pneumoniae ATCC 33495	5
+Klebsiella pneumoniae ATCC 43816	5
+Klebsiella pneumoniae B5055	5
+Klebsiella pneumoniae KH43	5
+Klebsiella pneumoniae ST13-OXA48	5
+Klebsiella pneumoniae ST512-KPC3	5
+Klebsiella sp. 2609	5
+Klebsiella sp. CFI_131-KPC-2	5
+Lactococcus lactis DGCC11032	5
+Lactococcus lactis SMQ-404	5
+Listeria	5
+Mammaliicoccus vitulinus C5817	5
+Microbacterium sp.	5
+Microcystis sp.	5
+mink	5
+Mycolicobacterium smegmatis mc2 155	5
+Pectobacterium brasiliense 35.2	5
+Pectobacterium carotovorum subsp. carotovorum 27	5
+Pectobacterium sp. and Dickeya sp.	5
+Phocaeicola dorei DA26	5
+Polaribacter sp. R2A056_3_33	5
+Pseudomonas aeruginosa strain PAO1 deltafliF	5
+Pseudomonas putida KT2440	5
+Pseudomonas syringae 7C	5
+Pseudomonas syringae CC0094	5
+Rhodobacteraceae bacterium FZCC0023	5
+Rhodobacteraceae bacterium FZCC0040	5
+Riemerella anatipestifer	5
+Riemerella sp.	5
+Roseobacter sp. FZCC0023	5
+Salmonella enterica serotype Typhimurium LT2	5
+Salmonella enterica subsp. enterica serovar Enteritidis ATCC 13076	5
+Salmonella enterica subsp. enterica serovar Paratyphi B	5
+Salmonella enterica subsp. enterica serovar Typhimurium ATCC 13311	5
+Salmonella typhimurium	5
+Shigella flexneri KCTC 22192	5
+Staphylococcus	5
+Staphylococcus epidermidis LM1680	5
+Stenotrophomonas maltophilia D1585	5
+Streptococcus thermophilus ST47795	5
+Streptococcus thermophilus ST67009	5
+Tadarida brasiliensis	5
+Vibrio alginolyticus NBRC 15630 = ATCC 17749	5
+Vibrio cyclitrophicus 10N.239.311.C11	5
+Vibrio cyclitrophicus 10N.286.52.F6	5
+Vibrio parahaemolyticus O22C	5
+Vibrio tasmaniensis	5
+Vibrio vulnificus	5
+Xanthomonas perforans	5
+Xanthomonas vesicatoria	5
+Xylella fastidiosa	5
+Acinetobacter baumannii 02	4
+Alteromonas macleodii str. 'Balearic Sea AD45'	4
+Bacillus cereus ATCC 27348	4
+Bacillus subtilis KACC 17797	4
+Bacillus subtilis KCCM12150	4
+Bacillus thuringiensis serovar kurstaki	4
+Bacteroides fragilis	4
+Bacteroides ovatus DA735	4
+Bacteroides salyersiae BG8	4
+Brucella abortus	4
+Burkholderia pseudomallei BP82	4
+Caulobacter segnis CBR1	4
+Clostridium botulinum D str. 1873	4
+Clostridium sp.	4
+Clostridium_AP sp000509125 DA266	4
+Cronobacter sakazakii ATCC 29544	4
+Curtobacterium sp.	4
+Cutibacterium acnes 05-A-026	4
+Elizabethkingia anophelis	4
+Enterobacter sp.	4
+Erwinia amylovora IVIA 1892.1	4
+Escherichia coli APEC 45	4
+Escherichia coli CFT073	4
+Escherichia coli K12 substrain MG1655	4
+Escherichia coli LF82	4
+Escherichia coli MC1061	4
+Escherichia coli O111	4
+Escherichia coli UPEC	4
+Flavobacterium psychrophilum FPS-D10	4
+Klebsiella oxytoca	4
+Klebsiella pneumoniae 1100975 (ATCC BAA-2472)	4
+Klebsiella pneumoniae ST11-VIM1	4
+Klebsiella pneumoniae ST16-OXA48	4
+Klebsiella sp. 18	4
+Klebsiella sp. 46704	4
+Klebsiella sp. 51851	4
+Klebsiella sp. CFI_014_VIM4	4
+Klebsiella sp. NCTC 7427	4
+Lacticaseibacillus rhamnosus LMG 23551	4
+Lactobacillus delbrueckii	4
+Lactobacillus fermentum	4
+Lactobacillus gasseri	4
+Lactococcus cremoris 3107	4
+Lactococcus cremoris NZ9000	4
+Lactococcus garvieae	4
+Leuconostoc pseudomesenteroides LN02	4
+Listeria innocua	4
+Mammaliicoccus vitulinus C6867	4
+Methanosarcinales	4
+methicillin-resistant Staphylococcus aureus	4
+Methylophilales_sp._H5P1	4
+Microcystis aeruginosa FACHB524	4
+Mycobacterium smegmatis mc2155	4
+Mycobacteroides abscessus	4
+Mycolicibacterium smegmatis mc(2)155	4
+Pectobacterium atrosepticum	4
+Pectobacterium atrosepticum DSM 30186	4
+Phocaeicola massiliensis DA127	4
+Pseudoalteromonas sp.	4
+Pseudomonas aeruginosa 573	4
+Pseudomonas aeruginosa F002	4
+Pseudomonas alcaligenes T3	4
+Pseudomonas syringae pv. phaseolicola Cuneo #6_18	4
+Pseudomonas taiwanensis	4
+Ralstonia solanacearum PS025	4
+Ralstonia solanacearum T379	4
+Rhizogenic Agrobacterium biovar 1 ST15.13/040	4
+Roseobacter denitrificans OCh114	4
+Salinibacter ruber M8	4
+Salmonella enterica QH	4
+Salmonella enterica subsp. enterica serovar Enteritidis P125588	4
+Salmonella enterica subsp. enterica serovar Typhimurium ST313	4
+Salmonella enteritidis	4
+Serratia sp.	4
+Shigella flexneri 2a	4
+Staphylococcus aureus ATCC 29213	4
+Staphylococcus aureus subsp. aureus RN4220	4
+Staphylococcus epidermidis NCC 100655	4
+Staphylococcus ureilyticus ATCC49330	4
+Streptococcus equi 4047	4
+Streptococcus oralis	4
+Streptococcus parauberis KCTC_11537	4
+Streptococcus pneumoniae	4
+Streptococcus pyogenes	4
+Streptococcus pyogenes Manfredo	4
+Streptococcus pyogenes MGAS10394	4
+Streptococcus pyogenes MGAS8232	4
+Streptococcus pyogenes SSI-1	4
+Streptococcus suis 8067	4
+Streptococcus suis ZJ20091101	4
+Streptococcus thermophilus ST64985	4
+Streptococcus thermophilus ST64987	4
+Streptococcus thermophilus ST68757	4
+Streptococcus urinalis 2285-97	4
+Streptomyces coelicolor	4
+Sulfolobus	4
+Sulfolobus sp.	4
+Synechococcus sp. WH7803	4
+Thermus thermophilus	4
+Vibrio alginolyticus V1	4
+Vibrio cyclitrophicus 10N.286.54.E11	4
+Vibrio cyclitrophicus 10N.286.55.A5	4
+Vibrio cyclitrophicus 10N.286.55.C7	4
+Vibrio cyclitrophicus 10N.286.55.E8	4
+Vibrio cyclitrophicus 1F53	4
+Vibrio mediterranei	4
+Xanthomonas campestris pv. campestris GBBC 1419	4
+Xanthomonas euvesicatoria 1940	4
+Acidovorax citrulli	3
+Acinetobacter baumannii 164	3
+Acinetobacter baumannii 28	3
+Acinetobacter baumannii Ab105	3
+Acinetobacter baumannii DSM 106838	3
+Acinetobacter baumannii strain KZ-1098	3
+Aeromonas dhakensis AM	3
+Aeromonas rivipollensis	3
+Aeromonas salmonicida HER1084	3
+Aeromonas salmonicida HER1098	3
+Aeromonas veronii	3
+Akkermansia muciniphila	3
+Alteromonas macleodii	3
+Alteromonas macleodii ATCC 27126	3
+Anaerostipes caccae DA844	3
+Bacillus anthracis ST-1	3
+Bacillus pumilus BL-8	3
+Bacillus thuringiensis subsp. Kurstaki	3
+bacteria	3
+Bacteroides caccae DA669	3
+Bacteroides cellulosilyticus	3
+Bacteroides fragilis CSC10	3
+Bacteroides fragilis DA486	3
+Bacteroides fragilis DA503	3
+Bacteroides ovatus DA745	3
+Bacteroides thetaiotaomicron BSC401	3
+Bacteroides thetaiotaomicron DA681	3
+Bifidobacterium dentium DA811	3
+Brevundimonas goettingensis LVF2	3
+Burkholderia	3
+Burkholderia cenocepacia C6433	3
+Burkholderia pseudomallei BpHNBP001	3
+Burkholderia thailandensis	3
+Campylobacter jejuni NCTC12658	3
+Candidatus Liberibacter asiaticus	3
+Carnobacterium divergens	3
+cat	3
+Cellulophaga baltica #12	3
+Cellulophaga baltica #13	3
+Cellulophaga baltica #19	3
+Cellulophaga baltica MM#3	3
+Cellulophaga sp. HaHa_2_95	3
+Citrobacter freundii CF3	3
+Clostridium tetani ATCC 19406	3
+Clostridium_AQ sp003481775 DA461	3
+Clostridium_Q symbiosum DA229	3
+Cronobacter sakazakii ATCC BAA894	3
+Cronobacter sp.	3
+Cutibacterium acnes 02-A-018	3
+Cutibacterium acnes ATCC 6919	3
+Edwardsiella tarda E24.1	3
+Enterobacter cloacae ATCC 13047	3
+Enterocloster bolteae DA473	3
+Enterococcus	3
+Enterococcus faecalis ATCC 700802 / V583	3
+Enterococcus faecalis DA653	3
+Enterococcus faecalis OG1RF	3
+Enterococcus faecium E1071	3
+Enterococcus_D gallinarum DO103	3
+Enterococcus_D gallinarum DO36	3
+Erwinia amylovora Ea1	3
+Erwinia amylovora SNUABM_01	3
+Escherichia coli 158B lux	3
+Escherichia coli 4s	3
+Escherichia coli 500465	3
+Escherichia coli ATCC 13706	3
+Escherichia coli ATCC 15597	3
+Escherichia coli EC-YG1908-580 O78	3
+Escherichia coli HER 1036	3
+Escherichia coli K1 LU_100	3
+Escherichia coli K12 MG1655	3
+Escherichia coli MG1655	3
+Escherichia coli O121:H19 08023	3
+Escherichia coli O157:H7 (ATCC 43888)	3
+Escherichia coli O157:H7 ATCC 43888	3
+Escherichia coli O157:H7 ATCC 43895	3
+Escherichia coli O18	3
+Flavobacterium psychrophilum FPS-D15	3
+Flavobacterium psychrophilum strain FPS-D10	3
+Flavonifractor plautii	3
+Fusobacterium necrophorum	3
+Gordonia sp.	3
+Hafnia paralvei	3
+Haloarcula japonica	3
+Halorubrum lacusprofundi	3
+Klebsiella pneumoniae 52145	3
+Klebsiella pneumoniae ATCC BAA-1705	3
+Klebsiella pneumoniae KCTC 2242	3
+Klebsiella pneumoniae kp1604	3
+Klebsiella pneumoniae Kpn1	3
+Klebsiella pneumoniae Kpn13	3
+Klebsiella pneumoniae Kpn16	3
+Klebsiella pneumoniae Kpn2	3
+Klebsiella pneumoniae Kpn24	3
+Klebsiella pneumoniae L4-FAA5	3
+Klebsiella pneumoniae ST101-KPC2	3
+Klebsiella pneumoniae ST258	3
+Klebsiella pneumoniae ST405-OXA48	3
+Klebsiella pneumoniae subsp. pneumoniae KPNIH1	3
+Klebsiella quasipneumoniae ATCC 700603	3
+Klebsiella sp. CFI_134_NDM-1	3
+Klebsiella sp. MDRT1	3
+Klebsiella sp. NCTC 13438	3
+Klebsiella sp. RSUH15	3
+Klebsiella variicola PS_misc5	3
+Lactobacillus sp.	3
+Lactococcus lactis 3107	3
+Lactococcus lactis DGCC7271	3
+Lactococcus lactis PEN72	3
+Lactococcus lactis PEN82	3
+Lactococcus sp. 936	3
+Latilactobacillus curvatus TMW 1.1365	3
+Lentibacter sp. SH36	3
+Leuconostoc mesenteroides LN05	3
+Listeria monocytogenes FSL F6-367	3
+Lysinibacillus fusiformis	3
+Marinomonas sp.	3
+Methanobacteriales	3
+Methanofastidiosa	3
+Methanomicrobiales	3
+Methanosarcina mazei Go1	3
+Microcystis elabens	3
+Microcystis wesenbergii	3
+Morganella sp.	3
+Mycobacterium smegmatis mc2 155	3
+Mycolicibacterium smegmatis mc^2 155	3
+Mycolicibacterium smegmatis mc2155	3
+Nodularia spumigena KAC65	3
+Pan troglodytes	3
+Pantoea agglomerans AUR	3
+Pantoea deleyi	3
+Parabacteroides distasonis DA691	3
+Parabacteroides merdae DA682	3
+Parabacteroides merdae DA708	3
+Pectobacterium carotovorum subsp. carotovorum	3
+Phocaeicola vulgatus DA283	3
+Phocaeicola vulgatus DA57	3
+Phocaeicola vulgatus DA741	3
+Propionibacterium freudenreichii	3
+Providencia rettgeri B0142	3
+Pseudoalteromonas marina	3
+Pseudoalteromonas sp. str. H100	3
+Pseudomomas aeruginosa PAO1	3
+Pseudomonas aeruginosa 382	3
+Pseudomonas aeruginosa ATCC27853	3
+Pseudomonas aeruginosa DSM 19880	3
+Pseudomonas aeruginosa LESB58	3
+Pseudomonas aeruginosa PA1	3
+Pseudomonas aeruginosa PAO1 (ATCC 15692)	3
+Pseudomonas aeruginosa strain 1-13	3
+Pseudomonas aeruginosa strain 3-38	3
+Pseudomonas putida	3
+Pseudomonas putida PpG1	3
+Pseudomonas sp. CT12	3
+Pseudomonas syringae pv. tomato	3
+Pseudomonas syringae pv. tomato str. DC3000	3
+Ralstonia solanacearum strain Tb1546	3
+Ralstonia solanacearum T334	3
+Ralstonia solanacearum T394	3
+Ralstonia solanacearum T440	3
+Ralstonia solanacearum UW551	3
+Raoultella ornithinolytica	3
+Rhizobium etli Brasil5	3
+Rhizobium etli GR56	3
+Rhodobacteraceae bacterium FZCC0042	3
+Salinibacter ruber M31	3
+Salmonella enterica Enteritidis SeE.3	3
+Salmonella enterica serovar Typhimurium	3
+Salmonella enterica subsp. enterica serovar Enteritidis FSL S5-371	3
+Salmonella enterica subsp. enterica serovar Enteritidis P125088	3
+Salmonella enterica subsp. enterica serovar Enteritidis P125263	3
+Salmonella enterica subsp. enterica serovar Enteritidis sm140	3
+Salmonella enterica subsp. enterica serovar Newport	3
+Salmonella enterica subsp. enterica serovar Shubra	3
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	3
+Salmonella enterica subsp. enterica serovar Typhimurium strain LT2	3
+Salmonella enterica Typhimurium SeT.4	3
+Salmonella enterica Typhimurium SeT.6	3
+Serratia marcescens wk2050	3
+Shewanella sp. M16	3
+Shigella boydii	3
+Shigella dysenteriae CMCC(B)51105	3
+Sinorhizobium sp. LM21	3
+Sphingomonas sp. LR55	3
+Sphingomonas sp. PM2	3
+Spiroplasma poulsonii NSRO	3
+Staphylococcus aureus ATCC 6538	3
+Staphylococcus aureus ATCC BAA-44	3
+Staphylococcus aureus Newman	3
+Staphylococcus aureus strain 8325	3
+Staphylococcus chromogenes	3
+Staphylococcus cohnii	3
+Staphylococcus epidermidis HD21-2	3
+Stenotrophomonas maltophilia 1640	3
+Stenotrophomonas sp.	3
+Streptococcus agalactiae ERR126775	3
+Streptococcus infantis SK970	3
+Streptococcus iniae Si1	3
+Streptococcus parauberis KRS-02083	3
+Streptococcus parauberis SP-llh	3
+Streptococcus pyogenes Alab49	3
+Streptococcus pyogenes ERR111889	3
+Streptococcus pyogenes ERR448936	3
+Streptococcus pyogenes HSC5	3
+Streptococcus pyogenes M1_GAS	3
+Streptococcus pyogenes MGAS10750	3
+Streptococcus pyogenes MGAS5005	3
+Streptococcus pyogenes MGAS9429	3
+Streptococcus suis JH1301	3
+Streptococcus suis NSUI002	3
+Streptococcus thermophilus DGCC7854	3
+Streptococcus thermophilus ST62990	3
+Streptococcus thermophilus ST64713	3
+Streptococcus thermophilus ST64715	3
+Streptococcus thermophilus ST69763	3
+Streptomyces stelliscabiei	3
+Sulfolobus sp. E5-1	3
+Synechococcus elongatus PCC 7942 = FACHB-805	3
+Synechococcus sp. WH8102	3
+Thermus thermophilus HB27	3
+Tunturiibacter psychrotolerans X5P2	3
+V.alginolyticus	3
+Vibrio anguillarum strain 90-11-287	3
+Vibrio campbellii HY01	3
+Vibrio cyclitrophicus 10N.237.312.C11	3
+Vibrio cyclitrophicus 10N.237.312.G08	3
+Vibrio cyclitrophicus 10N.239.311.A09	3
+Vibrio cyclitrophicus 10N.239.311.H11	3
+Vibrio cyclitrophicus 10N.261.45.F7	3
+Vibrio cyclitrophicus 10N.261.55.B9	3
+Vibrio cyclitrophicus 10N.286.49.B11	3
+Vibrio cyclitrophicus 10N.286.55.A12	3
+Vibrio cyclitrophicus 10N.286.55.B4	3
+Vibrio cyclitrophicus 1F273	3
+Vibrio harveyi BYK0632	3
+Vibrio parahaemolyticus ATCC17802	3
+Vibrio parahaemolyticus VP.10806	3
+Weissella confusa DO29	3
+Wolbachia endosymbiont wVitA of Nasonia vitripennis	3
+Xanthomonas campestris pv. campestris GBBC 1412	3
+Xanthomonas campestris pv. campestris str. 8004	3
+Xanthomonas euvesicatoria	3
+[Clostridium] innocuum	2
+Achromobacter marplatensis	2
+Acidithiobacillus caldus	2
+Acinetobacter	2
+Acinetobacter baumannii 1326	2
+Acinetobacter baumannii 1971	2
+Acinetobacter baumannii AB2	2
+Acinetobacter baumannii ACICU	2
+Acinetobacter baumannii ATCC 17978	2
+Acinetobacter baumannii NAB01B	2
+Actinebacter nosocomialis	2
+Aeromonas caviae	2
+Aeromonas dhakensis	2
+Aeromonas dhakensis CECT 7289	2
+Aeromonas hydrophila 4.3T	2
+Aeromonas hydrophila 4.4T	2
+Aeromonas hydrophila A18	2
+Aeromonas hydrophila GW3-10	2
+Aeromonas hydrophila ZPAH75	2
+Aeromonas hydrophila ZYAH75	2
+Aeromonas salmonicida M15879-11	2
+Aeromonas sp. ARM81	2
+Aeropyrum pernix	2
+Aeropyrum pernix K1	2
+Agathobaculum butyriciproducens DA434	2
+Alcaligenes faecalis	2
+Alcaligenes faecalis 10106	2
+Alishewanella sp. SMS8	2
+Alteromonas marina SW-47	2
+Alteromonas sp.	2
+Amedibacillus_QUJU_s CSC70	2
+Aquificae	2
+Arthrobacter sp.	2
+Arthrobacter sp. B10-11	2
+Bacillus alcalophilus CGMCC 1.3604	2
+Bacillus anthracis str. A16R	2
+Bacillus anthracis Vollum	2
+Bacillus cereus HER1399	2
+Bacillus licheniformis KKP_3373	2
+Bacillus licheniformis KKP_3876	2
+Bacillus megaterium Km Sp-	2
+Bacillus pseudalcaliphilus	2
+Bacillus pumilus GR8	2
+Bacillus sp. (in: Bacteria)	2
+Bacillus sp. ATCC 27348	2
+Bacillus subtilis ATCC 15245	2
+Bacillus subtilis ATCC 21336	2
+Bacillus subtilis KACC 10114	2
+Bacillus subtilis WB800	2
+Bacillus thuringiensis BGSC 4AE1	2
+Bacillus thuringiensis serovar israelensis	2
+Bacillus thuringiensis strain YM-03	2
+Bacillus thuringiensis subspecies kurstaki	2
+Bacillus velezensis FZB42	2
+Bacteroides fragilis DA695	2
+Bacteroides fragilis DA698	2
+Bacteroides fragilis DA766	2
+Bacteroides ovatus DA668	2
+Bacteroides salyersiae BSC162	2
+Bacteroides sp.	2
+Bacteroides thetaiotaomicron BG12	2
+Bacteroides thetaiotaomicron DA528	2
+Bacteroides thetaiotaomicron DA566	2
+Bacteroides thetaiotaomicron DA61	2
+Bacteroides uniformis	2
+Bacteroides uniformis BG2	2
+Bacteroides uniformis DA183	2
+Bacteroides uniformis DA241	2
+Bacteroides uniformis MB18-33	2
+Bacteroides uniformis MB18-80	2
+Bacteroides xylanisolvens HM7	2
+Bdellovibrio bacteriovorus	2
+Bordetella bronchiseptica	2
+Bradyrhizobium elkanii USDA 76	2
+Bradyrhizobium japonicum	2
+Brevundimonas sp. Brv2	2
+Brochothrix thermosphacta Bt-YZU01	2
+brucella abortus 141	2
+Burkholderia cenocepacia Van1	2
+Burkholderia cepacia	2
+Campylobacter	2
+Campylobacter coli	2
+Campylobacter jejuni L26	2
+Campylobacter jejuni NCTC 12660	2
+Campylobacter jejuni subsp. jejuni	2
+Campylobacter sp.	2
+Candidadtus Pelagibacter sp. HTCC1062	2
+Candidatus Liberibacter asiaticus UF506	2
+Candidatus Odinarchaeum yellowstonii	2
+Candidatus Pelagibacter sp.FZCC0233	2
+Candidatus Xenohaliotis californiensis	2
+Caulobacter crescentus CB15	2
+Caulobacter sp.	2
+Cellulophaga baltica #17	2
+Cellulophaga baltica NN016038	2
+Cellulophaga baltica NN016046	2
+Cellulophaga sp. HaHa_2_1	2
+Chryseobacterium indologenes MA9	2
+Citrobacter freundii 165	2
+Citrobacter freundii CF5	2
+Citrobacter rodentium	2
+Citrobacter rodentium DBS100	2
+Citrobacter rodentium ICC180	2
+Citrobacter sp. TSA-1	2
+Clavibacter michiganensis subsp. michiganensis	2
+Clostridium difficile strain CD105HE1 ribotype 076	2
+Clostridium perfringens 2589	2
+Clostridium tetani ATCC 453	2
+Clostridium tetani C2	2
+Clostridium_AQ innocuum DA130	2
+Clostridium_AQ sp003481775 DA55	2
+Coptotermes formosanus	2
+Corynebacterium glutamicum ATCC13032	2
+Croceibacter atlanticus HTCC2559	2
+Curvibacter sp. AEP1.3	2
+Curvibacter sp. IMCC26059	2
+Cutibacterium acnes 06-0893	2
+Cyanobacteria	2
+Dickeya dadantii	2
+Edwardsiella ictaluri strain E1	2
+Edwardsiella piscicida	2
+Edwardsiella tarda	2
+Eggerthella lenta DSM 2243	2
+Enterobacter aerogenes	2
+Enterobacter cloacae KMB220	2
+Enterobacter sp. CT7	2
+Enterobacteria	2
+Enterobacteriaceae	2
+Enterocloster bolteae DA457	2
+Enterocloster clostridioformis	2
+Enterococcus cecorum	2
+Enterococcus faecalis 587A	2
+Enterococcus faecalis 8413	2
+Enterococcus faecalis EF-JMSS09	2
+Enterococcus faecium 4995/20	2
+Enterococcus faecium ATCC 35667	2
+Enterococcus faecium strain UCH1	2
+Enterococcus_B hirae DO82	2
+Enterococcus_B hirae DO93	2
+Enterococcus_D sp002850555 DO55	2
+Enterococcus_D sp002850555 DO99	2
+enteropathogenic Escherichia coli	2
+enterotoxigenic Escherichia coli	2
+enterotoxigenic Escherichia Coli	2
+Erwinia amylovora 1/79	2
+Erwinia amylovora 4/82	2
+Erwinia horticola	2
+Erwinia sp. TAC1.XII.93.8 (de Vries et al. 2001)	2
+Erythrobacter sp. JL475	2
+Escherichia coli (avian pathogenic)	2
+Escherichia coli (EPEC)	2
+Escherichia coli 143	2
+Escherichia coli ATCC 11303	2
+Escherichia coli ATCC 43890	2
+Escherichia coli BYEC05	2
+Escherichia coli DE048	2
+Escherichia coli DH5[alpha]	2
+Escherichia coli DH5a	2
+Escherichia coli EAEC CVCC232	2
+Escherichia coli ESBL049	2
+Escherichia coli ESBL058	2
+Escherichia coli ESBL091	2
+Escherichia coli ESBL102	2
+Escherichia coli ESBL128	2
+Escherichia coli ESBL153	2
+Escherichia coli ESBL188	2
+Escherichia coli ESBL197	2
+Escherichia coli ExPEC	2
+Escherichia coli H8	2
+Escherichia coli KL6	2
+Escherichia coli KMB507	2
+Escherichia coli KMB510	2
+Escherichia coli LCU-Ecoli405	2
+Escherichia coli M719-6WT	2
+Escherichia coli MG1655, K12	2
+Escherichia coli NCCP 13930	2
+Escherichia coli NCTC 12079	2
+Escherichia coli NDM-1	2
+Escherichia coli O103	2
+Escherichia coli O103:H25 strain NIPH-11060424/NVH-734	2
+Escherichia coli O104:H4	2
+Escherichia coli O145:NM SJ24	2
+Escherichia coli O153	2
+Escherichia coli O157:H7 Morioka V526	2
+Escherichia coli O26:H11 SJ3	2
+Escherichia coli O78	2
+Escherichia coli R10256	2
+Escherichia coli strain KKP 3691	2
+Escherichia coli W3350 (Yale CGSC)	2
+Exiguobacterium alkaliphilum	2
+Faecalibacterium sp. HTF-238	2
+Flavobacterium psychrophilum	2
+Flavobacterium psychrophilum strain FPS-D14	2
+Flavobacterium psychrophilum strain FPS-D15	2
+Gammaproteobacteria	2
+Geobacillus kaustophilus ATCC 8005	2
+Gordonia malaquae BEN700	2
+Gordonia malaquae strain BEN700	2
+Hafnia sp.	2
+Haloarcula hispanica ATCC 33960	2
+Haloferax gibbonsii Ma2.38	2
+Halorubrum sodomense	2
+Helicobacter pylori strain KMT83	2
+Klebsiella aerogenes HO5	2
+Klebsiella pneumoniae 1119	2
+Klebsiella pneumoniae 15-38	2
+Klebsiella pneumoniae 21AA2216	2
+Klebsiella pneumoniae 36	2
+Klebsiella pneumoniae 80528	2
+Klebsiella pneumoniae AJ218	2
+Klebsiella pneumoniae ATCC 10031	2
+Klebsiella pneumoniae BM327-1	2
+Klebsiella pneumoniae capsular type K1	2
+Klebsiella pneumoniae CRKP-P4 (carbapenem-resistant)	2
+Klebsiella pneumoniae DA591	2
+Klebsiella pneumoniae isolate ARCH-BD-1468	2
+Klebsiella pneumoniae K2	2
+Klebsiella pneumoniae KBN10P05309	2
+Klebsiella pneumoniae KLEB009	2
+Klebsiella pneumoniae KP 7450	2
+Klebsiella pneumoniae Kp2112	2
+Klebsiella pneumoniae KP670	2
+Klebsiella pneumoniae Kpn15	2
+Klebsiella pneumoniae Kpn30	2
+Klebsiella pneumoniae Kpn5	2
+Klebsiella pneumoniae M186-2	2
+Klebsiella pneumoniae NI9	2
+Klebsiella pneumoniae SB4551	2
+Klebsiella pneumoniae ST11-OXA245	2
+Klebsiella pneumoniae ST11-OXA48	2
+Klebsiella pneumoniae ST147-VIM1	2
+Klebsiella pneumoniae ST258-KPC3	2
+Klebsiella pneumoniae ST340-VIM1	2
+Klebsiella pneumoniae ST437-OXA245	2
+Klebsiella pneumoniae ST846-OXA48	2
+Klebsiella quasipneumoniae	2
+Klebsiella sp. CFI_001_VIM1	2
+Klebsiella sp. CFI_108_OXA181	2
+Klebsiella sp. KePhaCli 0001	2
+Klebsiella sp. NCTC 13368	2
+Kosakonia cowanii CB166B	2
+Lacticaseibacillus casei LMG 23550	2
+Lacticaseibacillus rhamnosus LMG 23277	2
+Lacticaseibacillus rhamnosus LMG 23327	2
+Lactobacillus casei BL23	2
+Lactobacillus delbrueckii subsp. lactis	2
+Lactobacillus plantarum IMAU10120	2
+Lactobacillus reuteri ATCC PTA 6475	2
+Lactobacillus rhamnosus	2
+Lactococcus cremoris DGCC6073	2
+Lactococcus lactis DGCC7180	2
+Lactococcus lactis subsp. cremoris SMQ-1021	2
+Lactococcus lactis subsp. cremoris SMQ-404	2
+Lactococcus lactis subsp. cremoris SMQ-746	2
+Lactococcus lactis subsp. cremoris SMQ-999	2
+Lactococcus petauri DO75	2
+Lactococcus sp.	2
+Latilactobacillus curvatus TMW 1.706	2
+Latilactobacillus sakei TMW 1.46	2
+Leclercia adecarboxylata P10164	2
+Leptospira biflexa Patoc 1	2
+Limnohabitans sp. DCL3	2
+Listeria monocytogenes ATCC 19115	2
+Listeria monocytogenes J1-208	2
+Lynx canadensis	2
+Mammaliicoccus sciuri	2
+Mammaliicoccus sciuri KCTC 43031	2
+Mannheimia haemolytica 535A serotype A1	2
+Mannheimia haemolytica 587A serotype A2	2
+Marinobacter	2
+Marinomonas mediterranea	2
+Meiothermus sp.	2
+Mesorhizobium loti R7ANS	2
+Metallosphaera sp.	2
+Methanomassiliicoccales	2
+Methanosarcina sp.	2
+Methylophilales bacterium FZCC0133	2
+Microbacterium foliorum str. NRRL B-24224	2
+Microbacterium oxydans	2
+Morganella morganii IME1369	2
+Mycobacterium smegmatis	2
+Myxococcus sp.	2
+Natrinema sp. J7-1	2
+Natrinema thermotolerans A29	2
+Nocardia transvalensis ATCC 6865	2
+Nodularia spumigena kac68	2
+Nostoc sp.	2
+Nostoc sp. PCC7210	2
+Ochrobactrum sp. POC9	2
+Oenococcus oeni	2
+Parabacteroides faecis DA672	2
+Parabacteroides merdae DA21	2
+Paracoccus sp.	2
+Paraglaciecola sp. strain IceBac 372	2
+Pectobacterium atrosepticum F41	2
+Pectobacterium atrosepticum SCRI1043	2
+Pectobacterium carotovorum subsp. carotovorum PB29	2
+Pectobacterium carotovorum subsp. carotovorum PB38	2
+Persicivirga sp. IMCC12024	2
+Phocaeicola vulgatus DA737	2
+Photobacterium damselae	2
+Porphyromonas gingivalis ATCC 49417	2
+poultry	2
+Propionibacterium acnes ATCC 11828	2
+Proteus mirabilis UFV	2
+Proteus sp.	2
+Proteus vulgaris	2
+Pseudoalteromonas atlantica	2
+Pseudoalteromonas elyakovii HL-AS1	2
+Pseudoalteromonas marina DSM 17587	2
+Pseudoalteromonas marina mano4	2
+Pseudoalteromonas phenolica	2
+Pseudoalteromonas sp. QC-44	2
+Pseudoalteromonas sp. str. H105	2
+Pseudomona aeruginosa	2
+Pseudomonas aeruginosa 2072	2
+Pseudomonas aeruginosa 2081	2
+Pseudomonas aeruginosa 3099-2aT	2
+Pseudomonas aeruginosa 7-61-29	2
+Pseudomonas aeruginosa AMT 0085-3	2
+Pseudomonas aeruginosa ATCC 10145	2
+Pseudomonas aeruginosa ATCC 15442	2
+Pseudomonas aeruginosa ATCC 9027	2
+Pseudomonas aeruginosa BWKH9	2
+Pseudomonas aeruginosa CHA	2
+Pseudomonas aeruginosa clinical isolate	2
+Pseudomonas aeruginosa DSM 50071	2
+Pseudomonas aeruginosa LRJ32	2
+Pseudomonas aeruginosa P9W	2
+Pseudomonas aeruginosa strain PAO1	2
+Pseudomonas aeruginosa ZS-PA-35	2
+Pseudomonas coronafaciens pv. garcae	2
+Pseudomonas fluorescens ATCC 13525	2
+Pseudomonas fluorescens BIM B-582	2
+Pseudomonas poae Z9_5	2
+Pseudomonas protegens CEMTC 4060	2
+Pseudomonas sp. ANT_H14	2
+Pseudomonas stutzeri	2
+Pseudomonas syringae 19B	2
+Pseudomonas syringae CC0663	2
+Pseudomonas syringae CC1557	2
+Pseudomonas syringae P3.01.09C09	2
+Pseudomonas syringae P4.01.01C03	2
+Pseudomonas syringae pv. actinidiae ICMP 18800	2
+Pseudomonas syringae pv. actinidiae K7#8	2
+Pseudomonas syringae USA0011	2
+Psychrobacillus psychrodurans	2
+Ralstonia pseudosolanacearum (NCPPB 4694)	2
+Ralstonia solanacearum A4933	2
+Ralstonia solanacearum A5008	2
+Ralstonia solanacearum A6180	2
+Ralstonia solanacearum A6184	2
+Ralstonia solanacearum A6188	2
+Ralstonia solanacearum A6191	2
+Ralstonia solanacearum A6235	2
+Ralstonia solanacearum and Ralstonia pseudosolanacearum	2
+Ralstonia solanacearum B98	2
+Ralstonia solanacearum EURS 50	2
+Ralstonia solanacearum EURS 79	2
+Ralstonia solanacearum R281, UW154	2
+Ralstonia solanacearum S718	2
+Ralstonia solanacearum SMT 71, PD 2762	2
+Ralstonia solanacearum SMT 76	2
+Ralstonia solanacearum T328	2
+Ralstonia solanacearum T391	2
+rat	2
+Rhizobium etli kim5	2
+Rhizobium leguminosarum	2
+Rhizogenic Agrobacterium biovar 1 ST15.13/095	2
+Rhodobacter capsulatus SB1003	2
+Rhodococcus erythropolis	2
+Rhodococcus opacus	2
+Roseobacter denitrificans OCh 114	2
+Roseobacter sp. FZCC0083	2
+Saccharolobus shibatae 1201-1	2
+Salmonella enterica AR 404	2
+Salmonella enterica enterica sv Typhimurium LT2	2
+Salmonella enterica serotype Dublin 3246	2
+Salmonella enterica serotype Typhimurium 4/74	2
+Salmonella enterica serovar Cerro 87	2
+Salmonella enterica serovar typhimurium LT2C	2
+Salmonella enterica serovar Typhimurium strain ATCC 13311 DMST 562	2
+Salmonella enterica subsp. enterica serotype Typhimurium	2
+Salmonella enterica subsp. enterica serovar Anatum	2
+Salmonella enterica subsp. enterica serovar Enteritidis derived from ATCC 13076	2
+Salmonella enterica subsp. enterica serovar Enteritidis L2-179	2
+Salmonella enterica subsp. enterica serovar Enteritidis str. LK5	2
+Salmonella enterica subsp. enterica serovar Infantis FSL S5-506	2
+Salmonella enterica subsp. enterica serovar Napoli L2-113	2
+Salmonella enterica subsp. enterica serovar Napoli L2-222	2
+Salmonella enterica subsp. enterica serovar Typhi B37239/20	2
+Salmonella enterica subsp. enterica serovar Typhimurium BNCC 108207	2
+Salmonella enterica subsp. enterica serovar Typhimurium CMCC 50115	2
+Salmonella enterica subsp. enterica serovar Typhimurium CMCC50115	2
+Salmonella enterica subsp. enterica serovar Typhimurium LT2(c)	2
+Salmonella enterica subsp. enterica serovar Typhimurium SE-BS17	2
+Salmonella enterica subsp. enterica serovar Typhimurium str. ATCC 14028	2
+Salmonella enterica subsp. enterica serovar Typhimurium strain LB5000	2
+Salmonella enterica subsp. enterica serowar 6,8:1,v:- strain KKP 1008	2
+Salmonella enterica subsp. enterica STW-2	2
+Salmonella enterica sv. typhimurium	2
+Salmonella gallinarum	2
+Salmonella sp. CVCC3384	2
+Salmonella typhimurium ATCC 13111	2
+Serratia liquefaciens EOA81	2
+Serratia marcescens IMBG291	2
+Serratia sp. OS31	2
+Shewanella oneidensis MR-1	2
+Shigella boydii; Shigella flexneri	2
+Shigella dysenteriae	2
+Shigella flexneri 164	2
+Shigella flexneri 2a 2457	2
+Shigella flexneri 2b	2
+Shigella flexneri ATCC 12022	2
+Shigella flexneri DA340	2
+Shigella flexneri; Shigella sonnei; Escherichia coli K12	2
+Silvanigrella aquatica Nonnen-W8red	2
+Sodalis glossinidius	2
+Staphylococcus aureus ATCC 49775	2
+Staphylococcus aureus KCCM 12103	2
+Staphylococcus aureus KCTC 1621	2
+Staphylococcus aureus NAS_AN_142	2
+Staphylococcus aureus NAS_NP_157	2
+Staphylococcus aureus RN4220	2
+Staphylococcus aureus strain NAS_OP_131	2
+Staphylococcus aureus strain SA27	2
+Staphylococcus aureus strain SK1700	2
+Staphylococcus aureus XN108	2
+Staphylococcus epidermidis 36-1	2
+Staphylococcus epidermidis C6869	2
+Staphylococcus epidermidis I0515	2
+Staphylococcus epidermidis RP62A	2
+Staphylococcus epidermidis S414	2
+Staphylococcus haemolyticus	2
+Staphylococcus hominis	2
+Staphylococcus hyicus	2
+Staphylococcus pseudintermedius 14-29-119	2
+Staphylococcus saprophyticus	2
+Staphylococcus ureilyticus ATCC 49330	2
+Staphylococcus xylosus	2
+Staphylococcus xylosus I2595	2
+Stenotrophomonas maltophilia YCR3A-1	2
+Streptococcus agalactiae 2603V_R	2
+Streptococcus agalactiae A909	2
+Streptococcus agalactiae CCUG_17336	2
+Streptococcus agalactiae CH-1	2
+Streptococcus agalactiae GB00901	2
+Streptococcus agalactiae JN_AR_GBS18	2
+Streptococcus anginosus BVI	2
+Streptococcus anginosus DORA_7	2
+Streptococcus anginosus J4211	2
+Streptococcus canis ERR438797	2
+Streptococcus canis ERR438806	2
+Streptococcus canis FSL_Z3-227	2
+Streptococcus constellatus C1050	2
+Streptococcus constellatus C232	2
+Streptococcus constellatus C818	2
+Streptococcus constellatus SK1060	2
+Streptococcus dysgalactiae ATCC_27957	2
+Streptococcus dysgalactiae equisimilis_AC-2713	2
+Streptococcus dysgalactiae ERR085022	2
+Streptococcus dysgalactiae ERR109308	2
+Streptococcus dysgalactiae ERR111982	2
+Streptococcus entericus DSM_14446	2
+Streptococcus equi	2
+Streptococcus equi EQUI0022	2
+Streptococcus equinus JB1	2
+Streptococcus equinus Sb05	2
+Streptococcus gordonii	2
+Streptococcus gordonii SK184	2
+Streptococcus himalayensis HTS2	2
+Streptococcus ictaluri 707-05	2
+Streptococcus iniae SF1	2
+Streptococcus marmotae HTS5	2
+Streptococcus mitis B9	2
+Streptococcus mitis SK137	2
+Streptococcus oralis ATCC_49296	2
+Streptococcus oralis AZ_3a	2
+Streptococcus oralis SK143	2
+Streptococcus pasteurianus DA586	2
+Streptococcus pneumoniae 09B10874	2
+Streptococcus pneumoniae 16A/1	2
+Streptococcus pneumoniae 670	2
+Streptococcus porcinus Jelinkova_176	2
+Streptococcus porcinus SRR067676	2
+Streptococcus pseudoporcinus SS-662	2
+Streptococcus pyogenes ERR111845	2
+Streptococcus pyogenes ERR111888	2
+Streptococcus pyogenes ERR473551	2
+Streptococcus pyogenes MGAS2096	2
+Streptococcus pyogenes MGAS6180	2
+Streptococcus pyogenes NZ131	2
+Streptococcus salivarius DBO_AE_2	2
+Streptococcus suis 21171_DNR38	2
+Streptococcus suis 89-3576-3	2
+Streptococcus suis ERR120115	2
+Streptococcus suis ERR120214	2
+Streptococcus suis GD-0063	2
+Streptococcus suis S95G	2
+Streptococcus suis T15	2
+Streptococcus thermophilus ST64892	2
+Streptococcus thermophilus ST66565	2
+Streptococcus thermophilus ST67368	2
+Streptococcus thermophilus ST69760	2
+Streptococcus uberis C8329	2
+Streptomyces albidoflavus	2
+Streptomyces avermitilis	2
+Streptomyces coelicolor A3(2)	2
+Streptomyces flavovirens	2
+Stutzerimonas stutzeri NCTC10475	2
+Stutzerimonas stutzeri STP9	2
+Sulfolobus solfataricus	2
+Sulfolobus tengchongensis 1201-2	2
+Synechoccus sp.	2
+Synechococcus sp. CC9605	2
+Synechococcus sp. WH 8102	2
+Tenacibaculum maritimum	2
+Tenacibaculum sp.	2
+Tenericutes bacterium zrk29	2
+Terrisporobacter petrolearius DSL	2
+Thermobifida fusca NTU22	2
+Thomasclavelia ramosa YY17	2
+Trichosanthes kirilowii	2
+Tsukamurella inchonensis strain BEN701	2
+uncharacterized	2
+Vibrio alginolyticus CECT 521	2
+Vibrio alginolyticus K05K4	2
+Vibrio anguillarum	2
+Vibrio anguillarum PF4	2
+Vibrio anguillarum T265	2
+Vibrio campbellii CAIM 519 = NBRC 15631 = ATCC 25920	2
+Vibrio cholerae 1051	2
+Vibrio cholerae O1 Classical	2
+Vibrio cholerae O139	2
+Vibrio coralliilyticus	2
+Vibrio coralliilyticus strain P1 LMG23696	2
+Vibrio cyclitrophicus 10N.222.45.E8	2
+Vibrio cyclitrophicus 10N.237.312.D05	2
+Vibrio cyclitrophicus 10N.239.311.B03	2
+Vibrio cyclitrophicus 10N.239.311.D07	2
+Vibrio cyclitrophicus 10N.247.311.62	2
+Vibrio cyclitrophicus 10N.247.311.85	2
+Vibrio cyclitrophicus 10N.261.52.C4	2
+Vibrio cyclitrophicus 10N.261.55.E6	2
+Vibrio cyclitrophicus 10N.286.45.B12	2
+Vibrio cyclitrophicus 10N.286.45.F8	2
+Vibrio cyclitrophicus 10N.286.52.C10	2
+Vibrio cyclitrophicus 10N.286.54.E4	2
+Vibrio cyclitrophicus 10N.286.54.E5	2
+Vibrio cyclitrophicus 10N.286.54.F2	2
+Vibrio cyclitrophicus 10N.286.54.F4	2
+Vibrio cyclitrophicus 10N.286.55.C3	2
+Vibrio cyclitrophicus 10N.286.55.E6	2
+Vibrio harveyi KCTC12724	2
+Vibrio maritimus	2
+Vibrio natriegens	2
+Vibrio neocaledonicus NC470	2
+Vibrio parahaemolyticus 1.1997	2
+Vibrio parahaemolyticus ATCC 33844	2
+Vibrio parahaemolyticus KACC 15069	2
+Vibrio parahaemolyticus M0904	2
+Vibrio parahaemolyticus O3:K6	2
+Vibrio parahaemolyticus VP505	2
+Vibrio sp. F13	2
+Vibrio sp. St2	2
+Wolbachia endosymbiont of Simulium squamosum	2
+Wolbachia sp. wMel_AMD	2
+Wolbachia sp. wMel_KL	2
+Xanthomonas arboricola pv. juglandis	2
+Xanthomonas arboricola pv. juglandis X-J303	2
+Xanthomonas campestris	2
+Xanthomonas oryzae	2
+Yersinia enterocolitica serotype O:3	2
+[Clostridium] scindens DSM 5676	1
+Acaryochloris marina strain MBIC11017	1
+Acetoanaerobium noterae DSL2	1
+Acetobacter orleanensis NBRC 3170	1
+Acetobacter pasteurianus NBRC 109446	1
+Acetobacter sp. ATCC 21760	1
+Achromobacter animicus	1
+Achromobacter denitrificans PR1	1
+Achromobacter ruhlandii	1
+Achromobacter xylosoxidans A22732	1
+Acidianus brierleyi	1
+Acidianus brierleyi DSM1651	1
+Acidianus convivator	1
+Acidianus convivator AA9	1
+Acidianus hospitalis	1
+Acidianus pozzuoliensis strain F28	1
+Acidianus sp. CHAS	1
+Acidianus uzoniensis	1
+Acidithiobacillus caldus ATCC 51756	1
+Acidovorax cattleyae GBBC 1148	1
+Acidovorax valerianellae GBBC 3043	1
+Acidovorax valerianellae GBBC 3161	1
+Acidovorax valerianellae GBBC 3357	1
+Acinetobacter baumannii 01	1
+Acinetobacter baumannii 1432	1
+Acinetobacter baumannii 15599	1
+Acinetobacter baumannii 1656-2	1
+Acinetobacter baumannii 3940	1
+Acinetobacter baumannii 4 (Ab4)	1
+Acinetobacter baumannii 4316	1
+Acinetobacter baumannii 54149	1
+Acinetobacter baumannii 8_4	1
+Acinetobacter baumannii 9102	1
+Acinetobacter baumannii A118	1
+Acinetobacter baumannii Ab_8_4	1
+Acinetobacter baumannii AB10	1
+Acinetobacter baumannii Ab11510	1
+Acinetobacter baumannii AB14	1
+Acinetobacter baumannii AB2013-95	1
+Acinetobacter baumannii Ab4	1
+Acinetobacter baumannii Ab404_GEIH-2010	1
+Acinetobacter baumannii AB49	1
+Acinetobacter baumannii AB5	1
+Acinetobacter baumannii AB5256	1
+Acinetobacter baumannii Ab53	1
+Acinetobacter baumannii AbAK03	1
+Acinetobacter baumannii AC54	1
+Acinetobacter baumannii Acb75	1
+Acinetobacter baumannii Acb8/09	1
+Acinetobacter baumannii APEX-294	1
+Acinetobacter baumannii ATCC19606	1
+Acinetobacter baumannii AU0783	1
+Acinetobacter baumannii B11911	1
+Acinetobacter baumannii b1928040	1
+Acinetobacter baumannii CR057	1
+Acinetobacter baumannii DSM 30007	1
+Acinetobacter baumannii GY-4	1
+Acinetobacter baumannii GY-6	1
+Acinetobacter baumannii H4	1
+Acinetobacter baumannii LUH 3712	1
+Acinetobacter baumannii LUH5547	1
+Acinetobacter baumannii LUH5549	1
+Acinetobacter baumannii LUH5552	1
+Acinetobacter baumannii M2	1
+Acinetobacter baumannii M68316	1
+Acinetobacter baumannii MAR-610	1
+Acinetobacter baumannii MAR303	1
+Acinetobacter baumannii MDR-TJ	1
+Acinetobacter baumannii MK34	1
+Acinetobacter baumannii NCTC 13240	1
+Acinetobacter baumannii NIPH 201	1
+Acinetobacter baumannii NIPH 329	1
+Acinetobacter baumannii NIPH 70 K44 strain	1
+Acinetobacter baumannii NIPH146	1
+Acinetobacter baumannii NIPH201	1
+Acinetobacter baumannii NIPH601	1
+Acinetobacter baumannii NIPH615	1
+Acinetobacter baumannii NIPH70	1
+Acinetobacter baumannii Paris B09	1
+Acinetobacter baumannii Paris-B09	1
+Acinetobacter baumannii R5	1
+Acinetobacter baumannii ST2	1
+Acinetobacter baumannii strain 36-1454	1
+Acinetobacter baumannii strain 36-1512	1
+Acinetobacter baumannii strain 55-66	1
+Acinetobacter baumannii strain APEX 104	1
+Acinetobacter baumannii strain B05	1
+Acinetobacter baumannii strain D4	1
+Acinetobacter baumannii strain KZ-1093	1
+Acinetobacter baumannii strain KZ-1096	1
+Acinetobacter baumannii strain KZ-1101	1
+Acinetobacter baumannii strain KZ-1102	1
+Acinetobacter baumannii strain KZ1100	1
+Acinetobacter baumannii strain LUH 5533	1
+Acinetobacter baumannii strain LUH 5534	1
+Acinetobacter baumannii strain LUH3713	1
+Acinetobacter baumannii strain MAR 14-595	1
+Acinetobacter baumannii strain MAR 15-3273	1
+Acinetobacter baumannii strain MAR 15-4788	1
+Acinetobacter baumannii strain MAR15-4162	1
+Acinetobacter baumannii strain MAR16-1722	1
+Acinetobacter baumannii strain MRAB10-230	1
+Acinetobacter baumannii strain MRAB11	1
+Acinetobacter baumannii strain RES-2281	1
+Acinetobacter baumannii strain RES-241	1
+Acinetobacter baumannii strain RES-3023	1
+Acinetobacter baumannii strain TP1	1
+Acinetobacter baumannii Tehran-1	1
+Acinetobacter baumannii TV2199	1
+Acinetobacter baumannii WHG40137	1
+Acinetobacter baumannii XH1383	1
+Acinetobacter baumannii XH198	1
+Acinetobacter baumannii XH386	1
+Acinetobacter baumannii XH639	1
+Acinetobacter baumannii YMC/09/02/B1251	1
+Acinetobacter baumannii YMC/13/01/C62	1
+Acinetobacter baumannii YMC13/03/R2096	1
+Acinetobacter baumannii YMC17/03/R1888	1
+Acinetobacter baumannii YMC18/02/R2919	1
+Acinetobacter baumannii YQ4	1
+Acinetobacter baumannii ZWAb014	1
+Acinetobacter beijerinckii	1
+Acinetobacter halotolerans	1
+Acinetobacter nosocomialis	1
+Acinetobacter pittii 7	1
+Acinetobacter pittii ABC38	1
+Acinetobacter soli KZ-1	1
+Acinetobacter tandoii W4-4-4	1
+Actinobacillus actinomycetemcomitans	1
+Actinobacillus pleuropneumoniae	1
+Actinomyces naeslundii	1
+Actinomyces odontolyticus subsp. actinosynbacter XH001	1
+Actinomycetia bacterium	1
+Acutalibacter muris	1
+Aeribacillus pallidus	1
+Aerococcus viridans AV-X1	1
+Aeromonas caviae AC-CY	1
+Aeromonas dhakensis CECT 5744	1
+Aeromonas hydrophila 4572	1
+Aeromonas hydrophila A331	1
+Aeromonas hydrophila Ah-152	1
+Aeromonas hydrophila AH10 (CCTCC AB2014155)	1
+Aeromonas hydrophila AH300206	1
+Aeromonas hydrophila J1	1
+Aeromonas hydrophila JUNAH	1
+Aeromonas hydrophila MTCC 1739	1
+Aeromonas hydrophila MTCC1739	1
+Aeromonas hydrophila SNUFPCA9	1
+Aeromonas hydrophila ZYAH131	1
+Aeromonas hydrophila;Aeromonas hydrophilla	1
+Aeromonas media	1
+Aeromonas popoffii CEMTC 4062	1
+Aeromonas salmonicida 08-2783	1
+Aeromonas salmonicida A567	1
+Aeromonas salmonicida HER1104	1
+Aeromonas salmonicida HER1108	1
+Aeromonas salmonicida HER1110	1
+Aeromonas schubertii GC1	1
+Aeromonas sp. A034	1
+Aeromonas sp. MR16	1
+Aeromonas sp. MR19	1
+Aeromonas sp. MR7	1
+Aeromonas veronii A10	1
+Aeromonas veronii C4	1
+Aeromonas veronii strain KR2-5	1
+african green monkey	1
+Aggregatibacter actinomycetemcomitans D11S-1	1
+Agrobacterium radiobacter M13 (synonym: Rhizobium radiobacter)	1
+Agrobacterium radiobacter PL13	1
+Agrobacterium radiobacter PL17	1
+Agrobacterium sp.	1
+Agrobacterium tumefaciens 15955	1
+Akkermansia muciniphila NBRC 114322	1
+Alicyclobacillus acidoterrestris strain KKP 3133	1
+Aliivibrio fischeri ES114	1
+Alistipes shahii DA73	1
+Allivibrio fischeri H905	1
+Allonemobius socius	1
+alphaproteobacteria	1
+Alteromonadaceae	1
+Alteromonas abrolhosensis JKT1	1
+Alteromonas confluentis DSSK2-12	1
+Alteromonas gracilis 9a2	1
+Alteromonas litorea TF-22	1
+Alteromonas mediterranea PT11	1
+Alteromonas mediterranea PT15	1
+Alteromonas sp. H4	1
+Aminobacter sp. MSH1	1
+Amphimedon queenslandica	1
+Anabaena variabilis	1
+Anaerosphaera	1
+Anoxybacillus caldiproteolyticus	1
+Aphanizomenon flos-aquae	1
+Aqua eleuntes	1
+Aquamicrobium sp. H14	1
+Arthrobacter sp. 5B	1
+Arthrobacter sp. c7_119	1
+Arthronema africanum strain 1980/01	1
+Aurantimonas sp. C5-1	1
+avian pathogenic Escherichia coli and genetically engineered Escherichia coli B and K strain	1
+Azospirillum brasilense Cd	1
+Bacillus amyloliquefaciens KACC 12067	1
+Bacillus australimaris sKR4M-27	1
+Bacillus australimaris strain KR4M-27	1
+Bacillus bogoriensis	1
+Bacillus cereus 11-192	1
+Bacillus cereus 1582-3B	1
+Bacillus cereus 367-H	1
+Bacillus cereus AND1284	1
+Bacillus cereus ATCC 14579	1
+Bacillus cereus ATCC 21772	1
+Bacillus cereus ATCC 4342	1
+Bacillus cereus BtB2-4	1
+Bacillus cereus EFR-4	1
+Bacillus cereus EFR-5	1
+Bacillus cereus IS075	1
+Bacillus cereus JCM 2152	1
+Bacillus cereus LB2	1
+Bacillus cereus LH002	1
+Bacillus cereus MYB41-22	1
+Bacillus cereus N1	1
+Bacillus cereus NC7401/2455	1
+Bacillus cereus S58	1
+Bacillus cereus VD166	1
+Bacillus cereus VKM B-13	1
+Bacillus cereus VKM B-370	1
+Bacillus cereus/thuringiensis group	1
+Bacillus cohnii	1
+Bacillus halmapalus DSM 29712	1
+Bacillus licheniformis	1
+Bacillus licheniformis DSM13	1
+Bacillus licheniformis HNIBR-BC151	1
+Bacillus megaterium DSM 319	1
+Bacillus megaterium strain Km Sp-	1
+Bacillus mycoides	1
+Bacillus mycoides MC118	1
+Bacillus pseudofirmus	1
+Bacillus pumilus GL1	1
+Bacillus pumilus SAFR32	1
+Bacillus pumilus strain 145	1
+Bacillus pumilus strain CCTCC AB94180	1
+Bacillus safensis	1
+Bacillus sp. (in: firmicutes)	1
+Bacillus sp. 6k512	1
+Bacillus sp. G1R	1
+Bacillus sp. MGK1	1
+Bacillus sp. MGK1/ERV9	1
+Bacillus subtilis (natto)	1
+Bacillus subtilis 18	1
+Bacillus subtilis ATCC 14593	1
+Bacillus subtilis ATCC 33677	1
+Bacillus subtilis BGSC 1L32	1
+Bacillus subtilis BSC16	1
+Bacillus subtilis BSC21	1
+Bacillus subtilis CU 1065	1
+Bacillus subtilis G24	1
+Bacillus subtilis Goe2	1
+Bacillus subtilis Goe3	1
+Bacillus subtilis KCCM 11780	1
+Bacillus subtilis KCCM 12052	1
+Bacillus subtilis KCCM12511	1
+Bacillus subtilis Marburg strain	1
+Bacillus subtilis str. 168	1
+Bacillus subtilis subsp. natto	1
+Bacillus subtilis subsp. subtilis 168	1
+Bacillus tequilensis	1
+Bacillus thuringiensis 4B1	1
+Bacillus thuringiensis 4I1	1
+Bacillus thuringiensis 4J1	1
+Bacillus thuringiensis BGSC 4AJ1	1
+Bacillus thuringiensis BGSC 4R1	1
+Bacillus thuringiensis DSM-350	1
+Bacillus thuringiensis DSM350	1
+Bacillus thuringiensis HD73	1
+Bacillus thuringiensis israelensis	1
+Bacillus thuringiensis serovar kurstaki HD-1	1
+Bacillus thuringiensis serovar tenebrionis strain YBT-1765	1
+Bacillus thuringiensis subsp. tenebrionis YBT-1765	1
+Bacillus thuringiensis var. israelensis ATCC 35646	1
+Bacillus thuringiensis VKM B-83	1
+Bacillus thuringiensis YBT-1518	1
+Bacillus thuringiensis YBT-1765	1
+Bacillus velezensis	1
+Bacillus weihenstephanensis MG1	1
+Bacilus cereus	1
+Bacteroides caecimuris	1
+Bacteroides dorei CL02T12C06	1
+Bacteroides fragilis BSC344	1
+Bacteroides fragilis DA494	1
+Bacteroides fragilis DA702	1
+Bacteroides fragilis GB124	1
+Bacteroides fragilis HM4	1
+Bacteroides fragilis HSP40 (ATCC 51477)	1
+Bacteroides fragilis NCTC	1
+Bacteroides fragilis TSN8	1
+Bacteroides intestinalis APC919/174	1
+Bacteroides intestinalis BG4	1
+Bacteroides kribbi U7	1
+Bacteroides ovatus BSC422	1
+Bacteroides ovatus BSC649	1
+Bacteroides ovatus LG1	1
+Bacteroides thetaiotaomicron DA47	1
+Bacteroides thetaiotaomicron DA498	1
+Bacteroides thetaiotaomicron DA709	1
+Bacteroides thetaiotaomicron jmh42	1
+Bacteroides thetaiotaomicron jmh43	1
+Bacteroides thetaiotaomicron jmh47	1
+Bacteroides thetaiotaomicron jmh51	1
+Bacteroides thetaiotaomicron jmh72	1
+Bacteroides thetaiotaomicron jmh79	1
+Bacteroides thetaiotaomicron VPI-5482	1
+Bacteroides thetaiotaomicron VPI-5483	1
+Bacteroides thetaiotaomicron VPI-5484	1
+Bacteroides thetaiotaomicron VPI-5485	1
+Bacteroides thetaiotaomicron VPI-5486	1
+Bacteroides thetaiotaomicron VPI-5487	1
+Bacteroides thetaiotaomicron VPI-5488	1
+Bacteroides thetaiotaomicron VPI-5489	1
+Bacteroides thetaiotaomicron VPI-5490	1
+Bacteroides thetaiotaomicron VPI-5491	1
+Bacteroides thetaiotaomicron VPI-5492	1
+Bacteroides thetaiotaomicron VPI-5493	1
+Bacteroides thetaiotaomicron VPI-5494	1
+Bacteroides thetaiotaomicron VPI-5495	1
+Bacteroides thetaiotaomicron VPI-5496	1
+Bacteroides thetaiotaomicron VPI-5497	1
+Bacteroides thetaiotaomicron VPI-5498	1
+Bacteroides thetaiotaomicron VPI-5499	1
+Bacteroides thetaiotaomicron VPI-5500	1
+Bacteroides thetaiotaomicron VPI-5501	1
+Bacteroides thetaiotaomicron VPI-5502	1
+Bacteroides thetaiotaomicron VPI-5503	1
+Bacteroides thetaiotaomicron VPI-5504	1
+Bacteroides thetaiotaomicron VPI-5505	1
+Bacteroides thetaiotaomicron VPI-5506	1
+Bacteroides thetaiotaomicron VPI-5507	1
+Bacteroides thetaiotaomicron VPI-5508	1
+Bacteroides uniformis BG16	1
+Bacteroides uniformis BG24	1
+Bacteroides uniformis DA730	1
+Bacteroides uniformis MB20-41	1
+Bacteroides uniformis MB20-85	1
+Bacteroides xylanisolvens DA788	1
+Bdellovibrio bacteriovorus H-I 109	1
+Bdellovibrio bacteriovorus HID13	1
+Bifidobacterium adolescentis DA720	1
+Bifidobacterium adolescentis DA746	1
+Bifidobacterium bifidum strain 317B	1
+Bifidobacterium pseudocatenulatum DA742	1
+Bifidobacterium pseudocatenulatum U19	1
+Bifidobacterium thermophilum 94004	1
+Bifidobacterium thermophilum MBT94004	1
+Blautia coccoides	1
+Bordetella bronchiseptica 4715	1
+Bordetella bronchiseptica Bb01	1
+Bradyrhizobium diazoefficiens USDA 122	1
+Bradyrhizobium diazoefficiens USDA110	1
+Bradyrhizobium japonicum S10J	1
+Brevibacterium flavum CCM251	1
+Brevundimonas pondensis EIF1	1
+Brochothrix thermosphacta HER1187	1
+Brucella abortus 45/20	1
+Brucella abortus 544	1
+brucella abortus S19	1
+Brucella canis	1
+Brucella inopinata strain BO1	1
+Brucella melitensis	1
+Brucella melitensis 16M	1
+Brucella melitensis Isfahan	1
+Brucella suis S708	1
+Burkholderia ambifaria strain LMG 17828	1
+Burkholderia cenocepacia 7780	1
+Burkholderia cenocepacia HI2424	1
+Burkholderia cenocepacia K56-2	1
+Burkholderia cenocepacia strain C6433	1
+Burkholderia cepacia LMG 18821	1
+Burkholderia contaminans	1
+Burkholderia contaminans 5080	1
+Burkholderia glumae LMG 2196 (= ATCC 33617)	1
+Burkholderia multivorans	1
+Burkholderia pseudomallei 1026b	1
+Burkholderia pseudomallei 9	1
+Burkholderia pseudomallei Bp82, Burkholderia thailandensis TUL1	1
+Burkholderia pseudomallei environmental isolate E0237	1
+Burkholderia pseudomallei HNBP001	1
+Burkholderia pseudomallei NCTC 13178	1
+Burkholderia pyrrocinia strain LMG 21824	1
+Burkholderia sp.	1
+Burkholderia thailandensis DV1	1
+Burkholderia thailandensis E058	1
+Burkholderia thailandensis E131	1
+Burkholdria pseudomallei	1
+Buttiauxella sp. environmental isolate G6	1
+Butyrivibrio sp.	1
+C. pecorum	1
+Caldibacillus debilis GB1	1
+Campylobacter coli 99-2	1
+Campylobacter coli CAN 10	1
+Campylobacter jejuni 1447	1
+Campylobacter jejuni 2206	1
+Campylobacter jejuni 49	1
+Campylobacter jejuni LBA65	1
+Campylobacter jejuni NCTC 11168	1
+Campylobacter jejuni RM1221	1
+Campylobacter jejuni subsp. jejuni 00-0949	1
+Campylobacter jejuni subsp. jejuni 00-1597	1
+Campylobacter jejuni subsp. jejuni 00-2425	1
+Campylobacter jejuni subsp. jejuni 00-6200	1
+Campylobacter jejuni subsp. jejuni 01-1512	1
+Campylobacter jejuni subsp. jejuni strain su252gM/12A	1
+candidate division TM7 DolZOral124_TM7_55_12	1
+Candidatus Azobacteroides pseudotrichonymphae	1
+Candidatus Hamiltonella defensa	1
+Candidatus Liberibacter asiaticus FJQZ7992	1
+Candidatus Liberibacter asiaticus FJSC2d	1
+Candidatus Liberibacter asiaticus GZQL4	1
+Candidatus Liberibacter asiaticus Myan16	1
+Candidatus Liberibacter asiaticus Psy62	1
+Candidatus Liberibacter asiaticus str. A4	1
+Candidatus Liberibacter asiaticus str. FJSMDT7	1
+Candidatus Liberibacter asiaticus str. FJYC1L	1
+Candidatus Liberibacter asiaticus str. FJYC3	1
+Candidatus Liberibacter asiaticus str. GDCH4	1
+Candidatus Liberibacter asiaticus str. GDCZ2	1
+Candidatus Liberibacter asiaticus str. GDCZ2JI	1
+Candidatus Liberibacter asiaticus str. GDCZ8042	1
+Candidatus Liberibacter asiaticus str. GDDQ6	1
+Candidatus Liberibacter asiaticus str. GDDQ6-1	1
+Candidatus Liberibacter asiaticus str. GDDQ7	1
+Candidatus Liberibacter asiaticus str. GDDQ7-1	1
+Candidatus Liberibacter asiaticus str. GDHZ4	1
+Candidatus Liberibacter asiaticus str. GDMM218	1
+Candidatus Liberibacter asiaticus str. GDMZ1	1
+Candidatus Liberibacter asiaticus str. GDMZ2	1
+Candidatus Liberibacter asiaticus str. GDMZMY12	1
+Candidatus Liberibacter asiaticus str. GDQY1	1
+Candidatus Liberibacter asiaticus str. GDQY8	1
+Candidatus Liberibacter asiaticus str. GDSG8267	1
+Candidatus Liberibacter asiaticus str. GDXH1	1
+Candidatus Liberibacter asiaticus str. GDXH2	1
+Candidatus Liberibacter asiaticus str. GDXH9661	1
+Candidatus Liberibacter asiaticus str. GDYF2159	1
+Candidatus Liberibacter asiaticus str. GDYJ14	1
+Candidatus Liberibacter asiaticus str. GDZC10	1
+Candidatus Liberibacter asiaticus str. GSTJF3P	1
+Candidatus Liberibacter asiaticus str. GWGF5P	1
+Candidatus Liberibacter asiaticus str. GXHZ9	1
+Candidatus Liberibacter asiaticus str. GXLP2	1
+Candidatus Liberibacter asiaticus str. GXLZ17	1
+Candidatus Liberibacter asiaticus str. GXNN32	1
+Candidatus Liberibacter asiaticus str. GXNN6	1
+Candidatus Liberibacter asiaticus str. GZCJ1	1
+Candidatus Liberibacter asiaticus str. HHCA	1
+Candidatus Liberibacter asiaticus str. HNBZ8153	1
+Candidatus Liberibacter asiaticus str. HNJY16	1
+Candidatus Liberibacter asiaticus str. HNQHF5	1
+Candidatus Liberibacter asiaticus str. HNQZ5	1
+Candidatus Liberibacter asiaticus str. HNYX16	1
+Candidatus Liberibacter asiaticus str. HNYX8	1
+Candidatus Liberibacter asiaticus str. JXGC	1
+Candidatus Liberibacter asiaticus str. JXGN13	1
+Candidatus Liberibacter asiaticus str. JXGZ8421	1
+Candidatus Liberibacter asiaticus str. JXXF236	1
+Candidatus Liberibacter asiaticus str. SCYB13F	1
+Candidatus Liberibacter asiaticus str. SGCA5	1
+Candidatus Liberibacter asiaticus str. YNJS47	1
+Candidatus Liberibacter asiaticus str. YNJS5	1
+Candidatus Liberibacter asiaticus str. YNJS9347	1
+Candidatus Liberibacter asiaticus str. YNJSMG5	1
+Candidatus Liberibacter asiaticus str. YNJSMGG	1
+Candidatus Liberibacter asiaticus strain GDHZ11D	1
+Candidatus Liberibacter asisticus	1
+Candidatus Lokiarchaeota archaeon 6Rcc_78	1
+Candidatus Megaira polyxenophila	1
+Candidatus Nitrososphaera sp. EN76	1
+Candidatus Pelagibacter ubique HTCC1063	1
+Candidatus Puniceispirillum marinum IMCC1322	1
+carbapenem-resistant Acinetobacter baumannii	1
+carbapenem-resistant Pseudomonas aeruginosa YMC11/07/P54	1
+cattle	1
+Caulobacter sp. CBR1	1
+Cedecea davisae	1
+Celeribacter sp. IMCC12053	1
+Cellulophaga baltica '#3 r phiST'	1
+Cellulophaga baltica #10	1
+Cellulophaga baltica #14	1
+Cellulophaga baltica #4	1
+Cellulophaga baltica NN014847	1
+Cellulophaga baltica NN015839	1
+Cellulophaga baltica NN015840	1
+Cellulophaga baltica NN016048	1
+Cellulophaga baltica OL12a	1
+Cellulosimicrobium sp.	1
+Chlamydia pneumoniae AR39	1
+Chlamydophila abortus	1
+Chlorobiaceae bacterium strain GSB-B	1
+Christensenellales	1
+Circulifer haematoceps	1
+Citrobacter amalonaticus	1
+Citrobacter braakii	1
+Citrobacter braakii CF69	1
+Citrobacter braakii GW-Imi-1b1	1
+Citrobacter freundii CF8	1
+Citrobacter freundii KKP 3655	1
+Citrobacter freundii P10159	1
+Citrobacter freundii ZY198	1
+Citrobacter koseri	1
+Citrobacter portucalensis Sb-2	1
+Citrobacter sp.	1
+Citrobacter sp. JL 976	1
+Citrobacter sp. JL 978	1
+Citrobacter sp. TM1552	1
+Citromicrobium bathyomarinum JL1366	1
+Citromicrobium sp. RCC1878	1
+Clavibacter michiganensis CN18-4	1
+Clostridioides difficile CD1801	1
+Clostridioides difficile CD500-12	1
+Clostridioides difficile HGP05	1
+Clostridioides difficile LCUS 0508	1
+Clostridioides difficile Semix9	1
+Clostridioides difficile ST632	1
+Clostridioides difficile TW69	1
+Clostridioides sp. ES-S-0107-01	1
+Clostridioides sp. ES-S-0173-01	1
+Clostridium botulinum 3859/11	1
+Clostridium botulinum BKT2873	1
+Clostridium botulinum type C strain C-Stockholm	1
+Clostridium butyricum BSC452	1
+Clostridium difficile AIU	1
+Clostridium perfringens 012	1
+Clostridium perfringens 5147-97	1
+Clostridium perfringens 556	1
+Clostridium perfringens ATCC 13124	1
+Clostridium perfringens ATCC 13124; Clostridium perfringens FORC 25	1
+Clostridium perfringens CfpQ	1
+Clostridium perfringens CVCC1155	1
+Clostridium perfringens D22	1
+Clostridium perfringens DB-ZI-15	1
+Clostridium perfringens FORC 25	1
+Clostridium perfringens JCM 1290T	1
+Clostridium perfringens S13	1
+Clostridium perfringens SM101	1
+Clostridium perfringens SM3	1
+Clostridium perfringens strain S63	1
+Clostridium perfringens ZWCP 21	1
+Clostridium saccharoperbutylacetonicum N1-4 (HMT)	1
+Clostridium sporogenes	1
+Clostridium tetani ATCC 9441	1
+Colistin resistant Escherichia coli clinical isolate U1007	1
+Corynebacterium glutamicum ATCC 21792	1
+Corynebacterium pseudotuberculosis	1
+Corynebacterium pseudotuberculosis 31	1
+Corynebacterium pseudotuberculosis biovar Equi 32	1
+Corynebacterium pseudotuberculosis biovar Equi 33	1
+Corynebacterium pseudotuberculosis biovar Equi 34	1
+Corynebacterium pseudotuberculosis biovar Equi 35	1
+Corynebacterium pseudotuberculosis biovar Equi 36	1
+Corynebacterium pseudotuberculosis biovar Equi 38	1
+Corynebacterium pseudotuberculosis biovar Equi 39	1
+Corynebacterium pseudotuberculosis biovar Equi 48	1
+Corynebacterium simulans IME1320	1
+Cronobacter dublinensis NCTC 9844	1
+Cronobacter malonaticus LMG 23826	1
+Cronobacter sakazakii ATCC BAA 894	1
+Cronobacter sakazakii ATCC29544	1
+Cronobacter sakazakii NCTC 11467	1
+Cronobacter sakazakii NTU701	1
+Cronobacter turicensis cro1541A1-1	1
+Cronobacter turicensis DNV1	1
+crown	1
+Cutibacterium acnes 01-A-087	1
+Cutibacterium acnes 03-A-023	1
+Cutibacterium acnes 11827	1
+Cutibacterium acnes 7	1
+Cutibacterium acnes ATCC 29399	1
+Cutibacterium acnes PAc-125	1
+Cutibacterium acnes subsp. acnes	1
+Cylindrospermopsis raciborskii	1
+Cylindrospermopsis raciborskii KLL06	1
+Cylindrospermopsis raciborskii KLL07	1
+Cytobacillus firmus DS1	1
+Cytobacillus oceanisediminis	1
+Delftia acidovorans	1
+Delftia sp. 670	1
+Delftia tsuruhatensis ARB-1	1
+Desulfovibrio desulfuricans strain Edelweiss	1
+Dickeya chrysanthemi	1
+Dickeya dadantii BIM B-921	1
+Dickeya dianthicola F101	1
+Dickeya dianthicola F127	1
+Dickeya dianthicola F85	1
+Dickeya solani DSM 28711	1
+Dickeya solani F012	1
+Dickeya solani F155	1
+Dickeya sp.	1
+Dickeya sp. B16	1
+Didelphis marsupialis	1
+Dinoroseobacter shibae DFL12.	1
+Dinoroseobacter shibae DFL12T	1
+Dorea sp. 000433215 DA134	1
+E. coli O157:H7 strain CB2851	1
+E. coli ONT:H- strain 2771/97	1
+Edwardsiella anguillarum EA011113	1
+Edwardsiella piscicida EIB202	1
+Edwardsiella tarda ATCC 15941	1
+Eggerthella lenta DA753	1
+Eggerthella lenta DSM 15644	1
+Entercoccus fecalis	1
+Enterobacter aerogenes 3-SP	1
+Enterobacter asburiae	1
+Enterobacter bugandensis	1
+Enterobacter cloacae (BPA MR E3)	1
+Enterobacter cloacae (BPA MR KB)	1
+Enterobacter cloacae 26	1
+Enterobacter cloacae 29796	1
+Enterobacter cloacae 30345	1
+Enterobacter cloacae 55269	1
+Enterobacter cloacae A22-2B	1
+Enterobacter cloacae ATCC 50398 MR2	1
+Enterobacter cloacae ATCC 50398 ZM	1
+Enterobacter cloacae CEMTC 2064	1
+Enterobacter cloacae CEMTC2064	1
+Enterobacter cloacae clinial isolate EC7	1
+Enterobacter cloacae EC6	1
+Enterobacter cloacae KMB536	1
+Enterobacter cloacae SRM004	1
+Enterobacter cloacae ZJ0206	1
+Enterobacter hormaechei ST 742	1
+Enterobacter kobei	1
+Enterobacter ludwigii	1
+Enterobacter ludwigii KKP 3083	1
+Enterobacter mori GQN5-3	1
+Enterobacter sp. E12	1
+Enterobacter sp. KKP_3684	1
+Enterobacteriaceae bacterium	1
+Enterobacteriaceae bacterium bta3-1	1
+Enterocloster bolteae Q14	1
+Enterococcus avium BBCO_DT_2	1
+Enterococcus durans	1
+Enterococcus faecalis (HLGR5; high level gentamycin resistance)	1
+Enterococcus faecalis 002	1
+Enterococcus faecalis 1/1112	1
+Enterococcus faecalis 11883A	1
+Enterococcus faecalis 2003	1
+Enterococcus faecalis 2007	1
+Enterococcus faecalis 2008	1
+Enterococcus faecalis 338	1
+Enterococcus faecalis 47/3	1
+Enterococcus faecalis 62	1
+Enterococcus faecalis 882	1
+Enterococcus faecalis 94-1	1
+Enterococcus faecalis 947	1
+Enterococcus faecalis 959-2	1
+Enterococcus faecalis ATCC 19433	1
+Enterococcus faecalis ATCC 49533	1
+Enterococcus faecalis B-12629 (ATCC 23655)	1
+Enterococcus faecalis DA326	1
+Enterococcus faecalis EF-01	1
+Enterococcus faecalis ef118	1
+Enterococcus faecalis EF2	1
+Enterococcus faecalis EF54	1
+Enterococcus faecalis EF6	1
+Enterococcus faecalis EfsC1	1
+Enterococcus faecalis EfsC129	1
+Enterococcus faecalis EfsC13	1
+Enterococcus faecalis EfsC23	1
+Enterococcus faecalis EfsC29	1
+Enterococcus faecalis EfsC43	1
+Enterococcus faecalis EfsC74	1
+Enterococcus faecalis EfsPF23	1
+Enterococcus faecalis EfsPF24-2	1
+Enterococcus faecalis EfsPF27	1
+Enterococcus faecalis EfsPF36	1
+Enterococcus faecalis EnF3	1
+Enterococcus faecalis EnGen0211	1
+Enterococcus faecalis EnGen0243	1
+Enterococcus faecalis FAIR-E238	1
+Enterococcus faecalis GF29	1
+Enterococcus faecalis KCOM 1162	1
+Enterococcus faecalis N10	1
+Enterococcus faecalis N13	1
+Enterococcus faecalis YN771	1
+Enterococcus faecium 2111230062	1
+Enterococcus faecium 374iF1 (22)	1
+Enterococcus faecium 80	1
+Enterococcus faecium ATCC 19434	1
+Enterococcus faecium strain UCH5	1
+Enterococcus gallinarum	1
+Enterococcus gallinarum BBC_KY_5	1
+Enterococcus gallinarum SY2-1	1
+Enterococcus hirae BBCO_MU_1	1
+Enterococcus sp. L2-248	1
+Enterococcus sp. VKM B-1578	1
+Enterohemorrhagic Escherichia coli	1
+enterotoxigenic Escherichia coli 2255272	1
+enterotoxigenic Escherichia coli 278485-2	1
+Enterotoxigenic Escherichia coli ETEC-TG	1
+Enterotoxigenic Escherichia coli serovar O:139	1
+Entrococcus faecalis	1
+Erwinia amylovora B0.1960 (NCAIM, Hungary)	1
+Erwinia amylovora DSM17948	1
+Erwinia amylovora Ea102	1
+Erwinia amylovora IVIA 1526.6	1
+Erwinia amylovora IVIA 1614.1	1
+Erwinia amylovora KT-1	1
+Erwinia amylovora NBRC 12687 = CFBP 1232	1
+Erwinia amylovora PGL Z1	1
+Erwinia amylovora strain Ea1	1
+Erwinia amylovora; Erwinia pyrifoliae	1
+Erwinia aphidicola B01_10	1
+Erwinia aphidicola B01_5	1
+Erwinia aphidicola N2_6	1
+Erwinia aphidicola W09_2	1
+Erwinia iniecta	1
+Erwinia persicina	1
+Erwinia rhapontici	1
+Erwinia sp. AnSW2-5	1
+Erwinia sp. SH30	1
+Erwinia sp. SH40	1
+Erwinia sp. TAC1.XII.93.2 (de Vries et al. 2001)	1
+Erwinia sp. TAC1.XII.93.8 (Vries et al. 2001)	1
+Erwinia sp. YA1	1
+Erwinia tracheiphila	1
+Erwinia tracheiphila BHKY	1
+Erwinia tracheiphila MDcuke	1
+Erysipelothrix rhusiopathiae	1
+Erysipelothrix rhusiopathiae ZJ	1
+Erysiphe necator	1
+Erythrobacter litoralis DSM 8509	1
+Erythrobacter sp.	1
+Eschericha coli	1
+Escherichia	1
+Escherichia Coli	1
+Escherichia coli (EIEC)	1
+Escherichia coli (ETEC)	1
+Escherichia coli (ETEC) U74 (enterotoxigenic)	1
+Escherichia coli (Shiga toxin-producing)	1
+Escherichia coli (STEC)	1
+Escherichia coli (uropathogenic; UPEC)	1
+Escherichia coli #5522	1
+Escherichia coli 147-30R1	1
+Escherichia coli 15-318 (MDR)	1
+Escherichia coli 162	1
+Escherichia coli 1639/77	1
+Escherichia coli 164	1
+Escherichia coli 172	1
+Escherichia coli 187	1
+Escherichia coli 187 serotype O145	1
+Escherichia coli 192	1
+Escherichia coli 204576	1
+Escherichia coli 22	1
+Escherichia coli 25922	1
+Escherichia coli 3-104	1
+Escherichia coli 333	1
+Escherichia coli 40371	1
+Escherichia coli 41	1
+Escherichia coli 49	1
+Escherichia coli 5	1
+Escherichia coli 503458	1
+Escherichia coli 520873	1
+Escherichia coli 6581 (resistance phenotype APEC 9062)	1
+Escherichia coli A11-1675 serogroup O146:H21	1
+Escherichia coli APCE50	1
+Escherichia coli APEC DE205B	1
+Escherichia coli APEC E13010	1
+Escherichia coli APEC E19057	1
+Escherichia coli APEC IMT5155	1
+Escherichia coli APEC O78	1
+Escherichia coli APEC strain QZJM25	1
+Escherichia coli ART2	1
+Escherichia coli ATCC 43888	1
+Escherichia coli ATCC 43895	1
+Escherichia coli ATCC 43895 (STEC)	1
+Escherichia coli ATCC 8739	1
+Escherichia coli ATCC BAA-2469	1
+Escherichia coli B strains	1
+Escherichia coli B-01	1
+Escherichia coli B19	1
+Escherichia coli B39	1
+Escherichia coli B73	1
+Escherichia coli Bbest	1
+Escherichia coli BF4	1
+Escherichia coli BL21 (DE3)	1
+Escherichia coli BSC202	1
+Escherichia coli BW25113 strain K-12	1
+Escherichia coli c1a	1
+Escherichia coli CB10	1
+Escherichia coli CB13353, serotype O104:H4	1
+Escherichia coli CB13357, serotype O104:H4	1
+Escherichia coli CB13363, serotype O104:H4	1
+Escherichia coli CB13368, serotype O104:H4	1
+Escherichia coli CB13374, serotype O104:H4	1
+Escherichia coli CCCD-E003	1
+Escherichia coli CEFAR CCCD-E003	1
+Escherichia coli clinical isolate 3	1
+Escherichia coli CP9	1
+Escherichia coli CVCC198	1
+Escherichia coli DE017	1
+Escherichia coli DE142	1
+Escherichia coli DE172	1
+Escherichia coli DE217	1
+Escherichia coli DE48	1
+Escherichia coli DE69	1
+Escherichia coli delta fhuA	1
+Escherichia coli delta rfaD	1
+Escherichia coli DH5	1
+Escherichia coli DM01	1
+Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775	1
+Escherichia coli DSM 50902	1
+Escherichia coli DSM 613	1
+Escherichia coli E008	1
+Escherichia coli E123WT O78	1
+Escherichia coli E18055	1
+Escherichia coli EAEC strain (55989Str)	1
+Escherichia coli EC-YP1907-33	1
+Escherichia coli EC14	1
+Escherichia coli EC762	1
+Escherichia coli EcM2K (ST446)	1
+Escherichia coli Eco-21	1
+Escherichia coli ECOR10	1
+Escherichia coli ECOR57	1
+Escherichia coli Ef-158	1
+Escherichia coli Ef-238	1
+Escherichia coli ek31-2	1
+Escherichia coli ESBL010	1
+Escherichia coli ESBL012	1
+Escherichia coli ESBL033	1
+Escherichia coli ESBL053	1
+Escherichia coli ESBL056	1
+Escherichia coli ESBL080	1
+Escherichia coli ESBL083	1
+Escherichia coli ESBL120	1
+Escherichia coli ESBL133	1
+Escherichia coli ESBL146	1
+Escherichia coli ESBL158	1
+Escherichia coli ET03 (enterotoxigenic)	1
+Escherichia coli ET14 (enterotoxigenic)	1
+Escherichia coli ETEC O6:K15	1
+Escherichia coli EX3-6	1
+Escherichia coli FORC82	1
+Escherichia coli GAM+7	1
+Escherichia coli GRNDC2	1
+Escherichia coli GXEC-H4	1
+Escherichia coli GXXWH2	1
+Escherichia coli H11	1
+Escherichia coli H21	1
+Escherichia coli HS(pFamp)R (ATCC 700891)	1
+Escherichia coli HY05C	1
+Escherichia coli IHE3034	1
+Escherichia coli K-12 (F+)	1
+Escherichia coli K-12 CV601	1
+Escherichia coli K-12 IJ2038	1
+Escherichia coli K-12, MG1655	1
+Escherichia coli K1	1
+Escherichia coli K1 strain EH954	1
+Escherichia coli K88	1
+Escherichia coli K88 cvcc83902	1
+Escherichia coli K92	1
+Escherichia coli KBN3440 (clinical isolate)	1
+Escherichia coli KBP135	1
+Escherichia coli KBP1711	1
+Escherichia coli KBP21	1
+Escherichia coli KL53	1
+Escherichia coli KMB506	1
+Escherichia coli KMB512	1
+Escherichia coli KMB517	1
+Escherichia coli KMB518	1
+Escherichia coli KMB528	1
+Escherichia coli KMB575	1
+Escherichia coli KMB704	1
+Escherichia coli M2929-1AR	1
+Escherichia coli MG1655 F(+)	1
+Escherichia coli min27	1
+Escherichia coli MP1	1
+Escherichia coli MQ1	1
+Escherichia coli MQ220627	1
+Escherichia coli MTCC 901	1
+Escherichia coli MTCC MG1687	1
+Escherichia coli MTCC728	1
+Escherichia coli N1203-2Af	1
+Escherichia coli NBRC 3972:	1
+Escherichia coli NCTC 13353	1
+Escherichia coli NovaBlue	1
+Escherichia coli NRT114	1
+Escherichia coli O:157 EC-48	1
+Escherichia coli O103-1	1
+Escherichia coli O103:H11	1
+Escherichia coli O103:H2 90-3128	1
+Escherichia coli O103:H25 strain NIPH-11060707/NVH-848	1
+Escherichia coli O104:H4 strain ON-2011	1
+Escherichia coli O111:H-	1
+Escherichia coli O111:H2 strain ED 191	1
+Escherichia coli O111:NM 96-3166	1
+Escherichia coli O117:H7 strain 23169	1
+Escherichia coli O127:B8	1
+Escherichia coli O145	1
+Escherichia coli O145:H- strain FB5	1
+Escherichia coli O157 EC-48 (63-Fv18-1)	1
+Escherichia coli O157: H7	1
+Escherichia coli O157:H43 str. T22	1
+Escherichia coli O157:H7 ATCC 10536	1
+Escherichia coli O157:H7 ATCC 43890	1
+Escherichia coli O157:H7 ATCC 43894	1
+Escherichia coli O157:H7 ATCC 43984, ATCC 43895	1
+Escherichia coli O157:H7 E318	1
+Escherichia coli O157:H7 Okayama O-27	1
+Escherichia coli O157:H7 Sakai	1
+Escherichia coli O157:H7 SH2026	1
+Escherichia coli O157:H7 str. EDL933	1
+Escherichia coli O157:H7 str. Min27	1
+Escherichia coli O157:H7 strain 1447	1
+Escherichia coli O157:H7 strain 71074	1
+Escherichia coli O157:H7 strain 980938	1
+Escherichia coli O157:H7 strain 981509	1
+Escherichia coli O157:H7 strain 981795	1
+Escherichia coli O157:H7 strain 982243	1
+Escherichia coli O157:H7 strain 990281	1
+Escherichia coli O157:H7 strain 990570	1
+Escherichia coli O157:H7 strain F349	1
+Escherichia coli O157:H7 strain F403	1
+Escherichia coli O157:H7 strain F422	1
+Escherichia coli O157:H7 strain F451	1
+Escherichia coli O157:H7 strain F578	1
+Escherichia coli O157:H7 strain F723	1
+Escherichia coli O157:H7 strain F765	1
+Escherichia coli O157:H7, strain EDL933	1
+Escherichia coli O157:H7, strain RIMD0509894	1
+Escherichia coli O165:H8	1
+Escherichia coli O26	1
+Escherichia coli O45:H10	1
+Escherichia coli O55:H7 str. DEC5E	1
+Escherichia coli O78:K80	1
+Escherichia coli O78.A	1
+Escherichia coli O80:H2	1
+Escherichia coli O86:H-, strain DIJ1	1
+Escherichia coli P433	1
+Escherichia coli PA11	1
+Escherichia coli PA12	1
+Escherichia coli PA16	1
+Escherichia coli PA18	1
+Escherichia coli PA2	1
+Escherichia coli PA21	1
+Escherichia coli PA27	1
+Escherichia coli PA28	1
+Escherichia coli PA29	1
+Escherichia coli PA30	1
+Escherichia coli PA32	1
+Escherichia coli PA33	1
+Escherichia coli PA36	1
+Escherichia coli PA4	1
+Escherichia coli PA42	1
+Escherichia coli PA44	1
+Escherichia coli PA45	1
+Escherichia coli PA5	1
+Escherichia coli PA50	1
+Escherichia coli PA51	1
+Escherichia coli PA52	1
+Escherichia coli PA8	1
+Escherichia coli PB2	1
+Escherichia coli RS218	1
+Escherichia coli S3Lug	1
+Escherichia coli S88 O45:H7:K1	1
+Escherichia coli SA02	1
+Escherichia coli SD-C888	1
+Escherichia coli serotype 08	1
+Escherichia coli serotype O157:H7	1
+Escherichia coli SKB178	1
+Escherichia coli SL19-2	1
+Escherichia coli ST130	1
+Escherichia coli ST131 O25b:H4:K1	1
+Escherichia coli ST131 O25b:H4:K2	1
+Escherichia coli STEC O111	1
+Escherichia coli STEC O179	1
+Escherichia coli STEC O45	1
+Escherichia coli STEC1575	1
+Escherichia coli str. K-12 MG1655	1
+Escherichia coli str. K-12 substr MG1655	1
+Escherichia coli str. K-12 substr. DH10B	1
+Escherichia coli str. K-12 substr. W3110	1
+Escherichia coli strain 4215/4 serogroup O103	1
+Escherichia coli strain 8099	1
+Escherichia coli strain A11-1675 serogroup O146:H21	1
+Escherichia coli strain EF467	1
+Escherichia coli strain K12	1
+Escherichia coli strain LM33	1
+Escherichia coli strain M187	1
+Escherichia coli strain M226	1
+Escherichia coli strain M242	1
+Escherichia coli strain MG1655 Z1	1
+Escherichia coli strain O174:H21 isolate 1720a	1
+Escherichia coli strain SCU-107	1
+Escherichia coli strain SCU-175	1
+Escherichia coli Tur3	1
+Escherichia coli Tur5	1
+Escherichia coli UFV30	1
+Escherichia coli UPEC124	1
+Escherichia coli UTI89	1
+Escherichia coli VN2-O8:F4 ETEC	1
+Escherichia coli W strain ATCC9637	1
+Escherichia coli X3	1
+Escherichia coli XAM237	1
+Escherichia coli YO1	1
+Escherichia coli, strain 4795/97, serotype O84:H4	1
+Escherichia coli; O157:H7; NCTC 12900	1
+Escherichia coli; Salmonella sp.	1
+Escherichia coli; Shigella sonnei	1
+Escherichia fergusonii	1
+Escherichia fergusonii KCTC 4848	1
+Escherichia fergusonii O14	1
+Escherichia fergusonii T12	1
+Escherichia fergusonii Y9	1
+Escherichia marmotae SB1	1
+Escherichia sp. GXEC-TM1	1
+Escherichia sp. HC-25922	1
+Escherichia sp. JL 983	1
+Escherichia sp. Mg1655	1
+Escherichia sp. MOD1-EC6098	1
+Escherichia sp. STEC O121	1
+Escherichia sp. STEC O157	1
+Escrehichea coli	1
+Eurypanopeus depressus	1
+Exiguobacterium aurantiacum	1
+Exiguobacterium aurantiacum DSM 29719	1
+Exiguobacterium sp. BV25	1
+Faecalibacterium sp. FM8	1
+Faecalibacterium sp. L2-61	1
+Flavobacterium columnare B185	1
+Flavobacterium columnare NBRC 100251 = ATCC 23463	1
+Flavobacterium psychrophilum 305-4	1
+Flavobacterium psychrophilum 990512-1/1B	1
+Flavobacterium psychrophilum A2	1
+Flavobacterium psychrophilum F026	1
+Flavobacterium psychrophilum F482	1
+Flavobacterium psychrophilum FPS-D14	1
+Flavobacterium psychrophilum FPS-D2	1
+Flavobacterium psychrophilum FPS-D5	1
+Flavobacterium psychrophilum FPS-D8	1
+Flavobacterium psychrophilum FPS-S2	1
+Flavobacterium psychrophilum FPS-S30	1
+Flavobacterium psychrophilum FPS-S7	1
+Flavobacterium psychrophilum MH1	1
+Flavobacterium psychrophilum strain 135-1	1
+Flavobacterium psychrophilum strain 990512-1/B	1
+Flavobacterium psychrophilum strain FPS-D2	1
+Flavobacterium psychrophilum strain FPS-S2	1
+Flavobacterium psychrophilum strain FPS-S37	1
+Flavobacterium psychrophilum strain MH1	1
+Flavobacterium psychrophilum T23	1
+Flavobacterium sp.	1
+Flavobacterium sp. B183	1
+Flavobacterium sp. B330	1
+frog	1
+Fusobacterium necrophorum subsp. funduliforme RTG5	1
+Fusobacterium necrophorum subsp. necrophorum strain FN37	1
+Fusobacterium nucleatum 7_1	1
+Fusobacterium nucleatum ATCC 10953	1
+Fusobacterium nucleatum ATCC 25586	1
+Fusobacterium sp.	1
+Gardnerella vaginalis P680	1
+Geobacillus	1
+Geobacillus sp. 6k51	1
+Geobacillus stearothermophilus 2184	1
+Geobacillus stearothermophilus ATCC 10149	1
+Gluconobacter cerinus	1
+Glutamicibacter halophytocola	1
+Gordonia alkanivorans strain CON72	1
+Gordonia malaquae A448	1
+Gordonia malaquae CON60	1
+Gordonia malaquae CON67	1
+Gordonia rubropertincta strain CON38	1
+Gordonia rubropertincta strain Grub38	1
+Gordonia sputi	1
+Gordonia terrae	1
+Gordonia terrae strain Ben601	1
+Gordonia terrae strain CON34	1
+Gordonia terrae strain G232	1
+Gordonia terrae strain Gter34	1
+group C Streptococci	1
+Haemophilus parasuis 34086b	1
+Hafnia alvei	1
+Hafnia paralvei LY-23	1
+Hafnia sp. JB232	1
+Haliotis diversicolor aquatilis	1
+Haloarcula vallismortis	1
+Halobacterium salinarum R1	1
+Halobacterium salinarum strain S9	1
+Haloferax sp. Atlit 48N	1
+Haloferax sp. LR2-5	1
+Haloferax volcanii	1
+Halogeometricum sp. CG-9	1
+Halomonas meridiana	1
+Halomonas sp. H5	1
+Halomonas ventosae	1
+Halorubrum distributum ICIS4	1
+Halorubrum sp. BL25	1
+Halorubrum sp. BL36	1
+Halorubrum sp. K2	1
+Halorubrum sp. LN27	1
+Halorubrum sp. LR1-23	1
+Halorubrum sp. LR2-12	1
+Halorubrum sp. LR2-17	1
+Halorubrum sp. PV6	1
+Halorubrum sp. SP3-3	1
+Halorubrum sp. SS5-4	1
+Halorubrum sp. SS7-4	1
+Haloterrigena jeotgali strain A29	1
+Helicobacter pylori B45	1
+Helicobacter pylori strain 3401	1
+horse	1
+Hungatella sp. 005845265 CSC17	1
+Hydrogenobaculum	1
+Hydrogenophilus thermoluteolus	1
+hypervirulent Aeromonas hydrophila Hyp AH Koi-20	1
+Idiomarinaceae bacterium N2-2	1
+Iodobacter sp. CdM7	1
+Janthinobacterium lividum EIF1	1
+K47 serotype Klebsiella pneumoniae	1
+Klebsiella aerogenes MAO-MM-7	1
+Klebsiella aerogenes N1	1
+Klebsiella michiganensis PS_Koxy2	1
+Klebsiella oxytoca AD3	1
+Klebsiella oxytoca ATCC 43863	1
+Klebsiella oxytoca BBCO_XO_1	1
+Klebsiella oxytoca clinical isolate	1
+Klebsiella oxytoca L2-97	1
+Klebsiella pneumoniae (clinical isolate 11)	1
+Klebsiella pneumoniae (clinical isolate no. 15)	1
+Klebsiella pneumoniae (clinical isolate no. 26)	1
+Klebsiella pneumoniae (clinical isolate no. 28)	1
+Klebsiella pneumoniae 07RAFM-KPN-503	1
+Klebsiella pneumoniae 07RAFM-KPN-552	1
+Klebsiella pneumoniae 0915	1
+Klebsiella pneumoniae 1025	1
+Klebsiella pneumoniae 111-2	1
+Klebsiella pneumoniae 1183	1
+Klebsiella pneumoniae 12092025	1
+Klebsiella pneumoniae 152410	1
+Klebsiella pneumoniae 18060312	1
+Klebsiella pneumoniae 184	1
+Klebsiella pneumoniae 2092	1
+Klebsiella pneumoniae 21AA3004	1
+Klebsiella pneumoniae 2544	1
+Klebsiella pneumoniae 32416	1
+Klebsiella pneumoniae 355	1
+Klebsiella pneumoniae 409	1
+Klebsiella pneumoniae 4515	1
+Klebsiella pneumoniae 4727	1
+Klebsiella pneumoniae 52.145 K2	1
+Klebsiella pneumoniae 52145 serotype K2	1
+Klebsiella pneumoniae 71Y	1
+Klebsiella pneumoniae 8110W-B	1
+Klebsiella pneumoniae A1	1
+Klebsiella pneumoniae A106	1
+Klebsiella pneumoniae A2312NM/ATCC BAA1706	1
+Klebsiella pneumoniae A25	1
+Klebsiella pneumoniae A85	1
+Klebsiella pneumoniae AE2 seroptype K54	1
+Klebsiella pneumoniae ASM41783V1	1
+Klebsiella pneumoniae ATCC BAA-2146TM	1
+Klebsiella pneumoniae B-7850	1
+Klebsiella pneumoniae B11	1
+Klebsiella pneumoniae B16	1
+Klebsiella pneumoniae B21	1
+Klebsiella pneumoniae B3768	1
+Klebsiella pneumoniae baa-2146	1
+Klebsiella pneumoniae BM7	1
+Klebsiella pneumoniae BS317-1	1
+Klebsiella pneumoniae BS375-3	1
+Klebsiella pneumoniae BU9	1
+Klebsiella pneumoniae BUCT711	1
+Klebsiella pneumoniae BUCT712	1
+Klebsiella pneumoniae CEMTC 1967	1
+Klebsiella pneumoniae CEMTC 5232	1
+Klebsiella pneumoniae CG258-ST307	1
+Klebsiella pneumoniae clinical strain	1
+Klebsiella pneumoniae CU616	1
+Klebsiella pneumoniae DB_TX_2	1
+Klebsiella pneumoniae DSM 30104	1
+Klebsiella pneumoniae DSM30104	1
+Klebsiella pneumoniae EuSCAPE_IT395	1
+Klebsiella pneumoniae FK1979	1
+Klebsiella pneumoniae FK2046	1
+Klebsiella pneumoniae G14	1
+Klebsiella pneumoniae GC258-ST258 (carbapenem-resistant)	1
+Klebsiella pneumoniae GZ-1	1
+Klebsiella pneumoniae H151440672	1
+Klebsiella pneumoniae H66	1
+Klebsiella pneumoniae IITR008	1
+Klebsiella pneumoniae J24552	1
+Klebsiella pneumoniae JDM777	1
+Klebsiella pneumoniae JNKPN23	1
+Klebsiella pneumoniae K1 NCTC5054	1
+Klebsiella pneumoniae K143	1
+Klebsiella pneumoniae K20	1
+Klebsiella pneumoniae K2044	1
+Klebsiella pneumoniae K23	1
+Klebsiella pneumoniae K2420	1
+Klebsiella pneumoniae K6310	1
+Klebsiella pneumoniae K643	1
+Klebsiella pneumoniae K6453	1
+Klebsiella pneumoniae K6592	1
+Klebsiella pneumoniae K7 (K2 serotype)	1
+Klebsiella pneumoniae K737	1
+Klebsiella pneumoniae KBN10P07398	1
+Klebsiella pneumoniae KCTC12385	1
+Klebsiella pneumoniae KL49	1
+Klebsiella pneumoniae KP 1513	1
+Klebsiella pneumoniae KP_509165	1
+Klebsiella pneumoniae KP-08	1
+Klebsiella pneumoniae KP-20LU	1
+Klebsiella pneumoniae Kp-48	1
+Klebsiella pneumoniae KP009	1
+Klebsiella pneumoniae KP01 (clinical isolate)	1
+Klebsiella pneumoniae KP075	1
+Klebsiella pneumoniae KP16	1
+Klebsiella pneumoniae Kp1718	1
+Klebsiella pneumoniae kp20	1
+Klebsiella pneumoniae Kp2069	1
+Klebsiella pneumoniae Kp2104	1
+Klebsiella pneumoniae Kp2157	1
+Klebsiella pneumoniae Kp2245	1
+Klebsiella pneumoniae Kp2279	1
+Klebsiella pneumoniae Kp25-1	1
+Klebsiella pneumoniae KP263	1
+Klebsiella pneumoniae Kp284	1
+Klebsiella pneumoniae kp3	1
+Klebsiella pneumoniae KP30	1
+Klebsiella pneumoniae Kp325	1
+Klebsiella pneumoniae KP36	1
+Klebsiella pneumoniae Kp37	1
+Klebsiella pneumoniae KP4	1
+Klebsiella pneumoniae Kp40	1
+Klebsiella pneumoniae KP411	1
+Klebsiella pneumoniae Kp419614	1
+Klebsiella pneumoniae KP56563	1
+Klebsiella pneumoniae KP591 (serotype K57)	1
+Klebsiella pneumoniae Kp677	1
+Klebsiella pneumoniae KPB463	1
+Klebsiella pneumoniae KpLi5	1
+Klebsiella pneumoniae Kpn9	1
+Klebsiella pneumoniae KPPR1 (ATCC 43816)	1
+Klebsiella pneumoniae KSM 5-1	1
+Klebsiella pneumoniae L2-3	1
+Klebsiella pneumoniae L3	1
+Klebsiella pneumoniae L923	1
+Klebsiella pneumoniae LKP303	1
+Klebsiella pneumoniae LKP485	1
+Klebsiella pneumoniae m1	1
+Klebsiella pneumoniae M212-2	1
+Klebsiella pneumoniae MJH599	1
+Klebsiella pneumoniae MKP103	1
+Klebsiella pneumoniae MTCC 109	1
+Klebsiella pneumoniae NCCP 15864	1
+Klebsiella pneumoniae NCCP 16126	1
+Klebsiella pneumoniae NMS 1120	1
+Klebsiella pneumoniae NTUH K-2044	1
+Klebsiella pneumoniae NTUH-K44	1
+Klebsiella pneumoniae O4	1
+Klebsiella pneumoniae P223/1079	1
+Klebsiella pneumoniae PS_misc6	1
+Klebsiella pneumoniae resistant mutant R2	1
+Klebsiella pneumoniae resistant mutant R3	1
+Klebsiella pneumoniae resistant mutant R4	1
+Klebsiella pneumoniae resistant mutant R6	1
+Klebsiella pneumoniae SB4385	1
+Klebsiella pneumoniae SCC.24	1
+Klebsiella pneumoniae SCKP020009	1
+Klebsiella pneumoniae SSK3	1
+Klebsiella pneumoniae ST101	1
+Klebsiella pneumoniae ST11 (carbapenem resistant)	1
+Klebsiella pneumoniae ST11-CTX-M-15	1
+Klebsiella pneumoniae ST15-OXA48	1
+Klebsiella pneumoniae ST15-VIM1	1
+Klebsiella pneumoniae ST307 (carbapenem-resistant)	1
+Klebsiella pneumoniae ST899-OXA48	1
+Klebsiella pneumoniae ST974-OXA48	1
+Klebsiella pneumoniae strain 1333/P-225	1
+Klebsiella pneumoniae strain 1732/P-224	1
+Klebsiella pneumoniae strain 4011	1
+Klebsiella pneumoniae strain 9362	1
+Klebsiella pneumoniae strain CriePir26	1
+Klebsiella pneumoniae subsp. ozaenae K5	1
+Klebsiella pneumoniae subsp. pneumoniae	1
+Klebsiella pneumoniae subsp. pneumoniae KKBO-1	1
+Klebsiella pneumoniae subsp. pneumoniae LC-1825/18	1
+Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	1
+Klebsiella pneumoniae subsp. pneumoniae strain ATCC 43816	1
+Klebsiella pneumoniae subsp. Rhinoscleromatis DB_MM_10	1
+Klebsiella pneumoniae SXFY507	1
+Klebsiella pneumoniae TCU_KP_37	1
+Klebsiella pneumoniae TH1	1
+Klebsiella pneumoniae THR60	1
+Klebsiella pneumoniae THR60R	1
+Klebsiella pneumoniae type K1	1
+Klebsiella pneumoniae X5	1
+Klebsiella pneumoniae YMC15/09/U2874	1
+Klebsiella pneumoniae YMC15/11/N137	1
+Klebsiella pneumoniae YMC15/11/N53	1
+Klebsiella pneumoniae YMC15/11/N54	1
+Klebsiella pneumoniae YMC15/11/N98	1
+Klebsiella pneumoniae YMC16/01/N133	1
+Klebsiella pneumoniae YMC16/01/N141	1
+Klebsiella quasipneumoniae CEMTC 1756	1
+Klebsiella quasipneumoniae FK688	1
+Klebsiella quasipneumoniae MMSV7 (clinical isolate)	1
+Klebsiella quasipneumoniae strain S05	1
+Klebsiella sp. 390	1
+Klebsiella sp. B21	1
+Klebsiella sp. H122500354	1
+Klebsiella sp. kctc 2242	1
+Klebsiella sp. KPUK04a	1
+Klebsiella sp. M6	1
+Klebsiella sp. NCTC 13443	1
+Klebsiella variicola kv19	1
+Klebsiella variicola kv23	1
+Klebsiella variicola kv4	1
+Klebsiella variicola kv6	1
+Klebsiella variicola kv7	1
+Klebsiella variicola kv8	1
+Klesiella pneumoniae ST899-OXA48	1
+Komagataeibacter maltaceti NBRC 14815	1
+Komagataeibacter xylinus NBRC 13772	1
+Komagataeibacter xylinus NBRC 13773	1
+Kosakonia cowanii CB166A	1
+Kosakonia cowanii CB237	1
+Kosakonia cowanii CB259	1
+Kurthia gibsonii	1
+Lachnospiraceae	1
+Lacticaseibacillus casei	1
+Lacticaseibacillus casei LMG 10768	1
+Lacticaseibacillus casei LMG 24099	1
+Lacticaseibacillus casei LMG 24102	1
+Lacticaseibacillus paracasei LMG 19719	1
+Lacticaseibacillus paracasei LMG 9193	1
+Lacticaseibacillus rhamnosus LMG 10768	1
+Lacticaseibacillus rhamnosus LMG 19717	1
+Lacticaseibacillus rhamnosus LMG 23550	1
+Lacticaseibacillus rhamnosus LMG 25881	1
+Lacticaseibacillus rhamnosus LMG 27305	1
+Lactiplantibacillus plantarum	1
+Lactiplantibacillus plantarum ATCC 8014	1
+Lactiplantibacillus plantarum CNGBCC1800069	1
+Lactobacillus	1
+Lactobacillus brevis ATCC 367	1
+Lactobacillus casei	1
+Lactobacillus casei W56	1
+Lactobacillus crispatus	1
+Lactobacillus delbrueckii ATCC 11842	1
+Lactobacillus delbrueckii subsp. bulgaricus	1
+Lactobacillus delbrueckii subsp. bulgaricus 21:328	1
+Lactobacillus delbrueckii subsp. lactis strains LKT and ATCC 15808	1
+Lactobacillus fermentum strain YB5	1
+Lactobacillus gasseri ADH	1
+Lactobacillus jensenii	1
+Lactobacillus johnsonii	1
+Lactobacillus murinus EF-1	1
+Lactobacillus pentosus KLDS1.0413; Lactobacillus plantarum KLDS1.0344	1
+Lactobacillus plantarum ATCC 8014	1
+Lactobacillus plantarum PA106	1
+Lactobacillus plantarum PM411	1
+Lactobacillus rhamnosus strain M1	1
+Lactococcus	1
+Lactococcus garvieae INS1	1
+Lactococcus garvieae Lg2	1
+Lactococcus garvieae sero type II	1
+Lactococcus garvieae strain Bacchus	1
+Lactococcus garvieae strain TB25	1
+Lactococcus lactis C10	1
+Lactococcus lactis DGCC7127	1
+Lactococcus lactis DGCC7158	1
+Lactococcus lactis DGCC7204	1
+Lactococcus lactis F7/2	1
+Lactococcus lactis P335	1
+Lactococcus lactis SMQ-388	1
+Lactococcus lactis SMQ-450	1
+Lactococcus lactis SMQ-562	1
+Lactococcus lactis strain ML8	1
+Lactococcus lactis subsp. cremoris DPC6860	1
+Lactococcus lactis subsp. cremoris MG1363	1
+Lactococcus lactis subsp. cremoris Mo9	1
+Lactococcus lactis subsp. cremoris SMQ-1420	1
+Lactococcus lactis subsp. cremoris SMQ-491	1
+Lactococcus lactis subsp. cremoris SMQ-747	1
+Lactococcus lactis subsp. cremoris strain 3107	1
+Lactococcus lactis subsp. cremoris strain C10	1
+Lactococcus lactis subsp. cremoris TIFN5	1
+Lactococcus lactis subsp. cremoris TIFN6	1
+Lactococcus lactis subsp. cremoris TIFN7	1
+Lactococcus lactis subsp. lactis biovar diacetylactis	1
+Lactococcus lactis subsp. lactis bv. diacetylactis TIFN2	1
+Lactococcus lactis subsp. lactis bv. diacetylactis TIFN4	1
+Lactococcus petauri BR	1
+Lactotoccus lactis subsp. cremoris TIFN1	1
+Latilactobacillus curvatus TMW 1.1381	1
+Latilactobacillus curvatus TMW 1.1447	1
+Latilactobacillus curvatus TMW 1.2272	1
+Latilactobacillus curvatus TMW 1.591	1
+Latilactobacillus sakei TMW 1.1386	1
+Latilactobacillus sakei TMW 1.1393	1
+Latilactobacillus sakei TMW 1.1397	1
+Lelliottia sp. GL2	1
+Leptolyngba boryana FACHB-402	1
+Leptolyngbya boryana FACHB-240	1
+Leptolyngbya boryana FACHB-402 (synonym: Plectonema boryanum FACHB-402)	1
+Leptolyngbya foveolarum	1
+Leptolyngya boryana	1
+Leptospira inadai M34/99 serogroup Lyme	1
+Lepus americanus	1
+Leuconostoc mesenteroides	1
+Leuconostoc mesenteroides 1-A4	1
+Leuconostoc mesenteroides LN25	1
+Leuconostoc mesenteroides subsp. dextranicum A1 (LMGT 3752)	1
+Leuconostoc mesenteroides subsp. mesenteroides C19A	1
+Leuconostoc mesenteroides subsp. mesenteroides C19B	1
+Leuconostoc mesenteroides subsp. mesenteroides D4b	1
+Leuconostoc mesenteroides subsp. mesenteroides D6a	1
+Leuconostoc mesenteroides subsp. mesenteroides L79-1	1
+Leuconostoc oenos	1
+Leuconostoc pseudomesenteroides	1
+Leuconostoc pseudomesenteroides BM2	1
+Leuconostoc pseudomesenteroides KD04	1
+Leuconostoc pseudomesenteroides R707	1
+Leuconostoc sp.	1
+Levilactobacillus brevis KACC 11433	1
+Limnohabitans sp. YIMB22184	1
+Limosilactobacillus fermentum	1
+Limosilactobacillus fermentum IMAU32646	1
+Liquorilactobacillus mali UCMA 16447	1
+Listeria grayi	1
+Listeria innocua ATCC 51742	1
+Listeria monocytogenes 1184	1
+Listeria monocytogenes HM00113468	1
+Listeria monocytogenes ICDC-LM1063	1
+Listeria monocytogenes LM 71	1
+Listeria monocytogenes LM2684 (serotype 4b)	1
+Listeria monocytogenes MACK	1
+Listeria monocytogenes ScottA	1
+Listeria monocytogenes strain 3053 serotype 1/2a	1
+Listeria sp.	1
+Listeria weihenstephanensis WS 4560	1
+Listonella pelagia	1
+Luteibacter sp. EIF3	1
+Lysinibacillus capsici DO76	1
+Lysinibacillus fusiformis GAM2	1
+Lysinibacillus sphaericus C3-41	1
+Lysogenic Burkholderia thailandensis E264	1
+Macromonas sp. BK-30	1
+Mannheimia haemolytica 1127A serotype A2	1
+Mannheimia haemolytica 1152A serotype A6	1
+Mannheimia haemolytica 1152AP serotype 6	1
+Mannheimia haemolytica 2256A serotype A1	1
+Mannheimia haemolytica 3927A	1
+Mannheimia haemolytica 3927A serotype A6	1
+Mannheimia haemolytica biovar 1 serotype A1; ST1	1
+Mannheimia haemolytica strain ATCC BAA-410 serotype A1; ST1	1
+Maribacter halichondriae	1
+Marinitoga camini 1155	1
+Marinitoga camini 1197	1
+Marinobacter sp. D1S9	1
+Marinomonas sp. IMCC12026	1
+Mastigocladus sp.	1
+MDR Escherichia coli 11	1
+MDR-Klebsiella pneumoniae	1
+Mediterraneibacter gnavus (Ruminococcus gnavus) DB_YZ_1	1
+Mesorhizobium sediminum CBW1107-2	1
+Metallosphaera prunae D4-4	1
+Metallosphaera sedula	1
+Methanobacterium formicicum Khl10	1
+Methanobacterium thermoautotrophicum Marburg	1
+Methanobrevibacter gottschalkii	1
+Methanobrevibacter smithii ATCC 35061 (PS)	1
+Methanocaldococcus fervens	1
+Methanoculleus bourgensis E02.3	1
+Methanothermobacter thermautotrophicus	1
+Methanothermobacter thermautotrophicus FF3	1
+methicillin-resistant Staphylococcus aureus spa type t223	1
+methicillin-resistant Staphylococcus aureus YMC/09/04/R1988	1
+Methicillin-resistent Staphylococcus aureus	1
+Methylophilaceae bacterium IMCC19250	1
+Methylophilales bacterium FZCC2181	1
+Methylophilales bacterium H5P1	1
+Microbacterium enclense	1
+Microbacterium sp. R1	1
+Micrococcus sp. 1247	1
+Micrococcus sp. 1402	1
+Microcystis aeruginosa FACHB-1326	1
+Microcystis aeruginosa FACHB-469	1
+Microcystis aeruginosa FACHB-942	1
+Micromonospora carbonacea str. Africana	1
+Monoglobales	1
+Moorella sp. ACPs	1
+Moorella thermoacetica DSM 103132	1
+Morganella morganii	1
+Morganella morganii 5	1
+Morganella morganii JX1	1
+Multidrug resistant Escherichia coli	1
+Mycobacterium abscessus subsp. bolletii strain F1660	1
+Mycobacterium chelonae strain ATCC 35752	1
+Mycobacterium phlei	1
+mycobacterium smegmatis mc2 155	1
+Mycobacterium smegmatis MC2 155	1
+Mycobacterium sp. Elmwood	1
+Mycobacterium tuberculosis	1
+Mycobacteroides abscessus subsp. abscessus strain 1009	1
+Mycobacteroides abscessus subsp. abscessus strain 280	1
+Mycobacteroides abscessus subsp. abscessus strain 712	1
+Mycobacteroides abscessus subsp. bolletii F1725	1
+Mycobacteroides abscessus subsp. bolletii strain 875	1
+Mycolibacterium smegmatis mc^2 155	1
+Mycolicibacterium septicum	1
+Mycolicibacterium smegmatis strain MC2 155	1
+Mycolicobacterium smegmatis mc(2)155	1
+Mycolicobacterium smegmatis mc#155	1
+Mycoplasma anatis MYCAV786	1
+Mycoplasma anatis MYCAV787	1
+Mycoplasma anatis MYCAV788	1
+Mycoplasma anserisalpingitidis	1
+Mycoplasma anserisalpingitidis MYCAV212	1
+Mycoplasma anserisalpingitidis MYCAV221	1
+Mycoplasma anserisalpingitidis MYCAV313	1
+Mycoplasma anserisalpingitidis MYCAV94	1
+Mycoplasma arthritidis	1
+Mycoplasma sp.	1
+Mycoplasmopsis felis MF329	1
+Mycoplasmopsis pulmonis	1
+Myxococcus xanthus	1
+Myxococcus xanthus DZ1	1
+Myxococcus xanthus strain DK883	1
+Natrialba magadii ATCC 43099	1
+Natrinema versiforme strain BOL5-4	1
+Nitratidesulfovibrio vulgaris ATCC7757 (synonym: Desulfovibtio vulgaris)	1
+Nitratiruptor sp. SB155-2	1
+Nitratiruptor sp. YY08-10	1
+Nitratiruptor sp. YY08-13	1
+Nitratiruptor sp. YY08-14	1
+Nitratiruptor sp. YY08-26	1
+Nitrincola sp. M3-16	1
+Nocardia asteroides	1
+Nocardia brasiliensis	1
+Nocardia carnea	1
+Nocardia seriolae	1
+Nocardia transvalensis	1
+Nostoc sp. FACHB-596	1
+Nostoc sp. PCC 7120 = FACHB-418	1
+Obesumbacterium proteus LE8	1
+Ochrobactrum anthropi	1
+Ochrobactrum intermedium	1
+Octadecabacter sp. strain IceBac 419	1
+Octadecabacter sp. strain IceBac 430	1
+Oenococcus oeni IOEB S277	1
+Oenococcus oeni IOEBS277	1
+Oenococcus oeni Sarco S11	1
+Oenococcus oeni Sarco S13	1
+Olleya sp. HaHaR_3_96	1
+OM05-12 sp003438995 DA166	1
+Oscillospiraceae sp. ER4	1
+Oscillospirales	1
+Paenibacillus dendritiformis PB22F	1
+Paenibacillus larvae	1
+Paenibacillus larvae subsp. larvae strain Eric_V	1
+Paenibacillus larvae SV21	1
+Pantoea agglomerans ARC	1
+Pantoea agglomerans BSL	1
+Pantoea agglomerans SN01121	1
+Pantoea agglomerans strain SER	1
+Pantoea agglomerans TAC.III.94.1	1
+Pantoea agglomerans TAC4.III.94.1	1
+Pantoea ananatis PA	1
+Pantoea ananatis ZJU1	1
+Pantoea dispersa	1
+Pantoea dispersa LMG2603	1
+Pantoea sp.	1
+Parabacteroides distasonis	1
+Parabacteroides distasonis DA482	1
+Parabacteroides distasonis DA491	1
+Parabacteroides merdae	1
+Parabacteroides merdae BSC93	1
+Paracidovorax oryzae	1
+Paracoccaceae bacterium strain FZCC0037	1
+Paracoccaceae bacterium strain FZCC0040	1
+Paracoccaceae bacterium strain FZCC0042	1
+Paracoccaceae bacterium strain FZCC0196	1
+Paracoccus bengalensis DSM 17099	1
+Paracoccus kondratievae NCIMB 13773T	1
+Paracoccus marcusii JL-65	1
+Paracoccus marcusii strain KR4M-18	1
+Paracoccus sp. HS3	1
+Paracoccus sulfuroxidans JCM 14013	1
+Paracoccus thiocyanatus JCM 20756	1
+Paracoccus yeei CCUG 32053	1
+Parageobacillus thermoglucosidasius 23.6	1
+Parageobacillus toebii	1
+Pararheinheimera soli strain KR2-1	1
+Pasteurella multocida (capsular serotype A)	1
+Pasteurella multocida B:2	1
+Pasteurella multocida FCf91	1
+Pasteurella multocida type D GXBCD-H1	1
+pathenogenic Salmonella bacterium	1
+Pectobacterium atrosepticum DSM 18077	1
+Pectobacterium atrosepticum P16	1
+Pectobacterium atrosepticum PB72	1
+Pectobacterium brasiliense CRISP 24.B	1
+Pectobacterium brasiliense CRISP 26.B	1
+Pectobacterium carotovorum C2B6	1
+Pectobacterium carotovorum spsb. brasiliense	1
+Pectobacterium carotovorum ssp brasiliense F169	1
+Pectobacterium carotovorum ssp carotovorum F152	1
+Pectobacterium carotovorum subsp. brasiliense F128	1
+Pectobacterium carotovorum subsp. brasiliense F165	1
+Pectobacterium carotovorum subsp. carotovorum ATCC 15713	1
+Pectobacterium carotovorum subsp. carotovorum DSM30170	1
+Pectobacterium carotovorum subsp. carotovorum F18	1
+Pectobacterium carotovorum subsp. carotovorum PB69	1
+Pectobacterium carotovorum subsp. carotovorum SR22	1
+Pectobacterium carotovorum subsp. carotovorum strain CBBL19-1-37	1
+Pectobacterium odoriferum	1
+Pectobacterium polaris F171	1
+Pectobacterium sp. 7V	1
+Pectobacterium sp. Pc251	1
+Pectobacterium wasabiae	1
+Pectobacterium wasabiae PB20	1
+Pectobacterium wasabiae SCC3193	1
+Pelagibaca abyssi JLT2014	1
+Peptoclostridium difficile strain DSM1296	1
+Phaeobacter inhibens DSM 17395	1
+Phocaeicola vulgatus BM8	1
+Phocaeicola vulgatus DA185	1
+Phocaeicola vulgatus DA200	1
+Phocaeicola vulgatus DA674	1
+Phocaeicola vulgatus DA739	1
+Phormidium foveolarum	1
+Photobacterium damselae subsp. damselae strain CAIM 1910	1
+Photobacterium ganghwense CF1.2	1
+Planktothrix agardhii HAB637	1
+Plectonema sp.	1
+Plesiomonas sp.	1
+Polaribacter sp. AHE13PA	1
+Polaromonas sp.	1
+Pontimonas salivibrio CL-TW6	1
+Porphyromonas gingivalis Bg4	1
+Porphyromonas gingivalis HG1691old	1
+Priestia megaterium	1
+Prochlorococcus marinus str. NATL2A	1
+Prochlorococcus marinus subsp. pastoris str. CCMP1986	1
+Prochlorococcus MIT9313	1
+Prochlorococcus sp. MIT9515	1
+Prochlorococcus sp. NATL2A	1
+Propionibacterium acnes A1-14	1
+Proteobacteria	1
+Proteus mirabilis 414	1
+Proteus mirabilis 417	1
+Proteus mirabilis 73	1
+Proteus mirabilis 821	1
+Proteus mirabilis B16ATH	1
+Proteus mirabilis B2	1
+Proteus mirabilis BPM-3	1
+Proteus mirabilis CEMTC 1726	1
+Proteus mirabilis CriePir89	1
+Proteus mirabilis HLJP-1	1
+Proteus mirabilis strain 824 (LMMB NIBOCH collection)	1
+Proteus mirabilis strain 922 (LMMB NIBOCH collection)	1
+Proteus mirabilis YV2	1
+Proteus penneri	1
+Providencia rettgeri MRSN 845308	1
+Providencia sp.	1
+Providencia sp. (Ewing)	1
+Providencia stuartii isolate MRSN 2154	1
+Pseudaeromonas pectinilytica strain KR2-7	1
+Pseudanabaena sp. KCZY-C8	1
+Pseudcmonas fluorescens SW-3	1
+Pseudoaltermonas tunicata SMS2	1
+Pseudoalteromonas marina CL-E25	1
+Pseudoalteromonas marina Mano4(T)	1
+Pseudoalteromonas nigrifaciens	1
+Pseudoalteromonas nigrifaciens HL-AS2	1
+Pseudoalteromonas shioyasakiensis	1
+Pseudoalteromonas sp. 6751	1
+Pseudoalteromonas sp. BH357	1
+Pseudoalteromonas sp. Bq0	1
+Pseudoalteromonas sp. H105	1
+Pseudoalteromonas sp. H6	1
+Pseudoalteromonas sp. RHS-str. 402	1
+Pseudoalteromonas sp. str. H71	1
+Pseudoalteromonas sp. Y7	1
+Pseudomona aeruginosa 05-4672	1
+Pseudomonas aeruginosa (clinical isolate)	1
+Pseudomonas aeruginosa (strain PA158)	1
+Pseudomonas aeruginosa 02-5135	1
+Pseudomonas aeruginosa 02-5867	1
+Pseudomonas aeruginosa 03-0062	1
+Pseudomonas aeruginosa 04-5265	1
+Pseudomonas aeruginosa 130	1
+Pseudomonas aeruginosa 135	1
+Pseudomonas aeruginosa 188	1
+Pseudomonas aeruginosa 199	1
+Pseudomonas aeruginosa 37	1
+Pseudomonas aeruginosa AMT 0085-23	1
+Pseudomonas aeruginosa AMT 0166-2	1
+Pseudomonas aeruginosa ATCC 15692	1
+Pseudomonas aeruginosa ATCC 15692 (PAO1)	1
+Pseudomonas aeruginosa ATCC9027	1
+Pseudomonas aeruginosa AUS260	1
+Pseudomonas aeruginosa AUS301	1
+Pseudomonas aeruginosa AUS391	1
+Pseudomonas aeruginosa B31	1
+Pseudomonas aeruginosa B55	1
+Pseudomonas aeruginosa B8	1
+Pseudomonas aeruginosa BWKH 42 (DSM 110895)	1
+Pseudomonas aeruginosa BWKH003	1
+Pseudomonas aeruginosa BWKH029 (DSM 110893)	1
+Pseudomonas aeruginosa BWKH10	1
+Pseudomonas aeruginosa BWKH12	1
+Pseudomonas aeruginosa BWKH14	1
+Pseudomonas aeruginosa BWKH18	1
+Pseudomonas aeruginosa BWKH29	1
+Pseudomonas aeruginosa BWKH3	1
+Pseudomonas aeruginosa BWKH33	1
+Pseudomonas aeruginosa BWKH36	1
+Pseudomonas aeruginosa BWKH47	1
+Pseudomonas aeruginosa BWKH51	1
+Pseudomonas aeruginosa BWKH55	1
+Pseudomonas aeruginosa BWKH67	1
+Pseudomonas aeruginosa BWKH8	1
+Pseudomonas aeruginosa C2-10	1
+Pseudomonas aeruginosa CC274 AUS411	1
+Pseudomonas aeruginosa clinical strain TJC422	1
+Pseudomonas aeruginosa CN573	1
+Pseudomonas aeruginosa CRPA190 (carbapenem-resistant)	1
+Pseudomonas aeruginosa DLG	1
+Pseudomonas aeruginosa F038	1
+Pseudomonas aeruginosa HIM-6	1
+Pseudomonas aeruginosa IME180	1
+Pseudomonas aeruginosa isolate 20	1
+Pseudomonas aeruginosa Kutter	1
+Pseudomonas aeruginosa LCL12	1
+Pseudomonas aeruginosa LPA102	1
+Pseudomonas aeruginosa MH29 (DSM 22043)	1
+Pseudomonas aeruginosa MRSN 9718	1
+Pseudomonas aeruginosa MTCC 5926	1
+Pseudomonas aeruginosa MTCC 5927	1
+Pseudomonas aeruginosa MTCC 5928	1
+Pseudomonas aeruginosa N1803-4At	1
+Pseudomonas aeruginosa PA 158	1
+Pseudomonas aeruginosa PA-4U	1
+Pseudomonas aeruginosa PA001	1
+Pseudomonas aeruginosa PA003	1
+Pseudomonas aeruginosa Pa021	1
+Pseudomonas aeruginosa PA14 (DSM 19882)	1
+Pseudomonas aeruginosa PA18	1
+Pseudomonas aeruginosa PA25	1
+Pseudomonas aeruginosa PA32	1
+Pseudomonas aeruginosa PAER1_9N	1
+Pseudomonas aeruginosa PAER2_24	1
+Pseudomonas aeruginosa PAER3_44	1
+Pseudomonas aeruginosa Paer36	1
+Pseudomonas aeruginosa Paer40	1
+Pseudomonas aeruginosa Paer42	1
+Pseudomonas aeruginosa Paer50	1
+Pseudomonas aeruginosa PaLo41	1
+Pseudomonas aeruginosa PAO	1
+Pseudomonas aeruginosa PAO-1	1
+Pseudomonas aeruginosa PAO1 (DSM 19880)	1
+Pseudomonas aeruginosa Ps33	1
+Pseudomonas aeruginosa strain MRSN8130	1
+Pseudomonas aeruginosa strain PAO9505	1
+Pseudomonas aeruginosa Tclvp1-3	1
+Pseudomonas aeruginosa UCBPP-PA14	1
+Pseudomonas aeruginosa USM AR2	1
+Pseudomonas aeruginosa UVA4	1
+Pseudomonas aeruginosa WH-SGI-V-07173	1
+Pseudomonas aeruginosa WH-SGI-V-07174	1
+Pseudomonas aeruginosa WH-SGI-V-07651	1
+Pseudomonas aeruginosa Y15	1
+Pseudomonas aeruginosa YMC/01/01/P52	1
+Pseudomonas aeruginosa YMC11/02/R656	1
+Pseudomonas aeruginosa YMC11/11/R1836	1
+Pseudomonas aeruginosa YMC12/01/R24	1
+Pseudomonas aeruginosa YMC12/01/R960	1
+Pseudomonas aeruginosa YMC17/07/R4900	1
+Pseudomonas aeruginosa ZS-PA-05	1
+Pseudomonas aeruginosa ZS-PA-16	1
+Pseudomonas aeruignosa PA14	1
+Pseudomonas alcaligenes BBS_2079	1
+Pseudomonas carnis; Pseudomonas lactis	1
+Pseudomonas cichorii	1
+Pseudomonas cuatrocienegasensis strain KR2-17	1
+Pseudomonas fluorescens BIM B-582; Pseudomonas putida BIM B-68; Pseudomonas putida BIM B-159	1
+Pseudomonas fluorescens CS1	1
+Pseudomonas fluorescens Pf1.1	1
+Pseudomonas fluorescens Q8r1-96	1
+Pseudomonas fluorescens SA1	1
+Pseudomonas fluorescens SBW25	1
+Pseudomonas fluorescens strain 22	1
+Pseudomonas fluorescens UFV 041	1
+Pseudomonas fluorescens W-6	1
+Pseudomonas fragi L1-85	1
+Pseudomonas gessardii	1
+Pseudomonas grimontii MBTL2-21	1
+Pseudomonas lactis	1
+Pseudomonas luteola	1
+Pseudomonas mendocina STP12	1
+Pseudomonas oryzihabitans J81P	1
+Pseudomonas otitidis NK1	1
+Pseudomonas plecoglossicida XSDHY-P	1
+Pseudomonas poae B04_10	1
+Pseudomonas putida KT2440 - pKJK5	1
+Pseudomonas putida KT2440 + pKJK5	1
+Pseudomonas putida NBRC 14164	1
+Pseudomonas putida S12	1
+Pseudomonas putida YMC11/06/C171	1
+Pseudomonas savastanoi pv. glycinea	1
+Pseudomonas savastanoi pv. phaseolicola	1
+Pseudomonas sivasensis W-6	1
+Pseudomonas sp. 1-1-1b	1
+Pseudomonas sp. 20190723	1
+Pseudomonas sp. AY2	1
+Pseudomonas sp. CTX2	1
+Pseudomonas sp. D3; Pseudomonas sp. G11	1
+Pseudomonas sp. ERG2	1
+Pseudomonas sp. F	1
+Pseudomonas sp. KB1	1
+Pseudomonas sp. KT_2_4	1
+Pseudomonas sp. PA14	1
+Pseudomonas sp. PARCI1	1
+Pseudomonas sp. SH2	1
+Pseudomonas sp. ZM01	1
+Pseudomonas syringae CC0440	1
+Pseudomonas syringae JD03	1
+Pseudomonas syringae P1.01.01B03	1
+Pseudomonas syringae pathovar tomato CFBP221	1
+Pseudomonas syringae pathovar tomato CFBP2212	1
+Pseudomonas syringae pv. actinidiae CFBP 7286	1
+Pseudomonas syringae pv. actinidiae CRA-FRU 14.10	1
+Pseudomonas syringae pv. actinidiae K7A1	1
+Pseudomonas syringae pv. actinidiae KBE9	1
+Pseudomonas syringae pv. syringae	1
+Pseudomonas syringae pv. syringae 16QsV	1
+Pseudomonas syringae pv. tomato Pst235	1
+Pseudomonas tolaasii	1
+Pseudomonas tolaasii KACC 15624	1
+Pseudomonas tolaasii LMG 2342	1
+Pseudomonas trivialis B08_4	1
+Pseudoxanthomonas kaohsiungensis	1
+Pseudoxanthomonas sp.	1
+Psychrobacillus sp. GC2J1	1
+Psychrobacter sp.	1
+Psychrobacter sp. MV2	1
+Puniceicoccales sp. IMCC8625	1
+Pyrobaculum arsenaticum	1
+Pyrococcus abyssi GE23	1
+Rahnella woolbedingensis	1
+Ralstonia pickettii	1
+Ralstonia pseudosolanacearum NdE	1
+Ralstonia solanacearum A4973/3	1
+Ralstonia solanacearum CIP301, R311	1
+Ralstonia solanacearum Coatlan	1
+Ralstonia solanacearum CQPS-1	1
+Ralstonia solanacearum EURS 58	1
+Ralstonia solanacearum mc1	1
+Ralstonia solanacearum R280	1
+Ralstonia solanacearum R286, UW275	1
+Ralstonia solanacearum R299, UW30	1
+Ralstonia solanacearum R300, UW27	1
+Ralstonia solanacearum R355	1
+Ralstonia solanacearum R470	1
+Ralstonia solanacearum R578	1
+Ralstonia solanacearum RS3220-1	1
+Ralstonia solanacearum SL341	1
+Ralstonia solanacearum SMT 69	1
+Ralstonia solanacearum species complex	1
+Ralstonia solanacearum T389	1
+Ralstonia solanacearum TB15-14	1
+Ralstonia solanacearum TB15-15	1
+Ralstonia solanacearum UB-2014	1
+Ralstonia sp. RS3/1-1	1
+Raoultella ornithinolytica M12a	1
+Raoultella ornithinolytica P3a	1
+Raoultella ornithinolytica S7a	1
+Raoultella planticola K59	1
+Raoultella planticola M21a	1
+Raoultella planticola M26a	1
+Raoultella planticola P25a	1
+Raoultella sp. CEMTC 2544	1
+Rathayibacter toxicus	1
+Rhizobium etli CFN42	1
+Rhizobium gallicum SO14B-4(6)	1
+Rhizobium leguminosarum biovar viciae 3841	1
+Rhizobium leguminosarum biovar viciae VF39	1
+Rhizobium leguminosarum strain F1	1
+Rhizobium leguminosarum TRX32	1
+Rhizobium leguminosarum VF39SM	1
+Rhizobium phaseoli	1
+Rhodobacter capsulatus SB 1003	1
+Rhodobacter capsulatus strain B10, ATCC 33303	1
+Rhodobacteraceae bacterium FZCC0012	1
+Rhodobacteraceae bacterium FZCC0089	1
+Rhodococcus globerulus	1
+Rhodococcus globerulus ATCC 25714	1
+Rhodococcus opacus PD631	1
+Rhodococcus rhodochrous str. Rrho39	1
+Rhodoferax sp. IMCC26218	1
+Rhodovulum sp. P5	1
+Riemerella anatipestifer 116	1
+Riemerella anatipestifer RAf1	1
+Riemerella anatipestifer RAf2	1
+Riemerella anatipestifer RAf490	1
+Riemerella anatipestifer RAf63	1
+Riemerella anatipestifer RAf71	1
+Riemerella anatipestifer RAf8	1
+Rosebacter SIO67	1
+Roseobacter sp. (CHUG lineage)	1
+Roseobacter sp. FZCC0040	1
+Rosselomorea vietnamensis FJAT-46955	1
+Ruegeria mobilis	1
+Ruegeria pomeroyi (strain DSS3)	1
+Ruegeria sp. AU67	1
+Saccharolobus solfataricus	1
+Saccharomonospora sp.	1
+Salinibacter ruber M1	1
+Salinivibrio sp.	1
+Salisaeta sp. SP9-1	1
+Salmonella	1
+Salmonella enteria serovar typhimurium	1
+Salmonella enterica 2112	1
+Salmonella enterica ATCC BAA-708	1
+Salmonella enterica CDC K-1891	1
+Salmonella enterica CICC 21501	1
+Salmonella enterica CVCC 3383	1
+Salmonella enterica CVCC 503	1
+Salmonella enterica CVCC 79102	1
+Salmonella enterica SA173	1
+Salmonella enterica Sal-SNUABM-svn1	1
+Salmonella enterica serotype Derby	1
+Salmonella enterica serotype Enteritidis B-1024	1
+Salmonella enterica serotype Typhimurium B-1025	1
+Salmonella enterica serotype Typhimurium SL1344	1
+Salmonella enterica serovar Agona strain CBn15	1
+Salmonella enterica serovar Agona strain Pco213	1
+Salmonella enterica serovar Enteritidis ATCC CVB	1
+Salmonella enterica serovar Enteritidis ATCC13076	1
+Salmonella enterica serovar Paratyphi A	1
+Salmonella enterica serovar pullorum	1
+Salmonella enterica serovar Pullorum 96116	1
+Salmonella enterica serovar Typhi	1
+Salmonella enterica serovar Typhi Vi	1
+Salmonella enterica serovar Typhimurium ATCC 14028	1
+Salmonella enterica serovar Typhimurium MTCC 98	1
+Salmonella enterica serovar Typhimurium SL1344	1
+Salmonella enterica serovar Typhiurium strain LT2	1
+Salmonella enterica subsp enterica serovar Enteritidis ATCC 49223	1
+Salmonella enterica subsp enterica serovar Enteritidis SE PT13A	1
+Salmonella enterica subsp. diarizonae 519/03 IIIb	1
+Salmonella enterica subsp. diarizonae 89/00 IIIb	1
+Salmonella enterica subsp. enterica serotype Enteritidis	1
+Salmonella enterica subsp. enterica serova Typhi	1
+Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-	1
+Salmonella enterica subsp. enterica serovar 6,8:l,-:1,7 strain KKP 1762	1
+Salmonella enterica subsp. enterica serovar 6,8:l,v:- strain KKP 998	1
+Salmonella enterica subsp. enterica serovar Abortusequi ATCC 9842	1
+Salmonella enterica subsp. enterica serovar Albany	1
+Salmonella enterica subsp. enterica serovar Anatum str. FSL A4-0525	1
+Salmonella enterica subsp. enterica serovar Braenderup	1
+Salmonella enterica subsp. enterica serovar Braenderup str. FSL S5-0373	1
+Salmonella enterica subsp. enterica serovar Brandenburg	1
+Salmonella enterica subsp. enterica serovar Bredney	1
+Salmonella enterica subsp. enterica serovar Choleraesuis ATCC 13312	1
+Salmonella enterica subsp. enterica serovar Copenhagen	1
+Salmonella enterica subsp. enterica serovar Corvallis str. FSL R8-0092	1
+Salmonella enterica subsp. enterica serovar Dublin 3710	1
+Salmonella enterica subsp. enterica serovar Dublin 3723	1
+Salmonella enterica subsp. enterica serovar Enteritidis CICC 21482	1
+Salmonella enterica subsp. enterica serovar Enteritidis GXC190301	1
+Salmonella enterica subsp. enterica serovar Enteritidis HJL 348	1
+Salmonella enterica subsp. enterica serovar Enteritidis JSC160603	1
+Salmonella enterica subsp. enterica serovar Enteritidis KCTC 4822	1
+Salmonella enterica subsp. enterica serovar Enteritidis KCTC 4823	1
+Salmonella enterica subsp. enterica serovar Enteritidis P125592	1
+Salmonella enterica subsp. enterica serovar Enteritidis PT8	1
+Salmonella enterica subsp. enterica serovar Enteritidis SA215	1
+Salmonella enterica subsp. enterica serovar Enteritidis SE006	1
+Salmonella enterica subsp. enterica serovar Enteritidis SE54	1
+Salmonella enterica subsp. enterica serovar Enteritidis WT (Platten)	1
+Salmonella enterica subsp. enterica serovar Gallinarum biovar Gallinarum	1
+Salmonella enterica subsp. enterica serovar Gallinarum SG18	1
+Salmonella enterica subsp. enterica serovar Hadar	1
+Salmonella enterica subsp. enterica serovar Heidelberg str. FSL S5-0455	1
+Salmonella enterica subsp. enterica serovar Indiana J46	1
+Salmonella enterica subsp. enterica serovar Infantis str. FSL S5-0506	1
+Salmonella enterica subsp. enterica serovar Javiana	1
+Salmonella enterica subsp. enterica serovar Javiana str. FSL S5-0406	1
+Salmonella enterica subsp. enterica serovar Kedougou	1
+Salmonella enterica subsp. enterica serovar Kottbus L2-115	1
+Salmonella enterica subsp. enterica serovar Kouka	1
+Salmonella enterica subsp. enterica serovar Manchester strain KKP 1213	1
+Salmonella enterica subsp. enterica serovar Napoli L2-220	1
+Salmonella enterica subsp. enterica serovar Newlands	1
+Salmonella enterica subsp. enterica serovar Newlands ZC-S1	1
+Salmonella enterica subsp. enterica serovar Oranienburg 190	1
+Salmonella enterica subsp. enterica serovar Oranienburg str. FSL R8-0376	1
+Salmonella enterica subsp. enterica serovar Paratyphi A CMCC50001	1
+Salmonella enterica subsp. enterica serovar Paratyphi A strain 201107	1
+Salmonella enterica subsp. enterica serovar Pullorum 29	1
+Salmonella enterica subsp. enterica serovar Pullorum C79-13	1
+Salmonella enterica subsp. enterica serovar Pullorum HZ055	1
+Salmonella enterica subsp. enterica serovar Pullorum SPL4	1
+Salmonella enterica subsp. enterica serovar Rissen	1
+Salmonella enterica subsp. enterica serovar Saintpaul	1
+Salmonella enterica subsp. enterica serovar Saintpaul L2-114	1
+Salmonella enterica subsp. enterica serovar Saintpaul str. FSL S5-0369	1
+Salmonella enterica subsp. enterica serovar Sendai	1
+Salmonella enterica subsp. enterica serovar Senftenberg ATCC 43845	1
+Salmonella enterica subsp. enterica serovar Stanley str. FSL S5-0464	1
+Salmonella enterica subsp. enterica serovar Thompson	1
+Salmonella enterica subsp. enterica serovar Thyphimurium var. monophasic Copenhague	1
+Salmonella enterica subsp. enterica serovar Typhi 8767	1
+Salmonella enterica subsp. enterica serovar Typhi CMCC50071	1
+Salmonella enterica subsp. enterica serovar Typhi Sal1	1
+Salmonella enterica subsp. enterica serovar Typhi T42 DEF 472	1
+Salmonella enterica subsp. enterica serovar Typhi Ty054	1
+Salmonella enterica subsp. enterica serovar Typhimurium 2112	1
+Salmonella enterica subsp. enterica serovar Typhimurium 497 Hfr	1
+Salmonella enterica subsp. enterica serovar Typhimurium ATCC 19585	1
+Salmonella enterica subsp. enterica serovar Typhimurium ATCC14028	1
+Salmonella enterica subsp. enterica serovar Typhimurium FSL S5-370	1
+Salmonella enterica subsp. enterica serovar Typhimurium KCTC 1425	1
+Salmonella enterica subsp. enterica serovar Typhimurium L2-178	1
+Salmonella enterica subsp. enterica serovar Typhimurium OLF-FSR1_WB_Gull_ST-29	1
+Salmonella enterica subsp. enterica serovar Typhimurium OLF-FSR1_WB_Gull_ST-32	1
+Salmonella enterica subsp. enterica serovar Typhimurium OLF-FSR1_WB_Junco_ST-35	1
+Salmonella enterica subsp. enterica serovar Typhimurium OLF-FSR1_WB_Sparrow_ST-87	1
+Salmonella enterica subsp. enterica serovar Typhimurium SDC200701	1
+Salmonella enterica subsp. enterica serovar Typhimurium str. FSL S5-0370	1
+Salmonella enterica subsp. enterica Serovar Typhimurium strain DSM 17058	1
+Salmonella enterica subsp. enterica serovar Typhimurium strain KKP 3080	1
+Salmonella enterica subsp. enterica serovar Typhimurium UB-20, LT2	1
+Salmonella enterica subsp. enterica serovar Typhimurium wild type HJL288	1
+Salmonella enterica subsp. enterica serovar Typhimurium wild type HJL393	1
+Salmonella enterica subsp. enterica serovar Weltevreden	1
+Salmonella enterica subsp. enterica serovar Weltevreden SA161	1
+Salmonella enterica subsp. enterica serovar Worthington OLF-FSR1_WB_Partridge_SW-37	1
+Salmonella enterica subsp. enterica serovar Worthington OLF-FSR1_WB_Quail_SW-70	1
+Salmonella enterica subsp. enterica servar Enteritidis PT1	1
+Salmonella enterica subsp. enterica Typhimurium L2-177	1
+Salmonella enterica subsp. enteritidis	1
+Salmonella enterica subsp. Enteritidis	1
+Salmonella enterica subsp. salamae 10/99 II	1
+Salmonella enterica subsp. salamae 200/01 II	1
+Salmonella enterica subsp. salamae 241/01 II	1
+Salmonella enterica subsp. salamae 244/03 II	1
+Salmonella enterica subsp. Typhimurium	1
+Salmonella enterica subusp. enterica serovar Typhi	1
+Salmonella paratyphi A CMCC50973	1
+Salmonella pullorum SP1	1
+Salmonella sp. 01Ep	1
+Salmonella sp. 2089b	1
+Salmonella sp. and Escherichia coli	1
+Salmonella sp. and Escherichia coli O157	1
+Salmonella sp. ATCC 14028	1
+Salmonella sp. CMCC50115; Escherichia coli K12.	1
+Salmonella sp. L2-112	1
+Salmonella sp. LCDS2201	1
+Salmonella sp. LST3	1
+Salmonella sp. S7	1
+Salmonella sp. SE-21	1
+Salmonella sp. sym26ys	1
+Salmonella sp.; Escherichia coli; Klebsiella pneumoniae	1
+Salmonella typhimurium ATCC 13311	1
+Salmonella Typhimurium ATCC 14028	1
+Salmonella typhimurium DT104	1
+Schalia odontolyticus XH001	1
+Sedum sarmentosum Bunge.	1
+Serratia fonticola KKP3084	1
+Serratia liquefaciens strain KKP 3654	1
+Serratia marcescens 3457	1
+Serratia marcescens 4526	1
+Serratia marcescens 5429	1
+Serratia marcescens 8927	1
+Serratia marcescens 9667	1
+Serratia marcescens D1	1
+Serratia marcescens NRZ-49541	1
+Serratia marcescens PNR349	1
+Serratia marcescens strain KKP 3687	1
+Serratia marcescens Tom1	1
+Serratia marcescens UCC2017	1
+Serratia rubidaea	1
+Serratia rubidaea 1122	1
+Serratia sp. c4_92	1
+Shewanella baltica	1
+Shewanella fidelis 3313	1
+Shewanella indica	1
+Shewanella inventionis KX27	1
+Shewanella oneidensis	1
+Shewanella putrefaciens	1
+Shewanella xiamenensis	1
+shiga toxin-producing Escherichia coli	1
+Shigella boydii ATCC 35966	1
+Shigella boydii type 1	1
+Shigella dysenteriae KUST9	1
+Shigella dysenteriae type 1	1
+Shigella dysenteriae X12	1
+Shigella dysenteriae, Escherichia coli B	1
+Shigella flexneri 1c	1
+Shigella flexneri 428	1
+Shigella flexneri A7	1
+Shigella flexneri ATCC 2587	1
+Shigella flexneri DA319	1
+Shigella flexneri DO71	1
+Shigella flexneri PE577 (serotype Y)	1
+Shigella flexneri SB2	1
+Shigella flexneri serotype 1a strain 019	1
+Shigella flexneri serotype 2a strain 2457T	1
+Shigella flexneri serotype 4a	1
+Shigella flexneri serotype 4av	1
+Shigella flexneri serotype 7a	1
+Shigella flexneri SM3	1
+Shigella flexneri strain ATCC 29903	1
+Shigella flexneri, Shigella boydii, Shigella dysenteriae	1
+Shigella flexneri, Shigella boydii, Shigella dysenteriae, Shigella sonnei	1
+Shigella flexneri; Escherichia coli B	1
+Shigella flexneri; Shigella sonnei; Escherichia coli	1
+Shigella sonnei 75/02	1
+Shigella sonnei ATCC 25931	1
+Shigella sonnei CICC 21535	1
+Shigella sonnei IB 707	1
+Shigella sp. SF11_50403	1
+Sinorhizobium meliloti 1021	1
+Sinorhizobium meliloti 2011	1
+Sinorhizobium meliloti Ort11	1
+Skermania piniformis NM40	1
+Sodalis glossinidius str. 'morsitans'	1
+Solobacterium moorei	1
+Sphaerotilus natans	1
+Sphingobium sp. IP1	1
+Sphingomonas paucimobilis 121220007-2	1
+Sphingomonas turrisvirgatae MCT13	1
+Sphingopyxis sp.	1
+Spiroplasma citri	1
+Sporosarcina aquimarina	1
+Staphylococcus arlettae	1
+Staphylococcus aureus (methicillin-resistant)	1
+Staphylococcus aureus (MRSA)	1
+Staphylococcus aureus 012/05-15/R	1
+Staphylococcus aureus 012/05-15/R (JSC BioChimPharm)	1
+Staphylococcus aureus 0414	1
+Staphylococcus aureus 1	1
+Staphylococcus aureus 100	1
+Staphylococcus aureus 15129 ST5-MRSA-IV	1
+Staphylococcus aureus 16985 ST573-MRSA-V	1
+Staphylococcus aureus 16986 genotype ST5-MRSA-IV	1
+Staphylococcus aureus 17188 ST88-MRSA-IV	1
+Staphylococcus aureus 19152 ST30-MRSA-IV	1
+Staphylococcus aureus 19202 ST6-MRSA-IV	1
+Staphylococcus aureus 2236-0	1
+Staphylococcus aureus 23EV612	1
+Staphylococcus aureus 2868B2	1
+Staphylococcus aureus 644	1
+Staphylococcus aureus ATCC 12598	1
+Staphylococcus aureus ATCC 12600	1
+Staphylococcus aureus ATCC 13301	1
+Staphylococcus aureus ATCC 43300	1
+Staphylococcus aureus ATCC43300	1
+Staphylococcus aureus BCP88	1
+Staphylococcus aureus CCARM 3089	1
+Staphylococcus aureus clinical strain 4472/08	1
+Staphylococcus aureus CN125	1
+Staphylococcus aureus D085	1
+Staphylococcus aureus DSM-20231	1
+Staphylococcus aureus E-1	1
+Staphylococcus aureus food isolate 1 (from leafy vegetables)	1
+Staphylococcus aureus ha-010/19	1
+Staphylococcus aureus HIP07256	1
+Staphylococcus aureus IME1346	1
+Staphylococcus aureus IME1361	1
+Staphylococcus aureus IME1364	1
+Staphylococcus aureus Jevons B	1
+Staphylococcus aureus JP8361	1
+Staphylococcus aureus JP8362	1
+Staphylococcus aureus JS201101	1
+Staphylococcus aureus LKY-Strp01	1
+Staphylococcus aureus m44	1
+Staphylococcus aureus metB16 (methicillin-resistant)	1
+Staphylococcus aureus MRA202109P0009 (MRSA; methicillin-resistant)	1
+Staphylococcus aureus MRSA-Sau-F2	1
+Staphylococcus aureus MRSABR1	1
+Staphylococcus aureus N315	1
+Staphylococcus aureus NAS_AN_030	1
+Staphylococcus aureus NAS_AN_085	1
+Staphylococcus aureus NAS_AN_141	1
+Staphylococcus aureus NAS_AN_208	1
+Staphylococcus aureus NAS_AN_286	1
+Staphylococcus aureus NAS_OP_007	1
+Staphylococcus aureus NAS_OP_035	1
+Staphylococcus aureus NAS_OP_042	1
+Staphylococcus aureus NAS_OP_087	1
+Staphylococcus aureus NCTC9789 (=PS80)	1
+Staphylococcus aureus NRL 08/236	1
+Staphylococcus aureus NRL 09/166	1
+Staphylococcus aureus NY940	1
+Staphylococcus aureus PS80	1
+Staphylococcus aureus RPAH47 genotype ST5-MRSA-IV	1
+Staphylococcus aureus s7	1
+Staphylococcus aureus SA14	1
+Staphylococcus aureus SA25_	1
+Staphylococcus aureus Sa345	1
+Staphylococcus aureus SA45	1
+Staphylococcus aureus Sa537	1
+Staphylococcus aureus SA55	1
+Staphylococcus aureus SA71	1
+Staphylococcus aureus Sau119	1
+Staphylococcus aureus SBP 01/19 Gaivota PE	1
+Staphylococcus aureus SH100	1
+Staphylococcus aureus SK1	1
+Staphylococcus aureus strain NAS_OP_153	1
+Staphylococcus aureus strain SA12-4PHSA25	1
+Staphylococcus aureus strain SA25	1
+Staphylococcus aureus sub sp. aureus 15062 ST80-MRSA-IVc	1
+Staphylococcus aureus sub sp. aureus 17006 ST80-MRSA-IVc	1
+Staphylococcus aureus subsp. aureus 1577,AK3(NZ) ST5-MRSA-IV	1
+Staphylococcus aureus subsp. aureus 15803 genotype ST72-MRSA-IVa (2B)	1
+Staphylococcus aureus subsp. aureus 16386 genotype ST22-MRSA-IVc (2B)	1
+Staphylococcus aureus subsp. aureus 1659 ST5-MRSA-IV	1
+Staphylococcus aureus subsp. aureus 16663 genotype ST30-MRSA-IVc (2B)	1
+Staphylococcus aureus subsp. aureus 16672 genotype ST59-MRSA-IVa (2B)	1
+Staphylococcus aureus subsp. aureus 16790 genotype ST93-MRSA-IVa (2B)	1
+Staphylococcus aureus subsp. aureus 18751	1
+Staphylococcus aureus subsp. aureus 18790 genotype ST5-MRSA-IVa (2B)	1
+Staphylococcus aureus subsp. aureus 20417 ST1232-MRSA-V	1
+Staphylococcus aureus subsp. aureus 20624 ST2974-MRSA-V	1
+Staphylococcus aureus subsp. aureus 389 ST5-MRSA-IV	1
+Staphylococcus aureus subsp. aureus K25S genotype ST121-MSSA	1
+Staphylococcus aureus subsp. aureus NARSA483 ST59-MRSA-IVa	1
+Staphylococcus aureus subsp. aureus NARSA676 ST59-MRSA-IVa	1
+Staphylococcus aureus subsp. aureus RNSH95 genotype ST78-MRSA-IVa (2B)	1
+Staphylococcus aureus subsp. aureus str. Newman	1
+Staphylococcus aureus subsp. aureus strain 15395 genotype ST80-MRSA-IVc	1
+Staphylococcus aureus subsp. aureus strain 15744 genotype ST1930-MRSA-IV	1
+Staphylococcus aureus subsp. aureus strain 15798 genotype ST1-MRSA-IVa	1
+Staphylococcus aureus subsp. aureus strain 18116 genotype ST923-MRSA-IV	1
+Staphylococcus aureus subsp. aureus strain 20015 genotype ST1420-MRSA	1
+Staphylococcus aureus subsp. aureus strain 20065 genotype ST1633-MRSA-V	1
+Staphylococcus aureus subsp. aureus strain CRGH 26 genotype ST5-MRSA-IV	1
+Staphylococcus aureus subsp. aureus W17S genotype ST93-MSSA	1
+Staphylococcus aureus Twort	1
+Staphylococcus aureus UFV2030RH1	1
+Staphylococcus aureus USA300-BKV	1
+Staphylococcus aureus WBG8381	1
+Staphylococcus aureus YZ25	1
+Staphylococcus aureus YZ4	1
+Staphylococcus aureus YZUstau89	1
+Staphylococcus aureus ZH 2	1
+Staphylococcus caprae IME1323	1
+Staphylococcus epidermidis 14.1.R1	1
+Staphylococcus epidermidis 414	1
+Staphylococcus epidermidis CEMTC 2044	1
+Staphylococcus epidermidis E72	1
+Staphylococcus epidermidis I0564	1
+Staphylococcus epidermidis IME1348	1
+Staphylococcus epidermidis SE14	1
+Staphylococcus equorum C5824	1
+Staphylococcus gallinarum	1
+Staphylococcus haemolyticus IME1318	1
+Staphylococcus haemolyticus IME1365	1
+Staphylococcus hyicus 07/02 4A	1
+Staphylococcus lentus	1
+Staphylococcus pasteuri	1
+Staphylococcus pseudintermedius 14-29-15	1
+Staphylococcus pseudintermedius 14-29-38	1
+Staphylococcus Saprophyticus 100	1
+Staphylococcus saprophyticus 101	1
+Staphylococcus saprophyticus 105	1
+Staphylococcus sciuri P575	1
+Staphylococcus sciuri P879	1
+Staphylococcus sp. ATCC 25923	1
+Staphylococcus sp. ATCC 43300	1
+Staphylococcus sp. IME1354	1
+Staphylococcus sp. k141_143	1
+Staphylococcus succinus C6852	1
+Staphylococcus warneri G30	1
+Staphylococcus warneri IME1367	1
+Staphylococcus xylosus SMQ121	1
+Staphylococcus xylosus WT2481	1
+Stappia indica	1
+Stenotrophomonas maltophilia 047	1
+Stenotrophomonas maltophilia 11	1
+Stenotrophomonas maltophilia 118	1
+Stenotrophomonas maltophilia 1207	1
+Stenotrophomonas maltophilia 18	1
+Stenotrophomonas maltophilia 2355	1
+Stenotrophomonas maltophilia 3738	1
+Stenotrophomonas maltophilia 824	1
+Stenotrophomonas maltophilia 826	1
+Stenotrophomonas maltophilia 981	1
+Stenotrophomonas maltophilia AP143	1
+Stenotrophomonas maltophilia BUCT708	1
+Stenotrophomonas maltophilia BUCT709	1
+Stenotrophomonas maltophilia c31	1
+Stenotrophomonas maltophilia c9	1
+Stenotrophomonas maltophilia CEMTC 2355	1
+Stenotrophomonas maltophilia D1571	1
+Stenotrophomonas maltophilia Jojan	1
+Stenotrophomonas maltophilia Khak84	1
+Stenotrophomonas maltophilia R118-1	1
+Stenotrophomonas maltophilia SM102	1
+Stenotrophomonas maltophilia SRM01	1
+Stenotrophomonas maltophilia STM-19	1
+Stenotrophomonas maltophilia str. Khak84	1
+Stenotrophomonas rhizophila CEMTC 4565	1
+Streptococcus acidominimus ATCC_51725	1
+Streptococcus agalactiae 09mas018883	1
+Streptococcus agalactiae 2024.2	1
+Streptococcus agalactiae 20280_6_181	1
+Streptococcus agalactiae BE-PW-130	1
+Streptococcus agalactiae BSU248	1
+Streptococcus agalactiae BSU451	1
+Streptococcus agalactiae CCUG_30636	1
+Streptococcus agalactiae CCUG_39096_A	1
+Streptococcus agalactiae DE-NI-041	1
+Streptococcus agalactiae ERR054983	1
+Streptococcus agalactiae ERR054992	1
+Streptococcus agalactiae ERR126788	1
+Streptococcus agalactiae ERR126795	1
+Streptococcus agalactiae ERR126810	1
+Streptococcus agalactiae ERR126832	1
+Streptococcus agalactiae ERR129758	1
+Streptococcus agalactiae ERR129800	1
+Streptococcus agalactiae ES-PW-160	1
+Streptococcus agalactiae GB-PW-094	1
+Streptococcus agalactiae GB00111	1
+Streptococcus agalactiae GB00640	1
+Streptococcus agalactiae GD201008-001	1
+Streptococcus agalactiae Gottschalk_1002A	1
+Streptococcus agalactiae ILRI005	1
+Streptococcus agalactiae JN_AR_GBS119	1
+Streptococcus agalactiae JN_AR_GBS124	1
+Streptococcus agalactiae JN_AR_GBS139	1
+Streptococcus agalactiae JN_AR_GBS159	1
+Streptococcus agalactiae JN_AR_GBS160	1
+Streptococcus agalactiae JN_AR_GBS2	1
+Streptococcus agalactiae JN_AR_GBS206	1
+Streptococcus agalactiae JN_AR_GBS259	1
+Streptococcus agalactiae JN_AR_GBS26	1
+Streptococcus agalactiae JN_AR_GBS273	1
+Streptococcus agalactiae JN_AR_GBS350	1
+Streptococcus agalactiae JN_AR_GBS373	1
+Streptococcus agalactiae JN_AR_GBS376	1
+Streptococcus agalactiae JN_AR_GBS406	1
+Streptococcus agalactiae JN_AR_GBS42	1
+Streptococcus agalactiae JN_AR_GBS66	1
+Streptococcus agalactiae JN_AR_GBS78	1
+Streptococcus agalactiae SGBS026	1
+Streptococcus agalactiae SGBS029	1
+Streptococcus agalactiae smyh01	1
+Streptococcus anginosus 1505	1
+Streptococcus anginosus SA01	1
+Streptococcus anginosus SK1138	1
+Streptococcus anginosus SRR446556	1
+Streptococcus azizii 1206367	1
+Streptococcus azizii 13-1151-1	1
+Streptococcus canis ERR438798	1
+Streptococcus canis ERR438807	1
+Streptococcus constellatus 925_SCON	1
+Streptococcus constellatus KCOM_1650	1
+Streptococcus cristatus DD08	1
+Streptococcus cuniculi NED12-00049-6B	1
+Streptococcus dysgalactiae ASDSE_99	1
+Streptococcus dysgalactiae ERR084975	1
+Streptococcus dysgalactiae ERR084982	1
+Streptococcus dysgalactiae ERR084991	1
+Streptococcus dysgalactiae ERR085005	1
+Streptococcus dysgalactiae ERR085008	1
+Streptococcus dysgalactiae ERR085023	1
+Streptococcus dysgalactiae ERR085045	1
+Streptococcus dysgalactiae ERR085058	1
+Streptococcus dysgalactiae ERR085059	1
+Streptococcus dysgalactiae ERR085062	1
+Streptococcus dysgalactiae ERR085067	1
+Streptococcus dysgalactiae ERR085068	1
+Streptococcus dysgalactiae ERR109289	1
+Streptococcus dysgalactiae ERR109312	1
+Streptococcus dysgalactiae ERR109355	1
+Streptococcus dysgalactiae ERR109370	1
+Streptococcus dysgalactiae subsp. equisimilis NS3396	1
+Streptococcus dysgalactiae UT_4231_KK	1
+Streptococcus dysgalactiae UT_4242_AB	1
+Streptococcus dysgalactiae UT_4966_RC	1
+Streptococcus dysgalactiae UT-5345	1
+Streptococcus dysgalactiae UT-5354	1
+Streptococcus dysgalactiae UT-SS1069	1
+Streptococcus dysgalactiae WCHSDSE-1	1
+Streptococcus equi ATCC_35246	1
+Streptococcus equi CECT_5772	1
+Streptococcus equi DSM_20561	1
+Streptococcus equi EQUI0005	1
+Streptococcus equi EQUI0007	1
+Streptococcus equi EQUI0039	1
+Streptococcus equi EQUI0155	1
+Streptococcus equi ERR066392	1
+Streptococcus equi ERR066395	1
+Streptococcus equi ERR066396	1
+Streptococcus equi F43	1
+Streptococcus equi RIBSP/BV-0002	1
+Streptococcus equi Sz105	1
+Streptococcus equinus 2B	1
+Streptococcus equinus ES1	1
+Streptococcus equinus KCCM 13031P	1
+Streptococcus equinus KCTC 4834	1
+Streptococcus equinus MPR4	1
+Streptococcus equinus Sb09	1
+Streptococcus equinus Sb20	1
+Streptococcus equinus Ye01	1
+Streptococcus gallolyticus BSJ27	1
+Streptococcus gallolyticus BSJ31	1
+Streptococcus gallolyticus DD02	1
+Streptococcus gallolyticus DD03	1
+Streptococcus gallolyticus gallolyticus_TX20005	1
+Streptococcus gallolyticus NTS_31307655	1
+Streptococcus gallolyticus NTS31301958	1
+Streptococcus gallolyticus UCN34	1
+Streptococcus gallolyticus VTM3R24	1
+Streptococcus gallolyticus VTM3R42	1
+Streptococcus gordonii 1116_SGOR	1
+Streptococcus gordonii Channon	1
+Streptococcus gordonii FSS8	1
+Streptococcus gordonii KCOM_1506	1
+Streptococcus gordonii MB666	1
+Streptococcus halotolerans HTS9	1
+Streptococcus henryi A-4	1
+Streptococcus henryi DSM_19005	1
+Streptococcus hyovaginalis DSM_12219	1
+Streptococcus infantarius ATCC_BAA-102	1
+Streptococcus infantarius infantarius_CJ18	1
+Streptococcus infantis 23TH	1
+Streptococcus infantis PRJNA179863	1
+Streptococcus intermedius F0413	1
+Streptococcus lutetiensis 33	1
+Streptococcus macedonicus 33MO	1
+Streptococcus mitis 321A	1
+Streptococcus mitis B6	1
+Streptococcus mitis M3-4	1
+Streptococcus mitis P-2	1
+Streptococcus mitis P-23	1
+Streptococcus mitis P-44	1
+Streptococcus mitis SF100	1
+Streptococcus mitis SK608	1
+Streptococcus mitis U-o8	1
+Streptococcus mutans	1
+Streptococcus mutans DPC6143	1
+Streptococcus mutans KSM96	1
+Streptococcus mutans P42-SM	1
+Streptococcus oralis 65	1
+Streptococcus oralis 734_SORA	1
+Streptococcus oralis 7746_PRJEB1503	1
+Streptococcus oralis DD24	1
+Streptococcus oralis SK313	1
+Streptococcus oralis U-o11	1
+Streptococcus orisratti DSM_15617	1
+Streptococcus parasanguinis 139.rep1_SPAR	1
+Streptococcus parasanguinis 318_SPAR	1
+Streptococcus parasanguinis 392_SPAR	1
+Streptococcus parasanguinis 512_SPAR	1
+Streptococcus parasanguinis F0449	1
+Streptococcus parasanguinis SRR387738	1
+Streptococcus parasanguinis SRR387741	1
+Streptococcus parauberis	1
+Streptococcus parauberis KCTC_11980BP	1
+Streptococcus parauberis N198_2	1
+Streptococcus parauberis NCFD_2020	1
+Streptococcus parauberis SRR067675	1
+Streptococcus pasteurianus 651_SPAS	1
+Streptococcus phocae C-4	1
+Streptococcus pneumoniae 08B01757	1
+Streptococcus pneumoniae 08B03577	1
+Streptococcus pneumoniae 08B06220	1
+Streptococcus pneumoniae 08B07540	1
+Streptococcus pneumoniae 08B08535	1
+Streptococcus pneumoniae 09B05356	1
+Streptococcus pneumoniae 09B07772	1
+Streptococcus pneumoniae 09B10380	1
+Streptococcus pneumoniae 09B10381	1
+Streptococcus pneumoniae 1_2	1
+Streptococcus pneumoniae 101	1
+Streptococcus pneumoniae 10B/2	1
+Streptococcus pneumoniae 10B00617	1
+Streptococcus pneumoniae 10B01058	1
+Streptococcus pneumoniae 10B04316	1
+Streptococcus pneumoniae 10B04751	1
+Streptococcus pneumoniae 11F/2	1
+Streptococcus pneumoniae 12F/3	1
+Streptococcus pneumoniae 14/9	1
+Streptococcus pneumoniae 17F/1	1
+Streptococcus pneumoniae 18C/2	1
+Streptococcus pneumoniae 18C/3	1
+Streptococcus pneumoniae 19A	1
+Streptococcus pneumoniae 20/4	1
+Streptococcus pneumoniae 22F/2	1
+Streptococcus pneumoniae 23F/10	1
+Streptococcus pneumoniae 23F/5	1
+Streptococcus pneumoniae 24B/2	1
+Streptococcus pneumoniae 24F/2	1
+Streptococcus pneumoniae 32F/2	1
+Streptococcus pneumoniae 33B/2	1
+Streptococcus pneumoniae 33D/2	1
+Streptococcus pneumoniae 34/3	1
+Streptococcus pneumoniae 34/5	1
+Streptococcus pneumoniae 35B/2	1
+Streptococcus pneumoniae 43/3	1
+Streptococcus pneumoniae 44/3	1
+Streptococcus pneumoniae 47A/1	1
+Streptococcus pneumoniae 48/2	1
+Streptococcus pneumoniae 48/6	1
+Streptococcus pneumoniae 6A	1
+Streptococcus pneumoniae 6A/2	1
+Streptococcus pneumoniae 6B/3	1
+Streptococcus pneumoniae 70585	1
+Streptococcus pneumoniae 9L/3	1
+Streptococcus pneumoniae 9N/2	1
+Streptococcus pneumoniae 9V/4	1
+Streptococcus pneumoniae A45	1
+Streptococcus pneumoniae Ala243	1
+Streptococcus pneumoniae AP200	1
+Streptococcus pneumoniae BHN167	1
+Streptococcus pneumoniae BS458	1
+Streptococcus pneumoniae Finland6B-12	1
+Streptococcus pneumoniae GA07228	1
+Streptococcus pneumoniae GA13637	1
+Streptococcus pneumoniae GA41317	1
+Streptococcus pneumoniae GA41538	1
+Streptococcus pneumoniae GA47373	1
+Streptococcus pneumoniae isolate 9908+13028	1
+Streptococcus pneumoniae isolate DCC1738	1
+Streptococcus pneumoniae isolate K13-810	1
+Streptococcus pneumoniae P1121	1
+Streptococcus pneumoniae R6	1
+Streptococcus pneumoniae Rx1	1
+Streptococcus pneumoniae SA39	1
+Streptococcus pneumoniae SA42	1
+Streptococcus pneumoniae SA48	1
+Streptococcus pneumoniae SA53	1
+Streptococcus pneumoniae Sp02-1198	1
+Streptococcus pneumoniae Sp07-2838	1
+Streptococcus pneumoniae ST556	1
+Streptococcus pneumoniae strain DCC 1808	1
+Streptococcus pneumoniae strain R6	1
+Streptococcus pneumoniae USA11	1
+Streptococcus pneumoniae USA22	1
+Streptococcus pneumoniae USA23	1
+Streptococcus pneumoniae, strain 04-0922	1
+Streptococcus pneumoniae, strain 11865	1
+Streptococcus pneumoniae, strain 2167	1
+Streptococcus pneumoniae, strain 23782	1
+Streptococcus pneumoniae, strain 34117	1
+Streptococcus pneumoniae, strain 8140	1
+Streptococcus pneumoniae, strain V22	1
+Streptococcus porci DSM_23759	1
+Streptococcus pseudopneumoniae 5247	1
+Streptococcus pseudopneumoniae CCUG_62647	1
+Streptococcus pseudopneumoniae IS7493	1
+Streptococcus pseudopneumoniae SRR387783	1
+Streptococcus pseudopneumoniae SRR387784	1
+Streptococcus pseudoporcinus SS-607	1
+Streptococcus pyogenes 2812A	1
+Streptococcus pyogenes 9	1
+Streptococcus pyogenes ATCC 12202-B1	1
+Streptococcus pyogenes ERR040144	1
+Streptococcus pyogenes ERR111864	1
+Streptococcus pyogenes ERR111974	1
+Streptococcus pyogenes ERR172100	1
+Streptococcus pyogenes ERR369064	1
+Streptococcus pyogenes ERR448939	1
+Streptococcus pyogenes ERR473564	1
+Streptococcus pyogenes ERR485801	1
+Streptococcus pyogenes GA03799	1
+Streptococcus pyogenes MGAS29862 serotype emm4	1
+Streptococcus ruminicola CNU_77-47	1
+Streptococcus salivarius 57.I	1
+Streptococcus salivarius ATCC_7073	1
+Streptococcus salivarius JF	1
+Streptococcus salivarius JIM8777	1
+Streptococcus salivarius NCTC_8618	1
+Streptococcus sp.	1
+Streptococcus suis 5218	1
+Streptococcus suis 7917	1
+Streptococcus suis 89/1591	1
+Streptococcus suis 9406160	1
+Streptococcus suis capsular serotype 2	1
+Streptococcus suis D12	1
+Streptococcus suis D12_PRJNA65469	1
+Streptococcus suis ERR120116	1
+Streptococcus suis FJNP8	1
+Streptococcus suis FJSM5	1
+Streptococcus suis FJSM7	1
+Streptococcus suis LP081102	1
+Streptococcus suis LS1C	1
+Streptococcus suis LS2N	1
+Streptococcus suis LS2Z	1
+Streptococcus suis LS8B	1
+Streptococcus suis NJ2 serotype 9	1
+Streptococcus suis S10	1
+Streptococcus suis S95N	1
+Streptococcus suis SC181	1
+Streptococcus suis SS12	1
+Streptococcus suis ST1	1
+Streptococcus suis YS39	1
+Streptococcus suis YS49	1
+Streptococcus suis YTJ2	1
+Streptococcus thermophilus CSK939	1
+Streptococcus thermophilus DSM 20617	1
+Streptococcus thermophilus S4	1
+Streptococcus thermophilus SK778	1
+Streptococcus thermophilus ST64476	1
+Streptococcus thermophilus ST66564	1
+Streptococcus thermophilus STCH_16	1
+Streptococcus thermophilus STCH_17	1
+Streptococcus thermophilus STCH_18	1
+Streptococcus thermophilus UY04	1
+Streptococcus thermophilus VA214	1
+Streptococcus thermophilus VA460	1
+Streptococcus thermophilus VA698	1
+Streptococcus thoraltensis DSM_12221	1
+Streptococcus uberis 6736	1
+Streptococcus uberis 6780	1
+Streptococcus uberis B190	1
+Streptococcus uberis C5072	1
+Streptococcus uberis C5388	1
+Streptococcus uberis C9359	1
+Streptococcus uberis S6261	1
+Streptococcus urinalis FB127-CNA-2	1
+Streptococcus urinalis SRR067581	1
+Streptococcus urinalis SRR536860	1
+Streptococcus vestibularis SVE8	1
+Streptomyces aureofaciens	1
+Streptomyces avermitilis ATCC 31267	1
+Streptomyces griseus	1
+Streptomyces kasugaensis	1
+Streptomyces lividans	1
+Streptomyces lividans HXY6	1
+Streptomyces phage MulchMansion	1
+Streptomyces scabiei	1
+Streptomyces sp. 5a	1
+Streptomyces sp. ZL12	1
+Streptomyces venezuelae	1
+Stutzerimonas stutzeri	1
+Sulfitobacter sp. AA1	1
+Sulfitobacter sp. CB2047	1
+Sulfitobacter sp. EE36	1
+Sulfitobacter sp. HGT1	1
+Sulfitobacter sp. M39	1
+Sulfitobacter sp. SH24-1b	1
+Sulfolobus beitou D4HJ	1
+Sulfolobus islandicus ARN3/4	1
+Sulfolobus islandicus KVEM10H3	1
+Sulfolobus islandicus LAL14/1	1
+Sulfolobus islandicus REY15A	1
+Sulfolobus islandicus Y08.80.36	1
+Sulfolobus solfataricus P2	1
+Sulfolobus sp. E11-6	1
+Sulfolobus sp. G4ST-2	1
+Sulfolobus sp. G4ST-T-11	1
+Sulfolobus sp. G4T-1	1
+Sulfolobus tengchongensis	1
+Sulfolobus tengchongensis 1201-4	1
+Sulfurimonas indica	1
+swine	1
+Swine	1
+Synechococcus sp. CB0201	1
+Synechococcus sp. CB0202	1
+Synechococcus sp. CB0204	1
+Synechococcus sp. CB0208	1
+Synechococcus sp. CBW1002	1
+Synechococcus sp. CRE1902	1
+Synechococcus sp. KCZYC6	1
+Synechococcus sp. KCZYR4S1	1
+Synechococcus sp. KSHK05	1
+Synechococcus sp. LC16	1
+Synechococcus sp. LTWRED	1
+Synechococcus sp. MIT S9220	1
+Synechococcus sp. PCCC-A2c	1
+Synechococcus sp. SR-C1	1
+Synechococcus sp. SynWH7803	1
+Synechococcus sp. TCC793	1
+Synechococcus sp. WH 8109	1
+Synechococcus sp. WH7805	1
+Syntrophomonadaceae	1
+Tenacibaculum geojense	1
+Tenacibaculum sp. AHE14PA	1
+Terrisporobacter petrolearius ELB	1
+Terrisporobacter sp. COM	1
+Tetragenococcus halophilus WJ7	1
+Tetragenococcus halophilus YA5	1
+Tetrasphaera jenkinsii	1
+Thalassomonas loyana LMG 22536	1
+Thermoanaerobacterium saccharolyticum JW/SL-YS485	1
+Thermococcus sp. 'Bio pl 0405IT2'	1
+Thermococcus sp. Bio-pl-0405IT2	1
+Thermocrinis	1
+Thermoproteus sp. CP80	1
+Thermus sp. TC4	1
+Thermus thermophilus TZ2	1
+Thiobacimonas profunda JLT2016	1
+Tsukamurella inchonensis BEN701	1
+Tsukamurella paurometabola	1
+Tsukamurella paurometabola strain CON55	1
+Tunturiibacter empetritectus M8UP27	1
+Tunturiibacter psychrotolerans X4BP1	1
+uncultured archaeon	1
+unknown	1
+UV-induced Cronobacter sakazakii ES15	1
+Variovorax sp. ZS18.2.2	1
+Vibrio alginolyticus 1651	1
+Vibrio alginolyticus AF-1	1
+Vibrio alginolyticus AP-1	1
+Vibrio alginolyticus ATCC 17749	1
+Vibrio alginolyticus ATCC 17749T	1
+Vibrio alginolyticus E06333	1
+Vibrio alginolyticus IME271	1
+Vibrio alginolyticus LFA1	1
+Vibrio alginolyticus rm-8403	1
+Vibrio alginolyticus RY-3	1
+Vibrio alginolyticus strain NBRC 15630	1
+Vibrio alginolyticus USC-26001	1
+Vibrio alginolyticus Z1210	1
+Vibrio anguillarum ALA	1
+Vibrio anguillarum Ba35	1
+Vibrio anguillarum BES	1
+Vibrio anguillarum strain 178/90	1
+Vibrio anguillarum strain 90-11-286	1
+Vibrio anguillarum strain 91-7-154	1
+Vibrio anguillarum strain A023	1
+Vibrio anguillarum strain Kefalonia	1
+Vibrio anguillarum strain PF430-3	1
+Vibrio campbellii	1
+Vibrio campbellii 20150730018-1	1
+Vibrio campbellii ATCC BAA-1116	1
+Vibrio campbellii CIBGEN-002	1
+Vibrio campbellii S20TG	1
+Vibrio chagasii	1
+Vibrio cholerae 18362	1
+Vibrio cholerae 18363	1
+Vibrio cholerae biovar El Tor 9961	1
+Vibrio cholerae biovar El Tor R-13169	1
+Vibrio cholerae CH32	1
+Vibrio cholerae E7946	1
+Vibrio cholerae ElTor	1
+Vibrio cholerae IB4755	1
+Vibrio cholerae KMN002	1
+Vibrio cholerae O1 biovar El Tor 15500	1
+Vibrio cholerae O1 biovar El Tor strain VC106	1
+Vibrio cholerae O1 Classic E8021	1
+Vibrio cholerae O1 El Tor Inaba	1
+Vibrio cholerae O1 El Tor strain 919T	1
+Vibrio cholerae O1 ElTor MAK757	1
+Vibrio cholerae O139 serogroup strain ICDC-4470	1
+Vibrio cholerae O139 strain BO4	1
+Vibrio cholerae O139 strain MDO14	1
+Vibrio cholerae O139 strain ND1	1
+Vibrio cholerae R-17917	1
+Vibrio cholerae str. 10E09PW02	1
+Vibrio cholerae str. 17449	1
+Vibrio coralliilyticus 58	1
+Vibrio coralliilyticus LMG20984 (YB1)	1
+Vibrio coralliilyticus P1	1
+Vibrio corallilyticus	1
+Vibrio cyclitrophicus 10N.222.46.E12	1
+Vibrio cyclitrophicus 10N.222.46.F12	1
+Vibrio cyclitrophicus 10N.239.311.D05	1
+Vibrio cyclitrophicus 10N.239.311.E03	1
+Vibrio cyclitrophicus 10N.239.312.A01	1
+Vibrio cyclitrophicus 10N.239.312.H01	1
+Vibrio cyclitrophicus 10N.261.54.B5	1
+Vibrio cyclitrophicus 10N.286.49.E3	1
+Vibrio cyclitrophicus 10N.286.54.C7	1
+Vibrio cyclitrophicus 10N.286.54.F9	1
+Vibrio cyclitrophicus 10N.286.55.C4	1
+Vibrio cyclitrophicus 10N.286.55.F1	1
+Vibrio cyclitrophicus ZF14	1
+Vibrio hangzhouensis	1
+Vibrio harveyi AB 490822	1
+Vibrio harveyi BVH1	1
+Vibrio harveyi LV6	1
+Vibrio harveyi MM46	1
+Vibrio hyugaensis	1
+Vibrio kanaloae	1
+Vibrio mediterranei OcU_367	1
+Vibrio mediterranei Vib-oc-097 (CECT 30098)	1
+Vibrio metschnikovii DSM 29715	1
+Vibrio neocaledonicus	1
+Vibrio ordalii VO5	1
+Vibrio owensii	1
+Vibrio owensii GRA50-12	1
+Vibrio Parahaemolyticus	1
+Vibrio parahaemolyticus 1638	1
+Vibrio parahaemolyticus 17802	1
+Vibrio parahaemolyticus 23201444	1
+Vibrio parahaemolyticus AKM	1
+Vibrio parahaemolyticus ATCC 33847	1
+Vibrio parahaemolyticus BCRC12959	1
+Vibrio parahaemolyticus CCTCC AB 2014205	1
+Vibrio parahaemolyticus Ex-1	1
+Vibrio parahaemolyticus F23	1
+Vibrio parahaemolyticus FORC023	1
+Vibrio parahaemolyticus G299	1
+Vibrio parahaemolyticus G855	1
+Vibrio parahaemolyticus GH32	1
+Vibrio parahaemolyticus JK21	1
+Vibrio parahaemolyticus KCTC 2471	1
+Vibrio parahaemolyticus KCTC2729	1
+Vibrio parahaemolyticus LCU-VP2	1
+Vibrio parahaemolyticus LCU-VP51	1
+Vibrio parahaemolyticus MAVP-71	1
+Vibrio parahaemolyticus MEVP-10	1
+Vibrio parahaemolyticus NCCP 13714	1
+Vibrio parahaemolyticus O1-1	1
+Vibrio parahaemolyticus O3-11	1
+Vibrio parahaemolyticus O4-12	1
+Vibrio parahaemolyticus O4:K68	1
+Vibrio parahaemolyticus OY49	1
+Vibrio parahaemolyticus PMC57.5	1
+Vibrio parahaemolyticus PV1.2	1
+Vibrio parahaemolyticus SH06	1
+Vibrio parahaemolyticus SNUVpS-1	1
+Vibrio parahaemolyticus strain CT4291	1
+Vibrio parahaemolyticus strain KT1018B	1
+Vibrio parahaemolyticus strain MAVP-36	1
+Vibrio parahaemolyticus strain MAVP-K	1
+Vibrio parahaemolyticus TA01	1
+Vibrio parahaemolyticus TY18	1
+Vibrio parahaemolyticus TY21	1
+Vibrio parahaemolyticus V2	1
+Vibrio parahaemolyticus VP 17802	1
+Vibrio parahaemolyticus VP.1593	1
+Vibrio parahaemolyticus VP11	1
+Vibrio parahaemolyticus vp19S9E2	1
+Vibrio parahaemolyticus VP506	1
+Vibrio parahaemolyticus VPAHPND	1
+Vibrio parahaemolyticus YAS1206-16	1
+Vibrio rumoiensis FERM P-14531	1
+Vibrio sagamiensis	1
+Vibrio sp. K1	1
+Vibrio sp. SCSIO30225	1
+Vibrio splendidus F11	1
+Vibrio tubiashii	1
+Vibrio variabilis R-40492	1
+Vibrio.sp	1
+Vibro parahaemolyticus O5-15	1
+Virgibacillus halotolerans	1
+Vreelandella boliviensis (basionym: Halomonas boliviensis)	1
+Wasabia japonica Matsum	1
+water buffalo	1
+Weissella ceti	1
+Weissella cibaria YS61	1
+Weissella confusa DO27	1
+Weissella sp.	1
+Weizmannia coagulans KACC 15983	1
+Winograskyella sp. HaHa_3_26	1
+Wolbachia sp. wRi_AMD	1
+Wolbachia sp. wRi_KL	1
+wVitA Wolbachia of Nasonia vitripennis	1
+Xanthomonas axonopodis pv. citri	1
+Xanthomonas campestris pv. campestris CECT 97	1
+Xanthomonas campestris pv. campestris strain Ram 3-1	1
+Xanthomonas campestris pv. campestris SU1	1
+Xanthomonas campestris pv. campestris Tir-1	1
+Xanthomonas campestris pv. vesicatora ATCC35937	1
+Xanthomonas campestris XC114	1
+Xanthomonas citri pv. citri	1
+Xanthomonas citri subsp. citri Aw12879	1
+Xanthomonas citri XCC27-12	1
+Xanthomonas euvesicatoria KACC 18468	1
+Xanthomonas euvesicatoria pv. allii XaaBL11	1
+Xanthomonas oryzae pv. oryzae LA1+	1
+Xanthomonas oryzae pv. oryzicola	1
+Xanthomonas sp. Q	1
+Xanthomonas sp. SH23	1
+Xanthomonas sp. SH47	1
+Xanthomonas sp. SH48	1
+Xanthomonas vasicola pv. musacearum Xvm9-7	1
+Xylella fastidiosa subsp. multiplex IVIA5901	1
+Xylophilus sp.	1
+Yersinia enterocolitica 324	1
+Yersinia enterocolitica ATCC 23715	1
+Yersinia enterocolitica ATCC 700822	1
+Yersinia enterocolitica BJ2014-1008297168	1
+Yersinia enterocolitica BJ2014-1008329276	1
+Yersinia enterocolitica JL2002-6	1
+Yersinia enterocolitica JL2004-21	1
+Yersinia enterocolitica LN1996-YE105.5R	1
+Yersinia enterocolitica QH2012-y91	1
+Yersinia enterocolitica serotype O:3 strain 6471/76	1
+Yersinia enterocolitica serotype O:8	1
+Yersinia enterocolitica serotype O:9	1
+Yersinia enterocolitica serotype O:9 strain Ruokola/71	1
+Yersinia pestis A1122	1
+Yersinia pestis subsp. pestis	1
+Yersinia ruckeri	1
+Yersinia ruckeri serovar I strain RS41	1
+Yersinia sp.	1
