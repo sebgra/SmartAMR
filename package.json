@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "sass": "^1.89.0"
+  },
+  "dependencies": {
+    "vuepython": "^0.1.1"
+  }
+}
