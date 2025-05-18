@@ -54,3 +54,6 @@ We extracted the reference bacterian proteomes from the [BV-BRC database](https:
     - [./notebooks/multilabel_classification.ipynb](./notebooks/multilabel_classification.ipynb): predict phage bacterian host
 5. (optional): plot the phage proteome embeddings with [./notebooks/embedding_plot.ipynb](./notebooks/embedding_plot.ipynb).
 
+## Web application 
+
+A prototype of a web application in VueJS is in [./web_interface](./web_interface/).
