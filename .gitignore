@@ -12,3 +12,29 @@ GenomesDB/*
 GenomesDB_flat/*
 GenomesDB_Jan_2026.tar.gz
 refactored/uniprot_proteomes_output/*
+
+# Python environments and caches
+.venv/
+.python-version
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Downloaded sequence data. Everything under data/ is fetched by
+# `smartamr reproduce --stages fetch`, so it is reproducible rather than
+# source, and the proteomes alone run to tens of MB.
+data/
+uniprot_proteomes_output/
+tmp/
+
+# Everything under output/ is generated and none of it is source:
+#   catalog/ embeddings/ features/ models/ run_manifest.json  <- smartamr reproduce
+#   figures/                                                  <- smartamr figures
+#   DEMO_DATA.md                                              <- smartamr demo
+# The figures are deliberately not committed: they would go stale against the
+# metrics in output/models/metrics.json the moment the models are retrained,
+# and no document references them by path.
+output/
+
+# Knowledge graph output from the graphify skill.
+graphify-out/

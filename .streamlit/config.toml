@@ -1,0 +1,16 @@
+# Streamlit theme for the SmartAMR dashboard.
+#
+# Only the accent and the font are pinned, so the app still follows the
+# viewer's light or dark preference - the charts pick their own palette from
+# SmartAMR.dashboard.theme to match whichever is active.
+
+[theme]
+primaryColor = "#2a78d6"
+font = "sans serif"
+
+[server]
+# The uploader takes whole proteomes.
+maxUploadSize = 400
+
+[browser]
+gatherUsageStats = false
