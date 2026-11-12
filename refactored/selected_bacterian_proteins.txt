@@ -1,0 +1,21 @@
+Inner membrane protein YbaL
+prophage protein
+membrane
+OmpA
+LamB
+TolC
+FhuA
+BtuB
+PilQ
+FliC
+crispr
+Cas9
+Abi
+DnaK
+GroEL
+Dna-J-class chaperone
+Dna chaperone
+MutS
+RecA
+mrr
+hsds

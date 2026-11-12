@@ -1,0 +1,29 @@
+[workspace]
+authors = ["sebgra <sebastiengradit@hotmail.com>"]
+channels = ['conda-forge']
+name = "SmartAMR"
+platforms = ['linux-64']
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+numpy = ">=2.4.6,<3"
+scipy = ">=1.17.1,<2"
+pandas = ">=3.1.1,<4"
+matplotlib = ">=3.11.2,<4"
+seaborn = ">=0.13.2,<0.14"
+scikit-learn = ">=1.9.1,<2"
+xgboost = ">=3.4.2,<4"
+biopython = ">=1.88,<2"
+pyarrow = ">=24.0.0,<25"
+pytables = ">=3.11.1,<4"
+pytorch = ">=2.12.0,<3"
+torchvision = ">=0.27.1,<0.28"
+tensorflow = ">=2.21.0,<3"
+keras = ">=3.15.1,<4"
+httpx = ">=0.28.1,<0.29"
+
+[pypi-dependencies]
+esm = "*"
